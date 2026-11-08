@@ -1,5 +1,6 @@
 # MOODWAAVE: Lightweight, High-Efficiency Music Genre and Emotion Analysis on Edge CPU Hardware
 
+[![DOI](https://zenodo.org/badge/1449926159.svg)](https://doi.org/10.5281/zenodo.24047490)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python: 3.13](https://img.shields.io/badge/Python-3.13.7-blue.svg)](requirements.txt)
 [![Python: 3.11/3.12 (Embeddings)](https://img.shields.io/badge/Python-3.11%20%7C%203.12-blueviolet.svg)](requirements_embeddings.txt)
@@ -69,7 +70,6 @@ release/
 ├── CITATION.cff                        # Machine-readable academic citation metadata
 ├── .zenodo.json                        # Zenodo archival and DOI minting configuration
 ├── .gitignore                          # Strict git ignore (excludes raw audio binaries)
-├── PUSH_STEPS.md                       # Git publishing manual (DO NOT push automatically)
 ├── requirements.txt                    # Pinned Python 3.13 dependencies for core MOODWAAVE
 ├── requirements_embeddings.txt         # Python 3.11/3.12 dependencies for foundation models
 ├── CHANGES.md                          # Comprehensive release changelog
@@ -389,8 +389,8 @@ If you use the MOODWAAVE architecture, feature representations, or conformal pre
   journal   = {[Journal / Conference Venue Placeholder, e.g., IEEE Transactions on Audio, Speech, and Language Processing / ISMIR]},
   year      = {2026},
   month     = {11},
-  doi       = {10.5281/zenodo.placeholder},
-  url       = {https://github.com/placeholder-org/MOODWAAVE}
+  doi       = {10.5281/zenodo.24047490},
+  url       = {https://doi.org/10.5281/zenodo.24047490}
 }
 ```
 For machine-readable citation metadata, refer to [`CITATION.cff`](CITATION.cff) and [`.zenodo.json`](.zenodo.json).

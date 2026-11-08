@@ -1,6 +1,7 @@
 cff-version: 1.2.0
 message: "If you use the MOODWAAVE architecture, benchmark methodology, or pre-extracted features in your research, please cite it as below."
 title: "MOODWAAVE: Lightweight, High-Efficiency Music Genre and Emotion Analysis on Edge CPU Hardware"
+doi: "10.5281/zenodo.24047490"
 authors:
   - family-names: "[Author Lastname]"
     given-names: "[Author Firstname]"
@@ -18,8 +19,8 @@ preferred-citation:
   journal: "[Journal / Conference Venue Placeholder, e.g., IEEE Transactions on Audio, Speech, and Language Processing / ISMIR]"
   year: 2026
   month: 11
-  doi: "10.5281/zenodo.placeholder"
-  url: "https://github.com/placeholder-org/MOODWAAVE"
+  doi: "10.5281/zenodo.24047490"
+  url: "https://doi.org/10.5281/zenodo.24047490"
 keywords:
   - "music information retrieval"
   - "audio feature extraction"

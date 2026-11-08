@@ -48,7 +48,7 @@ This release consolidates all research phases of the **MOODWAAVE** architecture,
   - Quoted exact license terms for GTZAN (Non-commercial academic research), PMEmo (CC BY-NC-SA 4.0), FMA (CC BY 4.0), and DEAM (CC BY-NC 4.0).
   - Listed licensing information for all foundation models: VGGish (Apache 2.0), PANNs CNN14 (MIT), MERT-v1-95M (Apache 2.0), and CLAP (Apache 2.0 / MIT).
 * **Citation & Metadata (`CITATION.cff` & `.zenodo.json`)**:
-  - Updated `CITATION.cff` with DOI placeholder (`10.5281/zenodo.placeholder`), release date `2026-11-03`, version `1.0.0`, and comprehensive keywords.
+  - Updated `CITATION.cff` and `README.md` with minted Zenodo DOI (`10.5281/zenodo.24047490`), release date `2026-11-03`, version `1.0.0`, and comprehensive keywords.
   - Added `.zenodo.json` to automate GitHub-to-Zenodo deposit metadata ingestion.
 * **Git Publishing Guide (`PUSH_STEPS.md`) & `.gitignore`**:
   - Added `.gitignore` to prevent committing raw audio binaries or system artifacts.

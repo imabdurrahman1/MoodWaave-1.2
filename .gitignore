@@ -28,8 +28,18 @@ wheels/
 # Virtual environments
 venv/
 .venv/
+venv*/
+.venv*/
 env/
 ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files and credentials
+.env
+.env.*
+
 
 # Audio Files (Strictly excluded from redistribution)
 *.wav
@@ -53,4 +63,7 @@ desktop.ini
 
 # Temporary log files
 *.log
+
+# Internal publishing notes
+PUSH_STEPS.md
 
