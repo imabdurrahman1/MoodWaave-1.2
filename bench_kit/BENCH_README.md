@@ -1,6 +1,6 @@
 # MOODWAAVE Platform & Library Benchmark Kit
 
-A self-contained, cross-platform benchmarking suite to profile **MOODWAAVE** audio feature extraction and inference latency across hardware architectures (Intel/AMD x86_64, ARM aarch64, Apple Silicon) and DSP libraries (`librosa` vs. `essentia` / `torchaudio` + `nnAudio`).
+A self-contained benchmarking suite to profile **MOODWAAVE** audio feature extraction and inference latency across hardware architectures (Intel/AMD x86_64, ARM aarch64, Apple Silicon) and DSP libraries (`librosa` vs. `essentia` / `torchaudio` + `nnAudio`). Designed to be portable across Windows, Linux and ARM; tested on Windows only.
 
 ---
 

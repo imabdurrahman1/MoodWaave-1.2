@@ -74,8 +74,15 @@ HARTE_PROJECTION_TORCH = torch.tensor(HARTE_PROJECTION_NP, dtype=torch.float32)
 
 def get_cpu_model_name():
     """Detect CPU model string across Windows, Linux, and macOS/ARM."""
-    # 1. Windows WMIC
+    # 1. Windows CIM / WMIC
     if platform.system() == "Windows":
+        try:
+            import subprocess
+            res = subprocess.run(["powershell", "-Command", "(Get-CimInstance Win32_Processor).Name"], capture_output=True, text=True)
+            if res.returncode == 0 and res.stdout.strip():
+                return res.stdout.strip()
+        except Exception:
+            pass
         try:
             import subprocess
             out = subprocess.check_output("wmic cpu get name", shell=True, text=True, stderr=subprocess.DEVNULL).strip()

@@ -45,8 +45,8 @@ This release consolidates all research phases of the **MOODWAAVE** architecture,
   - Clarified that pre-extracted tabular features and metadata are distributed under their respective upstream research licenses.
 * **Dataset Governance (`DATA_NOTICE.md`)**:
   - Explicitly stated that derived feature tables are included only where upstream licensing explicitly permits research derivatives.
-  - Quoted exact license terms for GTZAN (Non-commercial academic research), PMEmo (CC BY-NC-SA 4.0), FMA (CC BY 4.0), and DEAM (CC BY-NC 4.0).
-  - Listed licensing information for all foundation models: VGGish (Apache 2.0), PANNs CNN14 (MIT), MERT-v1-95M (Apache 2.0), and CLAP (Apache 2.0 / MIT).
+  - Specified verified upstream licensing status for GTZAN, PMEmo, FMA, and DEAM ("unverified, check source" where unconfirmed).
+  - Listed accurate licensing and pretraining data information for foundation models: VGGish (Apache 2.0, YouTube-8M), PANNs CNN14 (MIT, AudioSet), and MERT-v1-95M (CC-BY-NC-4.0, 20,000h internet music). CLAP was removed.
 * **Citation & Metadata (`CITATION.cff` & `.zenodo.json`)**:
   - Updated `CITATION.cff` and `README.md` with minted Zenodo DOI (`10.5281/zenodo.24047490`), release date `2026-11-03`, version `1.0.0`, and comprehensive keywords.
   - Added `.zenodo.json` to automate GitHub-to-Zenodo deposit metadata ingestion.

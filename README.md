@@ -33,30 +33,35 @@ State-of-the-art deep audio neural networks (e.g., VGGish, PANNs CNN14, MERT-v1-
 
 **MOODWAAVE** demonstrates that carefully curated tabular acoustic features paired with tuned gradient boosted decision trees (**LightGBM**) achieve predictive parity with heavyweight deep neural representations while consuming a fraction of the compute, latency, and memory:
 
-* **Predictive Parity at 37% Lower Feature Dimension**:
-  The full baseline pipeline (**Full-113**) extracts 113 acoustic features spanning 6 groups (MFCC, Chroma, Tonnetz, Spectral, Spectral Contrast, and Temporal). By auditing computation costs, we identified that Chroma (24) and Tonnetz (12) consume ~78% of the total extraction time. **MOODWAAVE-Lite** (71 features: MFCC 52 + Spectral Contrast 14 + Temporal 5) drops Chroma and Tonnetz entirely while maintaining strict statistical equivalence to the full set:
-  - **Genre Accuracy (GTZAN, 5x5 Repeated Stratified Group CV)**: MOODWAAVE-Lite achieves **74.12%** (Macro-F1: **0.7329**) vs. Full-113 at **74.96%** (Macro-F1: **0.7410**). The difference is statistically negligible (\(\Delta = -0.84\%\), paired corrected resampled \(t = -1.181, p = 0.2492\); Wilcoxon signed-rank \(W = 104.0, p = 0.1654\); 95% CI: \([-2.31\%, +0.63\%]\)).
-  - **Emotion Regression (PMEmo, 5x5 Repeated Group CV)**: Valence \(R^2 = 0.3546\) (Full-113: \(0.3556\), \(p = 0.9329\)); Arousal \(R^2 = 0.6033\) (Full-113: \(0.6022\), \(p = 0.9405\)). Equivalence within a \(\pm 1.5\%\) \(R^2\) margin is rigorously established via Two One-Sided Tests (TOST, \(p < 10^{-12}\)).
-* **Dramatic CPU Latency Reduction**:
-  Benchmarked on a consumer quad-core Intel Core i5 laptop under strict single-threaded CPU conditions (timed region = audio loading + feature extraction + inference of all 3 models):
-  - **MOODWAAVE-Lite-71**: **144.17 ms** total latency per 30s track (**Real-Time Factor RTF = 0.0048**, processing audio **208x faster than real-time playback**).
-  - **Full-113 (Tonnetz V1)**: **436.42 ms** (RTF = 0.0145), yielding a **3.03x end-to-end speedup** for MOODWAAVE-Lite.
-  - **Original-113 (Tonnetz V0)**: **2,770.1 ms** (RTF = 0.0923), yielding an **11.85x speedup** for MOODWAAVE-Lite.
-* **Superiority over Foundation Audio Models**:
-  - **VGGish (128-dim)**: **1,940.73 ms** latency (RTF = 0.0647, **13.5x slower than MOODWAAVE-Lite**) while requiring 275.6 MB parameters.
-  - **PANNs CNN14 (2048-dim)**: **2,246.68 ms** latency (RTF = 0.0749, **15.6x slower than MOODWAAVE-Lite**) with 325.2 MB parameters. Probing accuracy (68.03%) is lower than MOODWAAVE-Lite (74.12%).
-  - **MERT-v1-95M (768-dim)**: **6,543.14 ms** latency (RTF = 0.2181, **45.4x slower than MOODWAAVE-Lite**) with 379.8 MB parameters.
-* **Compact Model Footprint**:
-  The total serialized size of all 3 MOODWAAVE-Lite models (Genre Classifier + Valence Regressor + Arousal Regressor) is only **6.95 MB** (over **40x smaller** than VGGish and **55x smaller** than MERT).
+* **Predictive Performance at 37% Lower Feature Dimension**:
+  The full baseline pipeline (**Full-113**) extracts 113 acoustic features spanning 6 groups (MFCC, Chroma, Tonnetz, Spectral, Spectral Contrast, and Temporal). By auditing computation costs, we identified that Chroma (24) and Tonnetz (12) consume ~78-86% of the total extraction time. **MOODWAAVE-Lite** (71 features: MFCC 52 + Spectral Contrast 14 + Temporal 5) drops Chroma and Tonnetz entirely:
+  - **Genre Accuracy (GTZAN, 15 Outer Folds: 5 Folds x 3 Repeats, Artist-Disjoint)**: MOODWAAVE-Lite achieves **60.72% ± 6.24%** (Macro-F1: **0.5967 ± 0.0601**) vs. Full-113 at **63.31% ± 5.67%** (Macro-F1: **0.6275 ± 0.0498**). The difference is \(\Delta = -2.59\%\) (Nadeau-Bengio corrected resampled \(t = -1.732, p = 0.1053\); 90% CI: \([-5.23\%, +0.04\%]\); Holm-adjusted \(p = 0.7370\)), which is statistically inconclusive at the preset \(\pm 2.0\%\) TOST margin.
+  - **Emotion Regression (PMEmo, 10 Outer Folds: 5 Folds x 2 Repeats, Artist-Disjoint)**: 
+    - Valence: MOODWAAVE-Lite achieves \(R^2 = 0.4516 \pm 0.0631\) (Full-113: \(0.4595 \pm 0.0577\), \(\Delta = -0.0079, p = 0.5318\); 90% CI: \([-0.0302, +0.0144]\)).
+    - Arousal: MOODWAAVE-Lite achieves \(R^2 = 0.6627 \pm 0.0400\) (Full-113: \(0.6665 \pm 0.0427\), \(\Delta = -0.0038, p = 0.6077\); 90% CI: \([-0.0170, +0.0094]\)). Equivalence within the preset \(\pm 0.02\) \(R^2\) margin is rigorously established via Two One-Sided Tests (TOST, \(p < 0.05\)).
+* **Dramatic CPU Latency Reduction (Canonical Source: `experiments/rev2_final_timing`)**:
+  Benchmarked on an 11th Gen Intel Core i5 laptop under strict single-threaded CPU conditions (OMP/MKL/OPENBLAS/NUMBA/torch = 1, median of 3 repeats across 100 tracks per dataset; timed region = audio loading + feature extraction + inference of all 3 models):
+  - **GTZAN (WAV)**:
+    - **MOODWAAVE-Lite-71**: **119.74 ms** total latency per 30s track (**Real-Time Factor RTF = 0.00399**, processing audio **250x faster than real-time playback**; feature extraction: 115.69 ms, predictions: 2.33 ms).
+    - **Full-113 (Tonnetz V1)**: **240.11 ms** (RTF = 0.00800), yielding a **2.01x end-to-end speedup** for MOODWAAVE-Lite.
+    - **Original-113 (Tonnetz V0)**: **1,763.45 ms** (RTF = 0.05878), yielding a **14.73x speedup** for MOODWAAVE-Lite.
+  - **PMEmo (MP3)**:
+    - **MOODWAAVE-Lite-71**: **164.57 ms** total latency per 30s track (**RTF = 0.00549**, audio loading: 50.79 ms MP3 decode overhead, feature extraction: 111.27 ms, predictions: 2.34 ms).
+    - **Original-113 (Tonnetz V0)**: **1,729.02 ms** (10.51x slower).
+* **Efficiency vs Foundation Audio Models (Exact Table Ratios)**:
+  - **VGGish (128-dim, Apache 2.0)**: **720.78 ms** on GTZAN (**6.02x slower than MOODWAAVE-Lite**) and **732.42 ms** on PMEmo (**4.45x slower**) with 275.24 MB serialized size.
+  - **PANNs CNN14 (2048-dim, MIT)**: **1,619.14 ms** on GTZAN (**13.52x slower than MOODWAAVE-Lite**) and **1,589.12 ms** on PMEmo (**9.66x slower**) with 312.30 MB size. Probing mood heads exhibit variance collapse and instability unless zero-variance dimensions are filtered.
+  - **MERT-v1-95M (768-dim, CC-BY-NC-4.0)**: **11,186.84 ms** on GTZAN (**93.42x slower than MOODWAAVE-Lite**) and **10,138.50 ms** on PMEmo (**61.61x slower**) with 360.09 MB size.
+* **Ultra-Compact Model Footprint**:
+  The total serialized size of all 3 MOODWAAVE-Lite models (Genre Classifier + Valence Regressor + Arousal Regressor) is only **3.96 MB** (**69.5x smaller** than VGGish, **78.9x smaller** than PANNs, and **90.9x smaller** than MERT).
 * **Cross-Dataset Generalizability**:
-  - **FMA-Small (800 tracks, 147 artists)**: Validates that LightGBM (64.38% accuracy) achieves parity with Random Forest (64.12%) and MLP (63.88%), confirming that tabular acoustic representations transfer cleanly across datasets.
-  - **DEAM Emotion Benchmark (1,802 tracks)**: Strict TOST equivalence confirmed between MOODWAAVE-Lite and Full-113 on DEAM Valence (\(\Delta R^2 = -0.0007, p < 10^{-10}\)) and Arousal (\(\Delta R^2 = +0.0003, p < 10^{-10}\)).
-  - **Zero-Shot Transfer**: Models trained on PMEmo achieve zero-shot cross-dataset transfer to DEAM with positive correlation (\(r = 0.4485\) for Valence, \(r = 0.5097\) for Arousal) without fine-tuning.
+  - **FMA-Small (800 tracks balanced subset, 566 unique artists)**: LightGBM Full-113 achieves 42.10% ± 2.54% accuracy (Lite-71: 40.59% ± 4.03%, Random Forest: 44.63% ± 0.95%, MLP under-tuned baseline: 39.83% ± 4.67%).
+  - **DEAM Emotion Benchmark (1,802 tracks)**: Strict TOST equivalence confirmed between MOODWAAVE-Lite and Full-113 on DEAM Valence (\(\Delta R^2 = -0.0006\), 90% CI: \([-0.0164, +0.0151]\)) within \(\pm 0.02\) margin.
+  - **Leakage Penalty Hypothesis**: Leakage drops when transitioning from random to artist-disjoint splits correspond with tracks-per-artist ratios (GTZAN: 3.25 trk/art, -14.6 pp drop; FMA-800: 1.41 trk/art, -3.1 pp drop; PMEmo: 1.92 trk/art, -0.01 \(R^2\) drop). We formulate this strictly as an observational hypothesis.
+* **SmallMelCNN Baseline**:
+  Evaluated on the single fixed Kereliuk & Sturm (2015) split (5 seeds, 50 epochs; 58.41% accuracy, 85.86 ms latency, 0.39 MB parameters), not re-trained across 15 CV folds.
 * **Calibrated Conformal Uncertainty**:
-  Instead of fragile point estimates in Valence-Arousal space, MOODWAAVE integrates split-conformal joint prediction regions mapped to Russell's Circumplex Affect grid. At an 80% nominal confidence level, MOODWAAVE-Lite narrows the prediction down to **2.08 emotion zones** on a 16-zone grid (compared to 16.0 zones for uncalibrated random guess), providing provable finite-sample coverage guarantees.
-* **Leakage-Resistant Auditing**:
-  All evaluations enforce strict artist-disjoint groupings across all inner and outer folds to eliminate optimistic bias from track leakage:
-  - **GTZAN Leakage Drop**: Accuracy on random splits is 75.34%, dropping to 62.77% on the Kereliuk-Sturm artist-disjoint split, confirming literature findings on album/artist contamination.
+  Instead of fragile point estimates in Valence-Arousal space, MOODWAAVE integrates split-conformal joint prediction regions mapped to Russell's Circumplex Affect grid. At an 80% nominal confidence level, MOODWAAVE-Lite narrows the prediction down to **2.08 emotion zones** on a 16-zone grid, providing provable finite-sample coverage guarantees.
 
 ---
 
