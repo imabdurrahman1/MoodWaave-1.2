@@ -1,0 +1,71 @@
+filename,genre,artist,title,fault_type,paired_track,description
+classical.00042.wav,classical,Giovanni Gabrieli,Canzon XIII,Recording Repetition,classical.00053.wav,Gabrieli - Canzon XIII (different excerpt same recording)
+country.00008.wav,country,Vince Gill,Never Knew Lonely,Recording Repetition,country.00051.wav,Vince Gill - Never Knew Lonely (same recording)
+country.00052.wav,country,Vince Gill,When I Call Your Name,Recording Repetition,country.00060.wav,Vince Gill - When I Call Your Name (same recording)
+disco.00038.wav,disco,Gloria Gaynor,I Am What I Am,Recording Repetition,disco.00078.wav,Gloria Gaynor - I Am What I Am (same recording)
+disco.00050.wav,disco,KC and the Sunshine Band,That's The Way (I Like It),Exact Repetition,disco.00070.wav,KC and the Sunshine Band - That's The Way (I Like It)
+disco.00051.wav,disco,KC and the Sunshine Band,That's The Way (I Like It),Exact Repetition,disco.00070.wav,KC and the Sunshine Band - That's The Way (I Like It)
+disco.00055.wav,disco,The Trammps,Disco Inferno,Exact Repetition,disco.00089.wav,KC and the Sunshine Band - Get Down Tonight
+disco.00060.wav,disco,The Trammps,Disco Inferno,Exact Repetition,disco.00089.wav,KC and the Sunshine Band - Get Down Tonight
+disco.00071.wav,disco,KC and the Sunshine Band,Get Down Tonight,Exact Repetition,disco.00074.wav,"KC and the Sunshine Band - (Shake, Shake, Shake) Shake Your Booty"
+disco.00098.wav,disco,Boney M.,Rasputin,Exact Repetition,disco.00099.wav,Boney M - Rasputin
+hiphop.00001.wav,hiphop,Wu-Tang Clan,Triumph,Recording Repetition,hiphop.00042.wav,Wu-Tang Clan - Triumph (same recording)
+hiphop.00039.wav,hiphop,Lauryn Hill,"Every Ghetto, Every City",Exact Repetition,hiphop.00045.wav,"Lauryn Hill - Every Ghetto, Every City"
+hiphop.00046.wav,hiphop,A Tribe Called Quest,Check The Rhime,Recording Repetition,hiphop.00065.wav,A Tribe Called Quest - Phony Rappers (same recording)
+hiphop.00047.wav,hiphop,A Tribe Called Quest,Award Tour,Recording Repetition,hiphop.00067.wav,A Tribe Called Quest - Get A Hold (same recording)
+hiphop.00048.wav,hiphop,A Tribe Called Quest,Can I Kick It?,Recording Repetition,hiphop.00068.wav,A Tribe Called Quest - Motivators (same recording)
+hiphop.00049.wav,hiphop,A Tribe Called Quest,Scenario,Recording Repetition,hiphop.00069.wav,A Tribe Called Quest - Jam (same recording)
+hiphop.00050.wav,hiphop,A Tribe Called Quest,Electric Relaxation,Recording Repetition,hiphop.00072.wav,A Tribe Called Quest - Mind Power (same recording)
+hiphop.00076.wav,hiphop,50 Cent,Thug Love,Exact Repetition,hiphop.00078.wav,A Tribe Called Quest - Stressed Out
+jazz.00033.wav,jazz,Coleman Hawkins,Body and Soul,Exact Repetition,jazz.00051.wav,Coleman Hawkins - Body and Soul
+jazz.00034.wav,jazz,Coleman Hawkins,Dinah,Exact Repetition,jazz.00053.wav,Coleman Hawkins - Dinah
+jazz.00035.wav,jazz,Coleman Hawkins,April in Paris,Exact Repetition,jazz.00055.wav,Coleman Hawkins - Fine and Dandy
+jazz.00036.wav,jazz,Coleman Hawkins,Sugar Foot Stomp,Exact Repetition,jazz.00058.wav,Coleman Hawkins - Stuffy
+jazz.00037.wav,jazz,Coleman Hawkins,I've Got the World On a String,Exact Repetition,jazz.00060.wav,Coleman Hawkins - I'm in the Mood for Love
+jazz.00038.wav,jazz,Coleman Hawkins,Under Paris Skies,Exact Repetition,jazz.00062.wav,Coleman Hawkins - Lady Be Good
+jazz.00039.wav,jazz,Coleman Hawkins,When Lights Are Low,Exact Repetition,jazz.00065.wav,Coleman Hawkins - Out of Nowhere
+jazz.00040.wav,jazz,Coleman Hawkins,She's Funny That Way,Exact Repetition,jazz.00067.wav,Coleman Hawkins - Sweet Georgia Brown
+jazz.00042.wav,jazz,Coleman Hawkins,Say It Isn't So,Exact Repetition,jazz.00068.wav,Coleman Hawkins - Spotlite
+jazz.00043.wav,jazz,Coleman Hawkins,I Love Paris,Exact Repetition,jazz.00069.wav,Coleman Hawkins - The Man I Love
+jazz.00044.wav,jazz,Coleman Hawkins,Sweet Lorraine,Exact Repetition,jazz.00070.wav,Coleman Hawkins - When Day Is Done
+jazz.00045.wav,jazz,Coleman Hawkins,How Strange,Exact Repetition,jazz.00071.wav,Coleman Hawkins - Yesterdays
+jazz.00046.wav,jazz,Coleman Hawkins,Spotlite,Exact Repetition,jazz.00072.wav,Coleman Hawkins - Picasso
+metal.00004.wav,metal,Dark Tranquillity,Of Chaos And Eternal Night,Exact Repetition,metal.00013.wav,Dark Tranquillity - Of Chaos And Eternal Night
+metal.00034.wav,metal,Iron Maiden,The Trooper,Exact Repetition,metal.00094.wav,Iron Maiden - The Trooper
+metal.00040.wav,metal,Dio,Stand Up And Shout,Exact Repetition,metal.00061.wav,Dio - Stand Up And Shout
+metal.00041.wav,metal,Dio,Gypsy,Exact Repetition,metal.00062.wav,Dio - Holy Diver
+metal.00042.wav,metal,Dio,Caught In The Middle,Exact Repetition,metal.00063.wav,Dio - Gypsy
+metal.00043.wav,metal,Dio,Straight Through The Heart,Exact Repetition,metal.00064.wav,Dio - Caught In The Middle
+metal.00044.wav,metal,Dio,Rainbow In The Dark,Exact Repetition,metal.00065.wav,Dio - Don't Talk To Strangers
+metal.00045.wav,metal,Dio,Shame On The Night,Exact Repetition,metal.00066.wav,Dio - Straight Through The Heart
+metal.00058.wav,metal,Queen,Tie Your Mother Down,Cross-genre Exact Repetition,rock.00016.wav,Queen - Tie Your Mother Down (appears in Rock and Metal)
+pop.00015.wav,pop,Britney Spears,(You Drive Me) Crazy,Exact Repetition,pop.00022.wav,Britney Spears - (You Drive Me) Crazy
+pop.00021.wav,pop,Britney Spears,(You Drive Me) Crazy,Recording Repetition,pop.00022.wav,Britney Spears - (You Drive Me) Crazy
+pop.00022.wav,pop,Britney Spears,(You Drive Me) Crazy,Exact Repetition,pop.00015.wav,Britney Spears - (You Drive Me) Crazy
+pop.00030.wav,pop,Britney Spears,Lucky,Exact Repetition,pop.00031.wav,Britney Spears - Born To Make You Happy
+pop.00037.wav,pop,Britney Spears,(You Drive Me) Crazy (Radio Rip),Distortion,pop.00015.wav,Britney Spears - (You Drive Me) Crazy with sound effects
+pop.00045.wav,pop,Christina Aguilera,Genie In A Bottle,Exact Repetition,pop.00046.wav,Christina Aguilera - What A Girl Wants
+pop.00047.wav,pop,Christina Aguilera,Lady Marmalade,Exact Repetition,pop.00080.wav,Christina Aguilera - I Turn To You
+pop.00048.wav,pop,Christina Aguilera,Lady Marmalade,Recording Repetition,pop.00051.wav,Christina Aguilera - So Emotional (same recording)
+pop.00051.wav,pop,Christina Aguilera,Lady Marmalade,Recording Repetition,pop.00048.wav,Christina Aguilera - So Emotional (same recording)
+pop.00052.wav,pop,Destiny's Child,Bootylicious,Exact Repetition,pop.00057.wav,"Destiny's Child - Bills, Bills, Bills"
+pop.00054.wav,pop,Destiny's Child,Bootylicious,Exact Repetition,pop.00060.wav,Destiny's Child - Bug A Boo
+pop.00056.wav,pop,Destiny's Child,"Jumpin', Jumpin'",Exact Repetition,pop.00059.wav,Destiny's Child - Say My Name
+pop.00057.wav,pop,Destiny's Child,Bootylicious,Exact Repetition,pop.00052.wav,"Destiny's Child - Bills, Bills, Bills"
+pop.00067.wav,pop,Janet Jackson,All For You,Exact Repetition,pop.00071.wav,Janet Jackson - Go Deep
+pop.00068.wav,pop,Janet Jackson,Someone To Call My Lover,Recording Repetition,pop.00073.wav,Janet Jackson - Velvet Rope (same recording)
+pop.00087.wav,pop,Mandy Moore,Crush,Exact Repetition,pop.00090.wav,Mandy Moore - So Real
+reggae.00003.wav,reggae,Bob Marley,Three Little Birds,Exact Repetition,reggae.00054.wav,Bob Marley - Three Little Birds
+reggae.00005.wav,reggae,Bob Marley,"Get Up, Stand Up",Exact Repetition,reggae.00056.wav,"Bob Marley - Get Up, Stand Up"
+reggae.00007.wav,reggae,Bob Marley,One Love,Recording Repetition,reggae.00059.wav,Bob Marley - Could You Be Loved (same recording)
+reggae.00008.wav,reggae,Bob Marley,I shot the Sheriff,Exact Repetition,reggae.00057.wav,Bob Marley - Buffalo Soldier
+reggae.00010.wav,reggae,Bob Marley,Redemption Song,Exact Repetition,reggae.00060.wav,Bob Marley - Iron Lion Zion
+reggae.00013.wav,reggae,Bob Marley,Jamming,Exact Repetition,reggae.00058.wav,Bob Marley - Redemption Song
+reggae.00033.wav,reggae,Burning Spear,Burning Dub,Recording Repetition,reggae.00044.wav,Burning Spear - Marcus Garvey (same recording)
+reggae.00041.wav,reggae,Desmond Dekker,Israelites,Exact Repetition,reggae.00069.wav,Burning Spear - Old Marcus Garvey
+reggae.00073.wav,reggae,Bounty Killer,Hip-Hopera,Exact Repetition,reggae.00074.wav,Bounty Killer - Hip-Hopera
+reggae.00075.wav,reggae,Peter Tosh,Legalize It,Exact Repetition,reggae.00091.wav,Steel Pulse - Steppin' Out
+reggae.00080.wav,reggae,Ini Kamoze,Here Comes The Hot Stepper(remix),Exact Repetition,reggae.00081.wav,Black Uhuru - Sinsemilla
+reggae.00081.wav,reggae,Ini Kamoze,Here Comes The Hot Stepper(remix),Exact Repetition,reggae.00082.wav,Black Uhuru - Sinsemilla
+reggae.00086.wav,reggae,King Tubby,Splash Out Dub,Distortion,none,Audio corruption (last 25 seconds useless/distorted)
+reggae.00091.wav,reggae,Peter Tosh,Legalize It,Exact Repetition,reggae.00092.wav,Steel Pulse - Steppin' Out

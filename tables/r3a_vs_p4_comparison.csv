@@ -1,0 +1,31 @@
+dataset,task,model,feature_set,metric,p4_outer_folds,p4_inner_grouping,p4_mean,r3a_outer_folds,r3a_inner_grouping,r3a_mean,delta_r3a_minus_p4
+GTZAN,genre,LightGBM,Full-113,Accuracy,5,plain StratifiedKFold(3),0.6399,15,StratifiedGroupKFold(3) artist-grouped,0.6331,-0.0068
+GTZAN,genre,LightGBM,Lite-71,Accuracy,5,plain StratifiedKFold(3),0.6144,15,StratifiedGroupKFold(3) artist-grouped,0.6072,-0.0073
+GTZAN,genre,Logistic Regression,Full-113,Accuracy,5,plain StratifiedKFold(3),0.6286,15,StratifiedGroupKFold(3) artist-grouped,0.6338,0.0052
+GTZAN,genre,Logistic Regression,Lite-71,Accuracy,5,plain StratifiedKFold(3),0.6114,15,StratifiedGroupKFold(3) artist-grouped,0.5988,-0.0126
+GTZAN,genre,Random Forest,Full-113,Accuracy,5,plain StratifiedKFold(3),0.605,15,StratifiedGroupKFold(3) artist-grouped,0.6035,-0.0015
+GTZAN,genre,Random Forest,Lite-71,Accuracy,5,plain StratifiedKFold(3),0.5972,15,StratifiedGroupKFold(3) artist-grouped,0.5828,-0.0144
+GTZAN,genre,SVM-RBF,Full-113,Accuracy,5,plain StratifiedKFold(3),0.6273,15,StratifiedGroupKFold(3) artist-grouped,0.625,-0.0023
+GTZAN,genre,SVM-RBF,Lite-71,Accuracy,5,plain StratifiedKFold(3),0.6231,15,StratifiedGroupKFold(3) artist-grouped,0.601,-0.0221
+GTZAN,genre,XGBoost,Full-113,Accuracy,5,plain StratifiedKFold(3),0.6304,15,StratifiedGroupKFold(3) artist-grouped,0.6245,-0.006
+GTZAN,genre,XGBoost,Lite-71,Accuracy,5,plain StratifiedKFold(3),0.604,15,StratifiedGroupKFold(3) artist-grouped,0.6069,0.003
+PMEmo,arousal,LightGBM,Full-113,R2,10,plain KFold(3),0.6729,10,GroupKFold(3) artist-grouped,0.6665,-0.0063
+PMEmo,arousal,LightGBM,Lite-71,R2,10,plain KFold(3),0.67,10,GroupKFold(3) artist-grouped,0.6627,-0.0074
+PMEmo,arousal,Random Forest,Full-113,R2,10,plain KFold(3),0.637,10,GroupKFold(3) artist-grouped,0.6379,0.0009
+PMEmo,arousal,Random Forest,Lite-71,R2,10,plain KFold(3),0.646,10,GroupKFold(3) artist-grouped,0.6449,-0.0011
+PMEmo,arousal,Ridge,Full-113,R2,10,plain KFold(3),0.6789,10,GroupKFold(3) artist-grouped,0.6789,0.0
+PMEmo,arousal,Ridge,Lite-71,R2,10,plain KFold(3),0.6834,10,GroupKFold(3) artist-grouped,0.6834,0.0
+PMEmo,arousal,SVR-RBF,Full-113,R2,10,plain KFold(3),0.6679,10,GroupKFold(3) artist-grouped,0.6665,-0.0014
+PMEmo,arousal,SVR-RBF,Lite-71,R2,10,plain KFold(3),0.6758,10,GroupKFold(3) artist-grouped,0.6659,-0.0099
+PMEmo,arousal,XGBoost,Full-113,R2,10,plain KFold(3),0.6635,10,GroupKFold(3) artist-grouped,0.6573,-0.0062
+PMEmo,arousal,XGBoost,Lite-71,R2,10,plain KFold(3),0.6589,10,GroupKFold(3) artist-grouped,0.6586,-0.0002
+PMEmo,valence,LightGBM,Full-113,R2,10,plain KFold(3),0.46,10,GroupKFold(3) artist-grouped,0.4595,-0.0005
+PMEmo,valence,LightGBM,Lite-71,R2,10,plain KFold(3),0.4503,10,GroupKFold(3) artist-grouped,0.4516,0.0012
+PMEmo,valence,Random Forest,Full-113,R2,10,plain KFold(3),0.4529,10,GroupKFold(3) artist-grouped,0.4532,0.0002
+PMEmo,valence,Random Forest,Lite-71,R2,10,plain KFold(3),0.4457,10,GroupKFold(3) artist-grouped,0.4457,-0.0001
+PMEmo,valence,Ridge,Full-113,R2,10,plain KFold(3),0.4486,10,GroupKFold(3) artist-grouped,0.4358,-0.0128
+PMEmo,valence,Ridge,Lite-71,R2,10,plain KFold(3),0.4329,10,GroupKFold(3) artist-grouped,0.447,0.0141
+PMEmo,valence,SVR-RBF,Full-113,R2,10,plain KFold(3),0.4565,10,GroupKFold(3) artist-grouped,0.4526,-0.004
+PMEmo,valence,SVR-RBF,Lite-71,R2,10,plain KFold(3),0.4386,10,GroupKFold(3) artist-grouped,0.4524,0.0137
+PMEmo,valence,XGBoost,Full-113,R2,10,plain KFold(3),0.4522,10,GroupKFold(3) artist-grouped,0.4547,0.0025
+PMEmo,valence,XGBoost,Lite-71,R2,10,plain KFold(3),0.4457,10,GroupKFold(3) artist-grouped,0.4522,0.0066

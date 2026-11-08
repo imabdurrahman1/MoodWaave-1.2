@@ -1,0 +1,27 @@
+{
+  "project": "MOODWAAVE",
+  "task": "TASK FINAL-TIMING",
+  "os": "Windows 11 (10.0.26200)",
+  "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+  "cpu_count_physical": 4,
+  "cpu_count_logical": 8,
+  "ram_gb": 7.75,
+  "python_version": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+  "power_plan": "Power Scheme GUID: 74a4fc32-ef61-4ed8-b796-ed0035641e51  (High performance)",
+  "battery_plugged": true,
+  "thread_settings": {
+    "OMP_NUM_THREADS": "1",
+    "MKL_NUM_THREADS": "1",
+    "OPENBLAS_NUM_THREADS": "1",
+    "NUMBA_NUM_THREADS": "1",
+    "torch_threads": 1
+  },
+  "libraries": {
+    "torch": "2.15.0+cpu",
+    "librosa": "0.11.0",
+    "lightgbm": "4.6.0",
+    "scikit-learn": "1.8.0",
+    "numpy": "2.4.3",
+    "pandas": "2.3.3"
+  }
+}

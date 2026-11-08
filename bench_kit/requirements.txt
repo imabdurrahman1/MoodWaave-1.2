@@ -1,0 +1,21 @@
+# MOODWAAVE Platform Benchmark Kit Requirements
+# Compatible with Windows, Linux, and macOS / ARM (aarch64)
+
+numpy>=1.24.0
+scipy>=1.10.0
+librosa>=0.10.0
+soundfile>=0.12.0
+lightgbm>=4.0.0
+joblib>=1.3.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+psutil>=5.9.0
+
+# PyTorch and Neural/DSP Audio Tools
+torch>=2.0.0
+torchaudio>=2.0.0
+nnAudio>=0.3.4
+
+# Optional: Essentia (Official wheels supported on Linux x86_64 and macOS)
+# To install on Linux/macOS: pip install essentia
+

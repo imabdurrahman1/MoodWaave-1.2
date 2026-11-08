@@ -1,0 +1,9 @@
+dataset,pipeline,run1_forward_mean_ms,run2_reverse_mean_ms,diff_ms (run2 - run1),diff_pct
+GTZAN,Original 113 (V0),1749.5,1762.38,12.88,0.74
+GTZAN,Full-113 + V1,243.48,238.0,-5.48,-2.25
+GTZAN,MOODWAAVE-Lite (71),119.57,116.04,-3.53,-2.95
+GTZAN,Lite + V1 (83),155.08,152.93,-2.14,-1.38
+PMEmo,Original 113 (V0),1662.42,1732.43,70.01,4.21
+PMEmo,Full-113 + V1,222.61,234.1,11.48,5.16
+PMEmo,MOODWAAVE-Lite (71),110.05,114.93,4.88,4.43
+PMEmo,Lite + V1 (83),145.01,152.91,7.9,5.45

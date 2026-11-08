@@ -1,0 +1,7 @@
+subset_name,count,percentage,n_features,tonnetz_opt,cost_ms
+MFCC+SpecContrast__none,5,50.0,66,none,89.94
+MFCC+Chroma+SpecContrast__none,1,10.0,90,none,126.18
+MFCC+SpecContrast+Temporal__none,1,10.0,71,none,161.13
+MFCC+SpecContrast__V0,1,10.0,78,V0,1432.18
+MFCC+Chroma__V0,1,10.0,88,V0,1458.64
+MFCC__none,1,10.0,52,none,80.16

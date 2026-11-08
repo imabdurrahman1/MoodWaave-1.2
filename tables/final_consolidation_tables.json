@@ -1,0 +1,3294 @@
+{
+  "genre_summary": [
+    {
+      "Model": "Dummy (Prior)",
+      "Features": 0,
+      "Accuracy": "10.01% \u00b1 0.02%",
+      "Macro-F1": "0.0182 \u00b1 0.0000"
+    },
+    {
+      "Model": "RandomForest (100 trees)",
+      "Features": 113,
+      "Accuracy": "74.21% \u00b1 3.63%",
+      "Macro-F1": "0.7378 \u00b1 0.0367"
+    },
+    {
+      "Model": "LightGBM Full-113",
+      "Features": 113,
+      "Accuracy": "77.21% \u00b1 2.42%",
+      "Macro-F1": "0.7706 \u00b1 0.0235"
+    },
+    {
+      "Model": "LightGBM Lite-71 (MOODWAAVE-Lite)",
+      "Features": 71,
+      "Accuracy": "76.44% \u00b1 2.88%",
+      "Macro-F1": "0.7623 \u00b1 0.0283"
+    }
+  ],
+  "genre_per_class_f1": [
+    {
+      "Genre": "blues",
+      "Full_113_F1": 0.7766990291262136,
+      "Lite_71_F1": 0.7554076539101497,
+      "Delta_F1": -0.0212913752160638
+    },
+    {
+      "Genre": "classical",
+      "Full_113_F1": 0.9147540983606556,
+      "Lite_71_F1": 0.9215686274509804,
+      "Delta_F1": 0.0068145290903246
+    },
+    {
+      "Genre": "country",
+      "Full_113_F1": 0.7382113821138211,
+      "Lite_71_F1": 0.724960254372019,
+      "Delta_F1": -0.013251127741802
+    },
+    {
+      "Genre": "disco",
+      "Full_113_F1": 0.685337726523888,
+      "Lite_71_F1": 0.6688741721854304,
+      "Delta_F1": -0.0164635543384575
+    },
+    {
+      "Genre": "hiphop",
+      "Full_113_F1": 0.7738693467336684,
+      "Lite_71_F1": 0.767402376910017,
+      "Delta_F1": -0.0064669698236513
+    },
+    {
+      "Genre": "jazz",
+      "Full_113_F1": 0.8263888888888888,
+      "Lite_71_F1": 0.8158347676419966,
+      "Delta_F1": -0.0105541212468922
+    },
+    {
+      "Genre": "metal",
+      "Full_113_F1": 0.8790849673202614,
+      "Lite_71_F1": 0.8921095008051529,
+      "Delta_F1": 0.0130245334848915
+    },
+    {
+      "Genre": "pop",
+      "Full_113_F1": 0.8231292517006803,
+      "Lite_71_F1": 0.7986463620981388,
+      "Delta_F1": -0.0244828896025415
+    },
+    {
+      "Genre": "reggae",
+      "Full_113_F1": 0.7230514096185738,
+      "Lite_71_F1": 0.7302631578947368,
+      "Delta_F1": 0.0072117482761629
+    },
+    {
+      "Genre": "rock",
+      "Full_113_F1": 0.5704225352112676,
+      "Lite_71_F1": 0.5519713261648745,
+      "Delta_F1": -0.018451209046393
+    }
+  ],
+  "mood_summary": [
+    {
+      "Model": "Dummy (Mean)",
+      "Features": 0,
+      "Mean R2": "-0.0075 \u00b1 0.0085",
+      "Valence R2": "-0.0092 \u00b1 0.0134",
+      "Arousal R2": "-0.0057 \u00b1 0.0059",
+      "Mean MAE": "0.1437 \u00b1 0.0061",
+      "Valence MAE": "0.1342 \u00b1 0.0067",
+      "Arousal MAE": "0.1531 \u00b1 0.0081"
+    },
+    {
+      "Model": "Ridge (alpha=1.0)",
+      "Features": 113,
+      "Mean R2": "0.5564 \u00b1 0.0373",
+      "Valence R2": "0.4369 \u00b1 0.0691",
+      "Arousal R2": "0.6759 \u00b1 0.0458",
+      "Mean MAE": "0.0873 \u00b1 0.0032",
+      "Valence MAE": "0.0937 \u00b1 0.0041",
+      "Arousal MAE": "0.0810 \u00b1 0.0046"
+    },
+    {
+      "Model": "RandomForest (100 trees)",
+      "Features": 113,
+      "Mean R2": "0.5553 \u00b1 0.0388",
+      "Valence R2": "0.4665 \u00b1 0.0529",
+      "Arousal R2": "0.6440 \u00b1 0.0486",
+      "Mean MAE": "0.0897 \u00b1 0.0039",
+      "Valence MAE": "0.0933 \u00b1 0.0046",
+      "Arousal MAE": "0.0862 \u00b1 0.0054"
+    },
+    {
+      "Model": "LightGBM Full-113",
+      "Features": 113,
+      "Mean R2": "0.5539 \u00b1 0.0384",
+      "Valence R2": "0.4531 \u00b1 0.0559",
+      "Arousal R2": "0.6546 \u00b1 0.0527",
+      "Mean MAE": "0.0895 \u00b1 0.0037",
+      "Valence MAE": "0.0944 \u00b1 0.0044",
+      "Arousal MAE": "0.0846 \u00b1 0.0052"
+    },
+    {
+      "Model": "LightGBM Lite-71 (MOODWAAVE-Lite)",
+      "Features": 71,
+      "Mean R2": "0.5464 \u00b1 0.0400",
+      "Valence R2": "0.4444 \u00b1 0.0588",
+      "Arousal R2": "0.6483 \u00b1 0.0414",
+      "Mean MAE": "0.0901 \u00b1 0.0036",
+      "Valence MAE": "0.0952 \u00b1 0.0053",
+      "Arousal MAE": "0.0849 \u00b1 0.0037"
+    }
+  ],
+  "stat_tests": {
+    "genre": {
+      "delta_accuracy": {
+        "mean_delta": -0.007695142378559468,
+        "se_corrected": 0.015725127933399554,
+        "t_stat": -0.48935324476535974,
+        "p_val": 0.6321695950936296,
+        "ci_95": [
+          -0.04142218743591924,
+          0.0260319026788003
+        ]
+      },
+      "delta_macro_f1": {
+        "mean_delta": -0.00838905093458402,
+        "se_corrected": 0.014940995483052336,
+        "t_stat": -0.5614787143266171,
+        "p_val": 0.5833481412623721,
+        "ci_95": [
+          -0.04043429915087471,
+          0.023656197281706672
+        ]
+      }
+    },
+    "mood": {
+      "delta_r2_mean": {
+        "mean_delta": -0.007470812111317016,
+        "se_corrected": 0.008931984453055182,
+        "t_stat": -0.8364112309624125,
+        "p_val": 0.41117446175442385,
+        "ci_95": [
+          -0.025905521976461482,
+          0.010963897753827452
+        ]
+      },
+      "delta_r2_valence": {
+        "mean_delta": -0.008699701232757477,
+        "se_corrected": 0.014231995104101041,
+        "t_stat": -0.6112776999375584,
+        "p_val": 0.5467626013063864,
+        "ci_95": [
+          -0.0380730954572087,
+          0.02067369299169375
+        ]
+      },
+      "delta_r2_arousal": {
+        "mean_delta": -0.006241922989876558,
+        "se_corrected": 0.012406058624269533,
+        "t_stat": -0.5031350551307008,
+        "p_val": 0.6194557469543832,
+        "ci_95": [
+          -0.0318467695399794,
+          0.01936292356022628
+        ]
+      },
+      "delta_mae_mean": {
+        "mean_delta": 0.0005588521493106319,
+        "se_corrected": 0.0012928163078082715,
+        "t_stat": 0.4322749844160469,
+        "p_val": 0.6694008086732992,
+        "ci_95": [
+          -0.002109389568824113,
+          0.0032270938674453767
+        ]
+      }
+    }
+  },
+  "efficiency_summary": [
+    {
+      "Model Set": "RandomForest (113 features, 100 trees)",
+      "Serialized Size (MB)": "16.11 MB",
+      "Inference Latency (ms)": "24.94 \u00b1 3.55 ms",
+      "End-to-End Latency (ms)": "1776.8 ms",
+      "Genre Accuracy": "74.21% \u00b1 3.63%",
+      "Mood Mean R2": "0.5553 \u00b1 0.0388"
+    },
+    {
+      "Model Set": "LightGBM Full-113 (Original MOODWAAVE)",
+      "Serialized Size (MB)": "3.88 MB",
+      "Inference Latency (ms)": "3.28 \u00b1 0.60 ms",
+      "End-to-End Latency (ms)": "1755.1 \u00b1 174.5 ms",
+      "Genre Accuracy": "77.21% \u00b1 2.42%",
+      "Mood Mean R2": "0.5539 \u00b1 0.0384"
+    },
+    {
+      "Model Set": "LightGBM Lite-71 (MOODWAAVE-Lite)",
+      "Serialized Size (MB)": "3.96 MB",
+      "Inference Latency (ms)": "3.09 \u00b1 0.43 ms",
+      "End-to-End Latency (ms)": "166.4 \u00b1 38.2 ms",
+      "Genre Accuracy": "76.44% \u00b1 2.88%",
+      "Mood Mean R2": "0.5464 \u00b1 0.0400"
+    }
+  ],
+  "per_track_timing": [
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00094.wav",
+      "orig_113_e2e_ms": 2128.439072525507,
+      "lite_71_e2e_ms": 156.29959999932908,
+      "speedup": 13.617687265576134,
+      "ms_saved": 1972.139472526178
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00009.wav",
+      "orig_113_e2e_ms": 1761.9218725072278,
+      "lite_71_e2e_ms": 161.62379999877885,
+      "speedup": 10.901376359920633,
+      "ms_saved": 1600.298072508449
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00009.wav",
+      "orig_113_e2e_ms": 1918.2522724791488,
+      "lite_71_e2e_ms": 161.6243000025861,
+      "speedup": 11.868588278176334,
+      "ms_saved": 1756.6279724765625
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00041.wav",
+      "orig_113_e2e_ms": 1862.273872486694,
+      "lite_71_e2e_ms": 166.87610000371933,
+      "speedup": 11.15962005610862,
+      "ms_saved": 1695.3977724829747
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00079.wav",
+      "orig_113_e2e_ms": 1766.355172504118,
+      "lite_71_e2e_ms": 154.59039999404922,
+      "speedup": 11.426034039449483,
+      "ms_saved": 1611.7647725100687
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00096.wav",
+      "orig_113_e2e_ms": 1714.5315725416003,
+      "lite_71_e2e_ms": 154.92110000923276,
+      "speedup": 11.067127540660506,
+      "ms_saved": 1559.6104725323676
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00045.wav",
+      "orig_113_e2e_ms": 1714.7578725185303,
+      "lite_71_e2e_ms": 167.93429999961518,
+      "speedup": 10.210885283842906,
+      "ms_saved": 1546.8235725189152
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00036.wav",
+      "orig_113_e2e_ms": 1809.4279725397064,
+      "lite_71_e2e_ms": 184.9660000007134,
+      "speedup": 9.782489606374837,
+      "ms_saved": 1624.4619725389932
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00079.wav",
+      "orig_113_e2e_ms": 1653.8497724746412,
+      "lite_71_e2e_ms": 159.77709999424405,
+      "speedup": 10.350981289147324,
+      "ms_saved": 1494.0726724803972
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00036.wav",
+      "orig_113_e2e_ms": 1732.2727724736617,
+      "lite_71_e2e_ms": 155.26860000682063,
+      "speedup": 11.156620027472176,
+      "ms_saved": 1577.0041724668408
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00036.wav",
+      "orig_113_e2e_ms": 1690.8070725099242,
+      "lite_71_e2e_ms": 165.127999993274,
+      "speedup": 10.239372320737818,
+      "ms_saved": 1525.6790725166502
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00067.wav",
+      "orig_113_e2e_ms": 1831.2397725008489,
+      "lite_71_e2e_ms": 164.6681999845896,
+      "speedup": 11.12078575385062,
+      "ms_saved": 1666.571572516259
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00004.wav",
+      "orig_113_e2e_ms": 1834.708772489248,
+      "lite_71_e2e_ms": 159.83829999458976,
+      "speedup": 11.478530318148714,
+      "ms_saved": 1674.8704724946583
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00021.wav",
+      "orig_113_e2e_ms": 1664.1228724679966,
+      "lite_71_e2e_ms": 157.44419998372905,
+      "speedup": 10.569604168587816,
+      "ms_saved": 1506.6786724842675
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00070.wav",
+      "orig_113_e2e_ms": 1815.759872499766,
+      "lite_71_e2e_ms": 151.67859999928623,
+      "speedup": 11.971101213409872,
+      "ms_saved": 1664.0812725004798
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00025.wav",
+      "orig_113_e2e_ms": 1676.997672481375,
+      "lite_71_e2e_ms": 154.46079999674112,
+      "speedup": 10.857108551274868,
+      "ms_saved": 1522.536872484634
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00068.wav",
+      "orig_113_e2e_ms": 1735.1627724770517,
+      "lite_71_e2e_ms": 149.961599992821,
+      "speedup": 11.570713919830927,
+      "ms_saved": 1585.2011724842305
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00082.wav",
+      "orig_113_e2e_ms": 2228.487272461789,
+      "lite_71_e2e_ms": 153.00540000316687,
+      "speedup": 14.564762239866464,
+      "ms_saved": 2075.481872458622
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00008.wav",
+      "orig_113_e2e_ms": 1719.2606725207588,
+      "lite_71_e2e_ms": 159.63740000734106,
+      "speedup": 10.769786230806172,
+      "ms_saved": 1559.6232725134178
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00071.wav",
+      "orig_113_e2e_ms": 1740.324972494418,
+      "lite_71_e2e_ms": 154.72099999897182,
+      "speedup": 11.24814971791795,
+      "ms_saved": 1585.6039724954462
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00077.wav",
+      "orig_113_e2e_ms": 1908.974572498264,
+      "lite_71_e2e_ms": 151.69989998685196,
+      "speedup": 12.583888141414183,
+      "ms_saved": 1757.274672511412
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00099.wav",
+      "orig_113_e2e_ms": 1615.75557251359,
+      "lite_71_e2e_ms": 156.48679999867454,
+      "speedup": 10.325187635808742,
+      "ms_saved": 1459.268772514915
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00088.wav",
+      "orig_113_e2e_ms": 1688.7090724836162,
+      "lite_71_e2e_ms": 152.27729998878203,
+      "speedup": 11.08969670862315,
+      "ms_saved": 1536.431772494834
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00002.wav",
+      "orig_113_e2e_ms": 1695.1943725057934,
+      "lite_71_e2e_ms": 169.5449999824632,
+      "speedup": 9.99849227450609,
+      "ms_saved": 1525.6493725233302
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00059.wav",
+      "orig_113_e2e_ms": 1727.441472531209,
+      "lite_71_e2e_ms": 159.46729999268427,
+      "speedup": 10.832574907899344,
+      "ms_saved": 1567.9741725385247
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00068.wav",
+      "orig_113_e2e_ms": 1833.470072545024,
+      "lite_71_e2e_ms": 169.77020000922494,
+      "speedup": 10.799716749143236,
+      "ms_saved": 1663.699872535799
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00049.wav",
+      "orig_113_e2e_ms": 1819.037372485181,
+      "lite_71_e2e_ms": 170.64950001076795,
+      "speedup": 10.659494298960151,
+      "ms_saved": 1648.3878724744136
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00011.wav",
+      "orig_113_e2e_ms": 1626.9597724954654,
+      "lite_71_e2e_ms": 168.1619999872055,
+      "speedup": 9.674954939993883,
+      "ms_saved": 1458.79777250826
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00044.wav",
+      "orig_113_e2e_ms": 1707.7079725045771,
+      "lite_71_e2e_ms": 164.93239998817444,
+      "speedup": 10.353987285863898,
+      "ms_saved": 1542.7755725164027
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00096.wav",
+      "orig_113_e2e_ms": 1685.7117724780985,
+      "lite_71_e2e_ms": 160.78529998776503,
+      "speedup": 10.484240615319765,
+      "ms_saved": 1524.9264724903333
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00018.wav",
+      "orig_113_e2e_ms": 1722.8158725252435,
+      "lite_71_e2e_ms": 160.7302000047639,
+      "speedup": 10.718681818813025,
+      "ms_saved": 1562.0856725204796
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00026.wav",
+      "orig_113_e2e_ms": 1888.867872540286,
+      "lite_71_e2e_ms": 164.44930000579916,
+      "speedup": 11.486019535952275,
+      "ms_saved": 1724.4185725344869
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00042.wav",
+      "orig_113_e2e_ms": 1738.8609725226706,
+      "lite_71_e2e_ms": 179.5840000268072,
+      "speedup": 9.682716568642553,
+      "ms_saved": 1559.2769724958634
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00023.wav",
+      "orig_113_e2e_ms": 1856.870972499164,
+      "lite_71_e2e_ms": 160.66709998995066,
+      "speedup": 11.557257040273376,
+      "ms_saved": 1696.2038725092134
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00095.wav",
+      "orig_113_e2e_ms": 1707.6651724697151,
+      "lite_71_e2e_ms": 172.1928000042681,
+      "speedup": 9.917169431168944,
+      "ms_saved": 1535.472372465447
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00058.wav",
+      "orig_113_e2e_ms": 1790.389172505966,
+      "lite_71_e2e_ms": 164.650899998378,
+      "speedup": 10.8738499001439,
+      "ms_saved": 1625.738272507588
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00098.wav",
+      "orig_113_e2e_ms": 1701.9712724782585,
+      "lite_71_e2e_ms": 167.58850001497194,
+      "speedup": 10.15565669676743,
+      "ms_saved": 1534.3827724632863
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00063.wav",
+      "orig_113_e2e_ms": 1711.0215724738375,
+      "lite_71_e2e_ms": 200.34129999112335,
+      "speedup": 8.540533442428739,
+      "ms_saved": 1510.680272482714
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00098.wav",
+      "orig_113_e2e_ms": 1711.3580725331851,
+      "lite_71_e2e_ms": 287.0773000176996,
+      "speedup": 5.961314504586995,
+      "ms_saved": 1424.2807725154855
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00089.wav",
+      "orig_113_e2e_ms": 1863.5243725207692,
+      "lite_71_e2e_ms": 341.5892999910284,
+      "speedup": 5.455453003269463,
+      "ms_saved": 1521.935072529741
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00080.wav",
+      "orig_113_e2e_ms": 1662.7093724733277,
+      "lite_71_e2e_ms": 138.42140001361258,
+      "speedup": 12.0119387053578,
+      "ms_saved": 1524.287972459715
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00038.wav",
+      "orig_113_e2e_ms": 1839.363172539888,
+      "lite_71_e2e_ms": 137.2949999931734,
+      "speedup": 13.397160658664516,
+      "ms_saved": 1702.0681725467143
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00025.wav",
+      "orig_113_e2e_ms": 1801.7315724924267,
+      "lite_71_e2e_ms": 127.62700000894256,
+      "speedup": 14.117166213780653,
+      "ms_saved": 1674.1045724834842
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00099.wav",
+      "orig_113_e2e_ms": 1685.2637725010572,
+      "lite_71_e2e_ms": 133.50209998316132,
+      "speedup": 12.62350010010045,
+      "ms_saved": 1551.761672517896
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00077.wav",
+      "orig_113_e2e_ms": 1707.2243724892903,
+      "lite_71_e2e_ms": 126.21669998043215,
+      "speedup": 13.526136975170225,
+      "ms_saved": 1581.0076725088584
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00066.wav",
+      "orig_113_e2e_ms": 1795.2375725204183,
+      "lite_71_e2e_ms": 141.98640000540763,
+      "speedup": 12.643729064558618,
+      "ms_saved": 1653.2511725150107
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00038.wav",
+      "orig_113_e2e_ms": 1622.830472485075,
+      "lite_71_e2e_ms": 168.75870001967996,
+      "speedup": 9.616277396636896,
+      "ms_saved": 1454.071772465395
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00076.wav",
+      "orig_113_e2e_ms": 1721.967072523112,
+      "lite_71_e2e_ms": 161.3985000003595,
+      "speedup": 10.669040124408074,
+      "ms_saved": 1560.5685725227524
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00071.wav",
+      "orig_113_e2e_ms": 1846.0996724957656,
+      "lite_71_e2e_ms": 124.56659998861142,
+      "speedup": 14.820181916055722,
+      "ms_saved": 1721.5330725071544
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00035.wav",
+      "orig_113_e2e_ms": 1888.474672514858,
+      "lite_71_e2e_ms": 124.01699999463744,
+      "speedup": 15.227546808877142,
+      "ms_saved": 1764.4576725202205
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00026.wav",
+      "orig_113_e2e_ms": 1675.2382724721974,
+      "lite_71_e2e_ms": 136.05070000630803,
+      "speedup": 12.313338133464397,
+      "ms_saved": 1539.1875724658894
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00054.wav",
+      "orig_113_e2e_ms": 1708.2634724852687,
+      "lite_71_e2e_ms": 121.8968000030145,
+      "speedup": 14.014014087679278,
+      "ms_saved": 1586.3666724822542
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00023.wav",
+      "orig_113_e2e_ms": 1697.579772508616,
+      "lite_71_e2e_ms": 120.95660000341012,
+      "speedup": 14.03461880096461,
+      "ms_saved": 1576.6231725052055
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00030.wav",
+      "orig_113_e2e_ms": 1900.789272511756,
+      "lite_71_e2e_ms": 120.49400000250898,
+      "speedup": 15.774970309494057,
+      "ms_saved": 1780.2952725092468
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00027.wav",
+      "orig_113_e2e_ms": 1677.2823725537455,
+      "lite_71_e2e_ms": 118.1051000021398,
+      "speedup": 14.201608334638866,
+      "ms_saved": 1559.1772725516057
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00010.wav",
+      "orig_113_e2e_ms": 1706.7625725235848,
+      "lite_71_e2e_ms": 119.43410002277233,
+      "speedup": 14.290412639255948,
+      "ms_saved": 1587.3284725008125
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00039.wav",
+      "orig_113_e2e_ms": 1662.6218725055514,
+      "lite_71_e2e_ms": 142.60129997273907,
+      "speedup": 11.659233631274,
+      "ms_saved": 1520.0205725328124
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00041.wav",
+      "orig_113_e2e_ms": 1744.5122725389956,
+      "lite_71_e2e_ms": 156.2528999929782,
+      "speedup": 11.164671328451451,
+      "ms_saved": 1588.2593725460174
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00037.wav",
+      "orig_113_e2e_ms": 1734.190572466614,
+      "lite_71_e2e_ms": 129.410800000187,
+      "speedup": 13.400663410349893,
+      "ms_saved": 1604.779772466427
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00054.wav",
+      "orig_113_e2e_ms": 1811.2044725044689,
+      "lite_71_e2e_ms": 128.57299999450333,
+      "speedup": 14.086973723735932,
+      "ms_saved": 1682.6314725099653
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00078.wav",
+      "orig_113_e2e_ms": 1687.591572530946,
+      "lite_71_e2e_ms": 140.36610000766814,
+      "speedup": 12.022785932206949,
+      "ms_saved": 1547.225472523278
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00073.wav",
+      "orig_113_e2e_ms": 1685.6423724735214,
+      "lite_71_e2e_ms": 125.1866000238806,
+      "speedup": 13.465038367940084,
+      "ms_saved": 1560.4557724496408
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00014.wav",
+      "orig_113_e2e_ms": 1715.982372471044,
+      "lite_71_e2e_ms": 120.69919999339618,
+      "speedup": 14.217015295585478,
+      "ms_saved": 1595.283172477648
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00008.wav",
+      "orig_113_e2e_ms": 1710.1978724882065,
+      "lite_71_e2e_ms": 121.62699998589233,
+      "speedup": 14.061005144306565,
+      "ms_saved": 1588.5708725023142
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00071.wav",
+      "orig_113_e2e_ms": 1738.038572488731,
+      "lite_71_e2e_ms": 118.95169998751952,
+      "speedup": 14.611296624353304,
+      "ms_saved": 1619.0868725012117
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00007.wav",
+      "orig_113_e2e_ms": 1805.684372497635,
+      "lite_71_e2e_ms": 135.8979000069667,
+      "speedup": 13.287066043000433,
+      "ms_saved": 1669.7864724906683
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00011.wav",
+      "orig_113_e2e_ms": 1677.1652724769956,
+      "lite_71_e2e_ms": 123.02420000196436,
+      "speedup": 13.632807792696202,
+      "ms_saved": 1554.1410724750313
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00060.wav",
+      "orig_113_e2e_ms": 1803.711172548501,
+      "lite_71_e2e_ms": 119.09170000581072,
+      "speedup": 15.145565748582769,
+      "ms_saved": 1684.6194725426903
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00083.wav",
+      "orig_113_e2e_ms": 1669.9474724651373,
+      "lite_71_e2e_ms": 131.08520000241697,
+      "speedup": 12.739405153551631,
+      "ms_saved": 1538.8622724627205
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00096.wav",
+      "orig_113_e2e_ms": 1706.1107725081092,
+      "lite_71_e2e_ms": 127.30130000272766,
+      "speedup": 13.402147287353332,
+      "ms_saved": 1578.8094725053816
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00007.wav",
+      "orig_113_e2e_ms": 1714.1243725259849,
+      "lite_71_e2e_ms": 148.22100001038052,
+      "speedup": 11.56465259582608,
+      "ms_saved": 1565.903372515604
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00051.wav",
+      "orig_113_e2e_ms": 1869.96187252822,
+      "lite_71_e2e_ms": 117.6497999986168,
+      "speedup": 15.89430557935674,
+      "ms_saved": 1752.312072529603
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00074.wav",
+      "orig_113_e2e_ms": 1760.336272482673,
+      "lite_71_e2e_ms": 120.7427000044845,
+      "speedup": 14.57923561770022,
+      "ms_saved": 1639.5935724781884
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00021.wav",
+      "orig_113_e2e_ms": 1644.166272488801,
+      "lite_71_e2e_ms": 117.39440000383183,
+      "speedup": 14.005491509263935,
+      "ms_saved": 1526.7718724849692
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00014.wav",
+      "orig_113_e2e_ms": 1697.7653724666743,
+      "lite_71_e2e_ms": 137.77480000862852,
+      "speedup": 12.322756936394372,
+      "ms_saved": 1559.9905724580458
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00039.wav",
+      "orig_113_e2e_ms": 1736.8315725530556,
+      "lite_71_e2e_ms": 122.31909998808987,
+      "speedup": 14.199185349811842,
+      "ms_saved": 1614.5124725649655
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00016.wav",
+      "orig_113_e2e_ms": 1759.1693725030927,
+      "lite_71_e2e_ms": 117.56859999150038,
+      "speedup": 14.962918437663388,
+      "ms_saved": 1641.6007725115924
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00022.wav",
+      "orig_113_e2e_ms": 1694.537072506646,
+      "lite_71_e2e_ms": 140.96380001865327,
+      "speedup": 12.021079683453578,
+      "ms_saved": 1553.5732724879929
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00075.wav",
+      "orig_113_e2e_ms": 1697.4324724929463,
+      "lite_71_e2e_ms": 147.7803000016138,
+      "speedup": 11.486189109606697,
+      "ms_saved": 1549.6521724913327
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00066.wav",
+      "orig_113_e2e_ms": 1727.9622725387162,
+      "lite_71_e2e_ms": 127.32990001677535,
+      "speedup": 13.570750250420852,
+      "ms_saved": 1600.6323725219409
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00059.wav",
+      "orig_113_e2e_ms": 1723.6224724970816,
+      "lite_71_e2e_ms": 142.06260000355542,
+      "speedup": 12.132837724031129,
+      "ms_saved": 1581.5598724935262
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00067.wav",
+      "orig_113_e2e_ms": 1720.3706725327356,
+      "lite_71_e2e_ms": 141.8429000186734,
+      "speedup": 12.128704872124382,
+      "ms_saved": 1578.5277725140622
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00081.wav",
+      "orig_113_e2e_ms": 1685.8674724995217,
+      "lite_71_e2e_ms": 127.11400000262074,
+      "speedup": 13.262641978576426,
+      "ms_saved": 1558.753472496901
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00052.wav",
+      "orig_113_e2e_ms": 1711.1082724937296,
+      "lite_71_e2e_ms": 152.14640001067892,
+      "speedup": 11.246459149698117,
+      "ms_saved": 1558.961872483051
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00033.wav",
+      "orig_113_e2e_ms": 1710.287872475019,
+      "lite_71_e2e_ms": 129.66410000808537,
+      "speedup": 13.190141853977869,
+      "ms_saved": 1580.6237724669336
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00050.wav",
+      "orig_113_e2e_ms": 1735.073372494808,
+      "lite_71_e2e_ms": 133.027999982005,
+      "speedup": 13.042918579017316,
+      "ms_saved": 1602.045372512803
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00013.wav",
+      "orig_113_e2e_ms": 1777.199472481297,
+      "lite_71_e2e_ms": 147.77839998714626,
+      "speedup": 12.026111208646716,
+      "ms_saved": 1629.421072494151
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00049.wav",
+      "orig_113_e2e_ms": 1776.130572491238,
+      "lite_71_e2e_ms": 139.26689999061637,
+      "speedup": 12.753429369153126,
+      "ms_saved": 1636.8636725006218
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00085.wav",
+      "orig_113_e2e_ms": 1801.5785724915625,
+      "lite_71_e2e_ms": 134.6128999721259,
+      "speedup": 13.383402132073618,
+      "ms_saved": 1666.9656725194363
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00065.wav",
+      "orig_113_e2e_ms": 1638.4001725296548,
+      "lite_71_e2e_ms": 138.72859999537468,
+      "speedup": 11.810111055573834,
+      "ms_saved": 1499.67157253428
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00048.wav",
+      "orig_113_e2e_ms": 1680.2606725310034,
+      "lite_71_e2e_ms": 130.24150001001544,
+      "speedup": 12.901115791831277,
+      "ms_saved": 1550.019172520988
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00024.wav",
+      "orig_113_e2e_ms": 1716.0847724940686,
+      "lite_71_e2e_ms": 192.42139998823404,
+      "speedup": 8.918367565140892,
+      "ms_saved": 1523.6633725058346
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00016.wav",
+      "orig_113_e2e_ms": 1741.445072525093,
+      "lite_71_e2e_ms": 128.5275999980513,
+      "speedup": 13.549191555366292,
+      "ms_saved": 1612.917472527042
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00098.wav",
+      "orig_113_e2e_ms": 1684.8855724734312,
+      "lite_71_e2e_ms": 141.7997000098694,
+      "speedup": 11.882151882945884,
+      "ms_saved": 1543.0858724635618
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00088.wav",
+      "orig_113_e2e_ms": 1700.241272518324,
+      "lite_71_e2e_ms": 157.61090000160038,
+      "speedup": 10.78758685155062,
+      "ms_saved": 1542.6303725167236
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00063.wav",
+      "orig_113_e2e_ms": 1695.438572502608,
+      "lite_71_e2e_ms": 131.43999999738298,
+      "speedup": 12.898954447172589,
+      "ms_saved": 1563.998572505225
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00026.wav",
+      "orig_113_e2e_ms": 1709.5292725194302,
+      "lite_71_e2e_ms": 136.35630000499077,
+      "speedup": 12.537222500587504,
+      "ms_saved": 1573.1729725144394
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00021.wav",
+      "orig_113_e2e_ms": 1642.571472510608,
+      "lite_71_e2e_ms": 138.3477000053972,
+      "speedup": 11.872777591868376,
+      "ms_saved": 1504.223772505211
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00044.wav",
+      "orig_113_e2e_ms": 1718.6534724956437,
+      "lite_71_e2e_ms": 126.86540000140668,
+      "speedup": 13.54706226028994,
+      "ms_saved": 1591.788072494237
+    },
+    {
+      "dataset": "GTZAN (Genre)",
+      "track": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00000.wav",
+      "orig_113_e2e_ms": 1706.0801724497287,
+      "lite_71_e2e_ms": 202.7018999797292,
+      "speedup": 8.416695515041258,
+      "ms_saved": 1503.3782724699995
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\484.mp3",
+      "orig_113_e2e_ms": 1744.839072466275,
+      "lite_71_e2e_ms": 180.72309999843128,
+      "speedup": 9.654765065901485,
+      "ms_saved": 1564.1159724678437
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\818.mp3",
+      "orig_113_e2e_ms": 1869.0716725018867,
+      "lite_71_e2e_ms": 201.5282999782357,
+      "speedup": 9.274487368293878,
+      "ms_saved": 1667.543372523651
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\90.mp3",
+      "orig_113_e2e_ms": 1856.3196724922452,
+      "lite_71_e2e_ms": 181.56159998034127,
+      "speedup": 10.22418657190309,
+      "ms_saved": 1674.7580725119042
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\703.mp3",
+      "orig_113_e2e_ms": 1852.507972513704,
+      "lite_71_e2e_ms": 185.77929999446496,
+      "speedup": 9.971552118933038,
+      "ms_saved": 1666.728672519239
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\348.mp3",
+      "orig_113_e2e_ms": 1851.4409724799043,
+      "lite_71_e2e_ms": 192.7657999913208,
+      "speedup": 9.604613331634887,
+      "ms_saved": 1658.6751724885837
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\210.mp3",
+      "orig_113_e2e_ms": 1484.4745724754466,
+      "lite_71_e2e_ms": 149.8522000038065,
+      "speedup": 9.906258115915138,
+      "ms_saved": 1334.62237247164
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\495.mp3",
+      "orig_113_e2e_ms": 1833.7574724633307,
+      "lite_71_e2e_ms": 214.3328999809455,
+      "speedup": 8.555650917924194,
+      "ms_saved": 1619.4245724823852
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\753.mp3",
+      "orig_113_e2e_ms": 1909.9046724791692,
+      "lite_71_e2e_ms": 189.3207000102848,
+      "speedup": 10.088197816590656,
+      "ms_saved": 1720.583972468885
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\283.mp3",
+      "orig_113_e2e_ms": 1282.040772499895,
+      "lite_71_e2e_ms": 127.45649999123998,
+      "speedup": 10.058653521695708,
+      "ms_saved": 1154.584272508655
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\675.mp3",
+      "orig_113_e2e_ms": 1849.45877246224,
+      "lite_71_e2e_ms": 194.6754999808036,
+      "speedup": 9.500213291578088,
+      "ms_saved": 1654.7832724814364
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\356.mp3",
+      "orig_113_e2e_ms": 1859.539472503966,
+      "lite_71_e2e_ms": 195.48009999562052,
+      "speedup": 9.512679155298295,
+      "ms_saved": 1664.0593725083454
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\34.mp3",
+      "orig_113_e2e_ms": 1838.6472725019848,
+      "lite_71_e2e_ms": 196.9991000078153,
+      "speedup": 9.333277524765556,
+      "ms_saved": 1641.648172494169
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\421.mp3",
+      "orig_113_e2e_ms": 1874.9174725440391,
+      "lite_71_e2e_ms": 183.98609998985197,
+      "speedup": 10.190538701822874,
+      "ms_saved": 1690.9313725541872
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\807.mp3",
+      "orig_113_e2e_ms": 2275.4926725233963,
+      "lite_71_e2e_ms": 332.1781000122428,
+      "speedup": 6.850218820685441,
+      "ms_saved": 1943.3145725111533
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\517.mp3",
+      "orig_113_e2e_ms": 1358.611072536005,
+      "lite_71_e2e_ms": 135.42700000107288,
+      "speedup": 10.03205470493507,
+      "ms_saved": 1223.184072534932
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\678.mp3",
+      "orig_113_e2e_ms": 1821.7474724575,
+      "lite_71_e2e_ms": 183.99609997868535,
+      "speedup": 9.90101134028676,
+      "ms_saved": 1637.7513724788148
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\628.mp3",
+      "orig_113_e2e_ms": 1829.3206724979973,
+      "lite_71_e2e_ms": 200.8690999937244,
+      "speedup": 9.107028769258934,
+      "ms_saved": 1628.4515725042731
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\92.mp3",
+      "orig_113_e2e_ms": 1853.998672455928,
+      "lite_71_e2e_ms": 185.4825000045821,
+      "speedup": 9.995544983543608,
+      "ms_saved": 1668.5161724513457
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\358.mp3",
+      "orig_113_e2e_ms": 1828.9334724600485,
+      "lite_71_e2e_ms": 190.0683999992907,
+      "speedup": 9.62250154400665,
+      "ms_saved": 1638.8650724607576
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\813.mp3",
+      "orig_113_e2e_ms": 1843.198772525793,
+      "lite_71_e2e_ms": 192.5810000102501,
+      "speedup": 9.57103126698734,
+      "ms_saved": 1650.6177725155428
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\73.mp3",
+      "orig_113_e2e_ms": 1448.0838725053763,
+      "lite_71_e2e_ms": 120.90599999646656,
+      "speedup": 11.97693970975548,
+      "ms_saved": 1327.1778725089098
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\198.mp3",
+      "orig_113_e2e_ms": 1876.533472509036,
+      "lite_71_e2e_ms": 183.78829999710436,
+      "speedup": 10.210298873968592,
+      "ms_saved": 1692.7451725119315
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\351.mp3",
+      "orig_113_e2e_ms": 1900.954872492148,
+      "lite_71_e2e_ms": 203.44529999420047,
+      "speedup": 9.34381316524067,
+      "ms_saved": 1697.5095724979474
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\438.mp3",
+      "orig_113_e2e_ms": 1063.5708725372383,
+      "lite_71_e2e_ms": 107.9275000083726,
+      "speedup": 9.854493733800291,
+      "ms_saved": 955.643372528866
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\353.mp3",
+      "orig_113_e2e_ms": 1795.321172516706,
+      "lite_71_e2e_ms": 186.6888000222389,
+      "speedup": 9.616651734345298,
+      "ms_saved": 1608.632372494467
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\55.mp3",
+      "orig_113_e2e_ms": 1895.61967249625,
+      "lite_71_e2e_ms": 179.18229999486357,
+      "speedup": 10.579279719875176,
+      "ms_saved": 1716.4373725013866
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\835.mp3",
+      "orig_113_e2e_ms": 1821.0214725173132,
+      "lite_71_e2e_ms": 195.34450001083317,
+      "speedup": 9.322102605480708,
+      "ms_saved": 1625.6769725064803
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\488.mp3",
+      "orig_113_e2e_ms": 1715.8465724847338,
+      "lite_71_e2e_ms": 169.85449998173863,
+      "speedup": 10.10186113802818,
+      "ms_saved": 1545.9920725029951
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\605.mp3",
+      "orig_113_e2e_ms": 1866.148472478526,
+      "lite_71_e2e_ms": 179.54320000717416,
+      "speedup": 10.39386884272954,
+      "ms_saved": 1686.6052724713518
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\236.mp3",
+      "orig_113_e2e_ms": 1864.792072511191,
+      "lite_71_e2e_ms": 190.74499999987893,
+      "speedup": 9.776361490536448,
+      "ms_saved": 1674.047072511312
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\523.mp3",
+      "orig_113_e2e_ms": 1849.263672490051,
+      "lite_71_e2e_ms": 189.1399000014644,
+      "speedup": 9.777226658551331,
+      "ms_saved": 1660.1237724885866
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\592.mp3",
+      "orig_113_e2e_ms": 1965.60237248792,
+      "lite_71_e2e_ms": 183.0576999927871,
+      "speedup": 10.737610996780628,
+      "ms_saved": 1782.5446724951328
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\457.mp3",
+      "orig_113_e2e_ms": 1886.72127249316,
+      "lite_71_e2e_ms": 205.2291999862064,
+      "speedup": 9.193239912351498,
+      "ms_saved": 1681.4920725069535
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\174.mp3",
+      "orig_113_e2e_ms": 1629.8722724955587,
+      "lite_71_e2e_ms": 161.4263999799732,
+      "speedup": 10.096689715546916,
+      "ms_saved": 1468.4458725155855
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\499.mp3",
+      "orig_113_e2e_ms": 1822.484372480685,
+      "lite_71_e2e_ms": 184.8535000171978,
+      "speedup": 9.85907419827664,
+      "ms_saved": 1637.630872463487
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\767.mp3",
+      "orig_113_e2e_ms": 1859.155772492668,
+      "lite_71_e2e_ms": 192.5208999891765,
+      "speedup": 9.65690360162034,
+      "ms_saved": 1666.6348725034914
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\172.mp3",
+      "orig_113_e2e_ms": 1765.103072516067,
+      "lite_71_e2e_ms": 199.0374999877531,
+      "speedup": 8.868193544556553,
+      "ms_saved": 1566.065572528314
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\771.mp3",
+      "orig_113_e2e_ms": 1764.138872508338,
+      "lite_71_e2e_ms": 169.42829999607056,
+      "speedup": 10.412303449596392,
+      "ms_saved": 1594.7105725122674
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\187.mp3",
+      "orig_113_e2e_ms": 1730.471372493921,
+      "lite_71_e2e_ms": 173.49250000552274,
+      "speedup": 9.974329567208008,
+      "ms_saved": 1556.9788724883983
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\623.mp3",
+      "orig_113_e2e_ms": 1844.994872523384,
+      "lite_71_e2e_ms": 202.9043999791611,
+      "speedup": 9.092926879421396,
+      "ms_saved": 1642.090472544223
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\796.mp3",
+      "orig_113_e2e_ms": 1863.984872534784,
+      "lite_71_e2e_ms": 187.7323999942746,
+      "speedup": 9.928946056150302,
+      "ms_saved": 1676.2524725405092
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\136.mp3",
+      "orig_113_e2e_ms": 1873.341772478452,
+      "lite_71_e2e_ms": 195.65999999758787,
+      "speedup": 9.574474969342464,
+      "ms_saved": 1677.681772480864
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\831.mp3",
+      "orig_113_e2e_ms": 1852.483872504817,
+      "lite_71_e2e_ms": 177.6516999816522,
+      "speedup": 10.427616919489886,
+      "ms_saved": 1674.8321725231651
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\139.mp3",
+      "orig_113_e2e_ms": 1860.7705725067356,
+      "lite_71_e2e_ms": 185.87469999329187,
+      "speedup": 10.01088675636808,
+      "ms_saved": 1674.8958725134437
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\137.mp3",
+      "orig_113_e2e_ms": 1829.720672516996,
+      "lite_71_e2e_ms": 177.4763999856077,
+      "speedup": 10.30965622846404,
+      "ms_saved": 1652.244272531388
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\144.mp3",
+      "orig_113_e2e_ms": 1845.862072491,
+      "lite_71_e2e_ms": 190.30749998637475,
+      "speedup": 9.699365882180976,
+      "ms_saved": 1655.5545725046252
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\186.mp3",
+      "orig_113_e2e_ms": 1836.061372485856,
+      "lite_71_e2e_ms": 184.05439998605289,
+      "speedup": 9.975645095281545,
+      "ms_saved": 1652.006972499803
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\456.mp3",
+      "orig_113_e2e_ms": 1660.0833725011034,
+      "lite_71_e2e_ms": 172.77370000374503,
+      "speedup": 9.60842635461948,
+      "ms_saved": 1487.3096724973584
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\661.mp3",
+      "orig_113_e2e_ms": 1129.8179724895454,
+      "lite_71_e2e_ms": 115.10279998765328,
+      "speedup": 9.815729700847742,
+      "ms_saved": 1014.715172501892
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\825.mp3",
+      "orig_113_e2e_ms": 1894.212772493629,
+      "lite_71_e2e_ms": 178.8269999960903,
+      "speedup": 10.59243163803588,
+      "ms_saved": 1715.3857724975387
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\565.mp3",
+      "orig_113_e2e_ms": 1854.6649725236052,
+      "lite_71_e2e_ms": 184.71299999509935,
+      "speedup": 10.04079286554174,
+      "ms_saved": 1669.951972528506
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\679.mp3",
+      "orig_113_e2e_ms": 2034.192172525363,
+      "lite_71_e2e_ms": 173.90620001242496,
+      "speedup": 11.69706527070356,
+      "ms_saved": 1860.285972512938
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\622.mp3",
+      "orig_113_e2e_ms": 1568.1852725161298,
+      "lite_71_e2e_ms": 220.33200002624653,
+      "speedup": 7.117374109658712,
+      "ms_saved": 1347.8532724898832
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\814.mp3",
+      "orig_113_e2e_ms": 1851.870672492223,
+      "lite_71_e2e_ms": 208.5896999924444,
+      "speedup": 8.87805424984696,
+      "ms_saved": 1643.2809724997787
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\388.mp3",
+      "orig_113_e2e_ms": 1563.7349725062086,
+      "lite_71_e2e_ms": 185.9120999870356,
+      "speedup": 8.411152219867637,
+      "ms_saved": 1377.822872519173
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\521.mp3",
+      "orig_113_e2e_ms": 1867.159972497175,
+      "lite_71_e2e_ms": 174.10259999451227,
+      "speedup": 10.72448069446423,
+      "ms_saved": 1693.0573725026627
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\599.mp3",
+      "orig_113_e2e_ms": 1859.1663724569664,
+      "lite_71_e2e_ms": 192.78939999639988,
+      "speedup": 9.643509303372923,
+      "ms_saved": 1666.3769724605663
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\903.mp3",
+      "orig_113_e2e_ms": 1859.494072507514,
+      "lite_71_e2e_ms": 178.71979999472387,
+      "speedup": 10.40452189719555,
+      "ms_saved": 1680.77427251279
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\716.mp3",
+      "orig_113_e2e_ms": 1776.4771724528691,
+      "lite_71_e2e_ms": 185.1221999968402,
+      "speedup": 9.596240604763723,
+      "ms_saved": 1591.354972456029
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\979.mp3",
+      "orig_113_e2e_ms": 1865.5670724752415,
+      "lite_71_e2e_ms": 182.03450000146404,
+      "speedup": 10.24842583389543,
+      "ms_saved": 1683.5325724737777
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\993.mp3",
+      "orig_113_e2e_ms": 1952.9651724793075,
+      "lite_71_e2e_ms": 185.9536999836564,
+      "speedup": 10.502427070023105,
+      "ms_saved": 1767.011472495651
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\7.mp3",
+      "orig_113_e2e_ms": 1841.061272489751,
+      "lite_71_e2e_ms": 179.7282999905292,
+      "speedup": 10.24358029640722,
+      "ms_saved": 1661.3329724992218
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\410.mp3",
+      "orig_113_e2e_ms": 1884.970272547944,
+      "lite_71_e2e_ms": 282.1493999799713,
+      "speedup": 6.680752369779096,
+      "ms_saved": 1602.8208725679724
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\653.mp3",
+      "orig_113_e2e_ms": 1869.750372547569,
+      "lite_71_e2e_ms": 190.5357000068761,
+      "speedup": 9.81312359038276,
+      "ms_saved": 1679.2146725406928
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\355.mp3",
+      "orig_113_e2e_ms": 1806.970272510225,
+      "lite_71_e2e_ms": 179.18489998555742,
+      "speedup": 10.084389212795662,
+      "ms_saved": 1627.7853725246675
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\354.mp3",
+      "orig_113_e2e_ms": 1898.4769725416843,
+      "lite_71_e2e_ms": 172.87160002160817,
+      "speedup": 10.98200613810703,
+      "ms_saved": 1725.605372520076
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\196.mp3",
+      "orig_113_e2e_ms": 1038.8515724976603,
+      "lite_71_e2e_ms": 106.9411000062246,
+      "speedup": 9.71424057202697,
+      "ms_saved": 931.910472491436
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\394.mp3",
+      "orig_113_e2e_ms": 1849.2764724711012,
+      "lite_71_e2e_ms": 169.61119999177754,
+      "speedup": 10.903032774726851,
+      "ms_saved": 1679.665272479324
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\585.mp3",
+      "orig_113_e2e_ms": 1844.957872532687,
+      "lite_71_e2e_ms": 176.13330000313,
+      "speedup": 10.474781727815811,
+      "ms_saved": 1668.8245725295567
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\16.mp3",
+      "orig_113_e2e_ms": 1847.3380724959131,
+      "lite_71_e2e_ms": 178.52479999419302,
+      "speedup": 10.347795222602144,
+      "ms_saved": 1668.8132725017203
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\934.mp3",
+      "orig_113_e2e_ms": 1862.7149725276104,
+      "lite_71_e2e_ms": 193.61660000868144,
+      "speedup": 9.620636724558173,
+      "ms_saved": 1669.0983725189292
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\69.mp3",
+      "orig_113_e2e_ms": 1068.6978725194058,
+      "lite_71_e2e_ms": 102.448399993591,
+      "speedup": 10.4315721142181,
+      "ms_saved": 966.2494725258148
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\225.mp3",
+      "orig_113_e2e_ms": 1228.5525725515618,
+      "lite_71_e2e_ms": 130.4459999955725,
+      "speedup": 9.418093100541684,
+      "ms_saved": 1098.1065725559893
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\776.mp3",
+      "orig_113_e2e_ms": 1880.9830724554197,
+      "lite_71_e2e_ms": 179.498399986187,
+      "speedup": 10.479107739122842,
+      "ms_saved": 1701.4846724692325
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\522.mp3",
+      "orig_113_e2e_ms": 1846.143272478512,
+      "lite_71_e2e_ms": 172.3665000172332,
+      "speedup": 10.710568888350895,
+      "ms_saved": 1673.7767724612786
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\951.mp3",
+      "orig_113_e2e_ms": 1608.7573725440598,
+      "lite_71_e2e_ms": 153.8896999845747,
+      "speedup": 10.453963928094703,
+      "ms_saved": 1454.867672559485
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\564.mp3",
+      "orig_113_e2e_ms": 1826.135172456416,
+      "lite_71_e2e_ms": 173.27800000202842,
+      "speedup": 10.538759521895676,
+      "ms_saved": 1652.8571724543874
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\589.mp3",
+      "orig_113_e2e_ms": 1845.0109725295629,
+      "lite_71_e2e_ms": 170.2604999882169,
+      "speedup": 10.836400531287344,
+      "ms_saved": 1674.7504725413455
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\108.mp3",
+      "orig_113_e2e_ms": 1822.0834725130403,
+      "lite_71_e2e_ms": 175.79009998007675,
+      "speedup": 10.365108573915975,
+      "ms_saved": 1646.2933725329638
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\332.mp3",
+      "orig_113_e2e_ms": 1882.606772479048,
+      "lite_71_e2e_ms": 179.6766000043135,
+      "speedup": 10.47775154045575,
+      "ms_saved": 1702.9301724747345
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\659.mp3",
+      "orig_113_e2e_ms": 1866.3539724716973,
+      "lite_71_e2e_ms": 245.33450001035817,
+      "speedup": 7.607384906700439,
+      "ms_saved": 1621.019472461339
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\312.mp3",
+      "orig_113_e2e_ms": 1904.8783725070823,
+      "lite_71_e2e_ms": 175.42039998807013,
+      "speedup": 10.858933012560843,
+      "ms_saved": 1729.4579725190124
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\692.mp3",
+      "orig_113_e2e_ms": 1038.014972530218,
+      "lite_71_e2e_ms": 97.68310000072232,
+      "speedup": 10.626351666998104,
+      "ms_saved": 940.3318725294956
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\319.mp3",
+      "orig_113_e2e_ms": 1871.310772496654,
+      "lite_71_e2e_ms": 182.06669998471625,
+      "speedup": 10.278160545853485,
+      "ms_saved": 1689.2440725119377
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\97.mp3",
+      "orig_113_e2e_ms": 1207.8231725086516,
+      "lite_71_e2e_ms": 118.9163999806624,
+      "speedup": 10.156910003204452,
+      "ms_saved": 1088.9067725279892
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\294.mp3",
+      "orig_113_e2e_ms": 1907.446972507896,
+      "lite_71_e2e_ms": 181.2361000047531,
+      "speedup": 10.524652497255632,
+      "ms_saved": 1726.210872503143
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\468.mp3",
+      "orig_113_e2e_ms": 1888.3659725020696,
+      "lite_71_e2e_ms": 184.14739999570884,
+      "speedup": 10.254643685146108,
+      "ms_saved": 1704.218572506361
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\171.mp3",
+      "orig_113_e2e_ms": 1830.124872509768,
+      "lite_71_e2e_ms": 179.89549998310395,
+      "speedup": 10.173266550200848,
+      "ms_saved": 1650.2293725266643
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\490.mp3",
+      "orig_113_e2e_ms": 1700.832972483622,
+      "lite_71_e2e_ms": 170.52590000093917,
+      "speedup": 9.974044837026252,
+      "ms_saved": 1530.307072482683
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\265.mp3",
+      "orig_113_e2e_ms": 1848.2860724967031,
+      "lite_71_e2e_ms": 291.4433999976609,
+      "speedup": 6.34183540444401,
+      "ms_saved": 1556.8426724990422
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\510.mp3",
+      "orig_113_e2e_ms": 1895.9383724782676,
+      "lite_71_e2e_ms": 240.93050000374205,
+      "speedup": 7.869233544315977,
+      "ms_saved": 1655.0078724745254
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\19.mp3",
+      "orig_113_e2e_ms": 1874.57827252234,
+      "lite_71_e2e_ms": 277.8950000065379,
+      "speedup": 6.745635122899792,
+      "ms_saved": 1596.683272515802
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\639.mp3",
+      "orig_113_e2e_ms": 1229.664972465398,
+      "lite_71_e2e_ms": 128.66590000339784,
+      "speedup": 9.557038597118,
+      "ms_saved": 1100.9990724620002
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\572.mp3",
+      "orig_113_e2e_ms": 1875.59057254708,
+      "lite_71_e2e_ms": 181.2008999986574,
+      "speedup": 10.350889937969274,
+      "ms_saved": 1694.3896725484224
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\846.mp3",
+      "orig_113_e2e_ms": 1886.375172477128,
+      "lite_71_e2e_ms": 266.58189998124726,
+      "speedup": 7.076156230448598,
+      "ms_saved": 1619.7932724958805
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\405.mp3",
+      "orig_113_e2e_ms": 1498.9850724874125,
+      "lite_71_e2e_ms": 135.02870002412237,
+      "speedup": 11.101233087629698,
+      "ms_saved": 1363.95637246329
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\862.mp3",
+      "orig_113_e2e_ms": 1895.6506724994688,
+      "lite_71_e2e_ms": 171.8298000050709,
+      "speedup": 11.03214152867271,
+      "ms_saved": 1723.8208724943977
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\368.mp3",
+      "orig_113_e2e_ms": 1868.1293725444996,
+      "lite_71_e2e_ms": 173.4639999922365,
+      "speedup": 10.769550872965622,
+      "ms_saved": 1694.6653725522629
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\185.mp3",
+      "orig_113_e2e_ms": 1878.1310725085496,
+      "lite_71_e2e_ms": 190.1062999968417,
+      "speedup": 9.879373132504034,
+      "ms_saved": 1688.024772511708
+    },
+    {
+      "dataset": "PMEmo (Mood)",
+      "track": "D:\\Projects\\music_ml_project\\data\\pmemo\\chorus\\733.mp3",
+      "orig_113_e2e_ms": 1652.3971725314914,
+      "lite_71_e2e_ms": 267.619200021727,
+      "speedup": 6.174434317109308,
+      "ms_saved": 1384.7779725097644
+    }
+  ],
+  "conformal_summary": [
+    {
+      "Target Coverage": "50%",
+      "Valence Coverage": "52.86% \u00b1 7.26%",
+      "Arousal Coverage": "52.53% \u00b1 5.28%",
+      "Joint Coverage": "31.27% \u00b1 5.62%",
+      "Mean Valence Width": "0.167 \u00b1 0.021",
+      "Mean Arousal Width": "0.150 \u00b1 0.014",
+      "Mean Zone-Set Size": "2.74 \u00b1 0.25",
+      "Singleton Rate": "12.47% \u00b1 5.46%",
+      "Zone-Set Coverage": "76.04% \u00b1 4.37%"
+    },
+    {
+      "Target Coverage": "70%",
+      "Valence Coverage": "70.62% \u00b1 5.13%",
+      "Arousal Coverage": "70.97% \u00b1 4.80%",
+      "Joint Coverage": "53.80% \u00b1 5.23%",
+      "Mean Valence Width": "0.255 \u00b1 0.017",
+      "Mean Arousal Width": "0.225 \u00b1 0.015",
+      "Mean Zone-Set Size": "3.82 \u00b1 0.19",
+      "Singleton Rate": "0.19% \u00b1 0.60%",
+      "Zone-Set Coverage": "86.69% \u00b1 2.35%"
+    },
+    {
+      "Target Coverage": "80%",
+      "Valence Coverage": "80.26% \u00b1 4.98%",
+      "Arousal Coverage": "80.19% \u00b1 4.66%",
+      "Joint Coverage": "67.21% \u00b1 6.24%",
+      "Mean Valence Width": "0.315 \u00b1 0.019",
+      "Mean Arousal Width": "0.279 \u00b1 0.021",
+      "Mean Zone-Set Size": "4.65 \u00b1 0.25",
+      "Singleton Rate": "0.00% \u00b1 0.00%",
+      "Zone-Set Coverage": "91.04% \u00b1 2.77%"
+    },
+    {
+      "Target Coverage": "90%",
+      "Valence Coverage": "89.71% \u00b1 3.32%",
+      "Arousal Coverage": "90.00% \u00b1 2.46%",
+      "Joint Coverage": "82.66% \u00b1 3.46%",
+      "Mean Valence Width": "0.406 \u00b1 0.028",
+      "Mean Arousal Width": "0.371 \u00b1 0.015",
+      "Mean Zone-Set Size": "6.21 \u00b1 0.29",
+      "Singleton Rate": "0.00% \u00b1 0.00%",
+      "Zone-Set Coverage": "95.39% \u00b1 1.70%"
+    },
+    {
+      "Target Coverage": "95%",
+      "Valence Coverage": "95.36% \u00b1 1.99%",
+      "Arousal Coverage": "94.77% \u00b1 2.34%",
+      "Joint Coverage": "91.36% \u00b1 2.73%",
+      "Mean Valence Width": "0.495 \u00b1 0.039",
+      "Mean Arousal Width": "0.449 \u00b1 0.031",
+      "Mean Zone-Set Size": "7.75 \u00b1 0.46",
+      "Singleton Rate": "0.00% \u00b1 0.00%",
+      "Zone-Set Coverage": "97.73% \u00b1 1.31%"
+    }
+  ],
+  "zone_grid": [
+    {
+      "Arousal_Range": "Arousal [0.75, 1.00]",
+      "Valence [0.00, 0.25]": "Frustrated: True=5 | Pred=0",
+      "Valence [0.25, 0.50]": "Tense: True=17 | Pred=0",
+      "Valence [0.50, 0.75]": "Energetic: True=435 | Pred=512",
+      "Valence [0.75, 1.00]": "Excited: True=446 | Pred=192"
+    },
+    {
+      "Arousal_Range": "Arousal [0.50, 0.75]",
+      "Valence [0.00, 0.25]": "Angry: True=24 | Pred=0",
+      "Valence [0.25, 0.50]": "Distressed: True=242 | Pred=271",
+      "Valence [0.50, 0.75]": "Pleased: True=1001 | Pred=1351",
+      "Valence [0.75, 1.00]": "Happy: True=171 | Pred=36"
+    },
+    {
+      "Arousal_Range": "Arousal [0.25, 0.50]",
+      "Valence [0.00, 0.25]": "Sad: True=19 | Pred=1",
+      "Valence [0.25, 0.50]": "Gloomy: True=431 | Pred=452",
+      "Valence [0.50, 0.75]": "Peaceful: True=190 | Pred=258",
+      "Valence [0.75, 1.00]": "Relaxed: True=0 | Pred=0"
+    },
+    {
+      "Arousal_Range": "Arousal [0.00, 0.25]",
+      "Valence [0.00, 0.25]": "Depressed: True=14 | Pred=0",
+      "Valence [0.25, 0.50]": "Bored: True=74 | Pred=7",
+      "Valence [0.50, 0.75]": "Calm: True=11 | Pred=0",
+      "Valence [0.75, 1.00]": "Serene: True=0 | Pred=0"
+    }
+  ],
+  "conformal_sweep": [
+    {
+      "seed": 0,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.448051948051948,
+      "emp_cov_arousal": 0.5324675324675324,
+      "emp_cov_joint": 0.2727272727272727,
+      "mean_width_valence": 0.1524365775795788,
+      "mean_width_arousal": 0.1497785033933982,
+      "mean_set_size": 2.688311688311688,
+      "singleton_rate": 0.1298701298701298,
+      "zone_set_coverage": 0.7662337662337663
+    },
+    {
+      "seed": 0,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7662337662337663,
+      "emp_cov_arousal": 0.7662337662337663,
+      "emp_cov_joint": 0.6233766233766234,
+      "mean_width_valence": 0.2609626744999047,
+      "mean_width_arousal": 0.2424706212258532,
+      "mean_set_size": 4.0,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9090909090909092
+    },
+    {
+      "seed": 0,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8831168831168831,
+      "emp_cov_arousal": 0.8701298701298701,
+      "emp_cov_joint": 0.7922077922077922,
+      "mean_width_valence": 0.3360908468504914,
+      "mean_width_arousal": 0.307981683188001,
+      "mean_set_size": 4.967532467532467,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.948051948051948
+    },
+    {
+      "seed": 0,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.9090909090909092,
+      "emp_cov_joint": 0.8636363636363636,
+      "mean_width_valence": 0.3994252930594762,
+      "mean_width_arousal": 0.3710444579009908,
+      "mean_set_size": 6.097402597402597,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.961038961038961
+    },
+    {
+      "seed": 0,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9805194805194806,
+      "emp_cov_arousal": 0.9805194805194806,
+      "emp_cov_joint": 0.9675324675324676,
+      "mean_width_valence": 0.5721941356332755,
+      "mean_width_arousal": 0.4589253651837618,
+      "mean_set_size": 8.38961038961039,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.987012987012987
+    },
+    {
+      "seed": 1,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.461038961038961,
+      "emp_cov_arousal": 0.5584415584415584,
+      "emp_cov_joint": 0.2792207792207792,
+      "mean_width_valence": 0.1635617426679583,
+      "mean_width_arousal": 0.1464086650418536,
+      "mean_set_size": 2.707792207792208,
+      "singleton_rate": 0.1233766233766233,
+      "zone_set_coverage": 0.7857142857142857
+    },
+    {
+      "seed": 1,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7662337662337663,
+      "emp_cov_arousal": 0.7467532467532467,
+      "emp_cov_joint": 0.6168831168831169,
+      "mean_width_valence": 0.2752824976646129,
+      "mean_width_arousal": 0.2428309433894687,
+      "mean_set_size": 4.194805194805195,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8896103896103896
+    },
+    {
+      "seed": 1,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8311688311688312,
+      "emp_cov_arousal": 0.8181818181818182,
+      "emp_cov_joint": 0.7077922077922078,
+      "mean_width_valence": 0.3213618801813551,
+      "mean_width_arousal": 0.2890084845313517,
+      "mean_set_size": 4.759740259740259,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9285714285714286
+    },
+    {
+      "seed": 1,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8896103896103896,
+      "emp_cov_arousal": 0.8961038961038961,
+      "emp_cov_joint": 0.8311688311688312,
+      "mean_width_valence": 0.4074919458356087,
+      "mean_width_arousal": 0.3785848026400807,
+      "mean_set_size": 6.181818181818182,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.948051948051948
+    },
+    {
+      "seed": 1,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.948051948051948,
+      "emp_cov_arousal": 0.9545454545454546,
+      "emp_cov_joint": 0.922077922077922,
+      "mean_width_valence": 0.4747857872784148,
+      "mean_width_arousal": 0.4913279293881863,
+      "mean_set_size": 7.9480519480519485,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9805194805194806
+    },
+    {
+      "seed": 2,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.4935064935064935,
+      "emp_cov_arousal": 0.5454545454545454,
+      "emp_cov_joint": 0.3116883116883117,
+      "mean_width_valence": 0.1720634545849473,
+      "mean_width_arousal": 0.1492214113711709,
+      "mean_set_size": 2.75974025974026,
+      "singleton_rate": 0.1233766233766233,
+      "zone_set_coverage": 0.7272727272727273
+    },
+    {
+      "seed": 2,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6623376623376623,
+      "emp_cov_arousal": 0.6948051948051948,
+      "emp_cov_joint": 0.512987012987013,
+      "mean_width_valence": 0.2557330461446765,
+      "mean_width_arousal": 0.2283827906756513,
+      "mean_set_size": 3.8701298701298703,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8571428571428571
+    },
+    {
+      "seed": 2,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7662337662337663,
+      "emp_cov_arousal": 0.7597402597402597,
+      "emp_cov_joint": 0.6168831168831169,
+      "mean_width_valence": 0.3177105774613932,
+      "mean_width_arousal": 0.2649583296154943,
+      "mean_set_size": 4.577922077922078,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9155844155844156
+    },
+    {
+      "seed": 2,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.8766233766233766,
+      "emp_cov_joint": 0.8181818181818182,
+      "mean_width_valence": 0.4149712157885839,
+      "mean_width_arousal": 0.3590875094862613,
+      "mean_set_size": 6.259740259740259,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.961038961038961
+    },
+    {
+      "seed": 2,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9675324675324676,
+      "emp_cov_arousal": 0.9090909090909092,
+      "emp_cov_joint": 0.8831168831168831,
+      "mean_width_valence": 0.5075449686854462,
+      "mean_width_arousal": 0.3983775315335228,
+      "mean_set_size": 7.493506493506493,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9805194805194806
+    },
+    {
+      "seed": 3,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.5454545454545454,
+      "emp_cov_arousal": 0.5454545454545454,
+      "emp_cov_joint": 0.3246753246753247,
+      "mean_width_valence": 0.1658386631762489,
+      "mean_width_arousal": 0.1632625341242164,
+      "mean_set_size": 3.012987012987013,
+      "singleton_rate": 0.0389610389610389,
+      "zone_set_coverage": 0.7987012987012987
+    },
+    {
+      "seed": 3,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7077922077922078,
+      "emp_cov_arousal": 0.7272727272727273,
+      "emp_cov_joint": 0.5324675324675324,
+      "mean_width_valence": 0.2541085219734814,
+      "mean_width_arousal": 0.2258038225758772,
+      "mean_set_size": 3.948051948051948,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8766233766233766
+    },
+    {
+      "seed": 3,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7857142857142857,
+      "emp_cov_arousal": 0.8311688311688312,
+      "emp_cov_joint": 0.6558441558441559,
+      "mean_width_valence": 0.311563654517084,
+      "mean_width_arousal": 0.2848331420277513,
+      "mean_set_size": 4.48051948051948,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9090909090909092
+    },
+    {
+      "seed": 3,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8961038961038961,
+      "emp_cov_arousal": 0.9285714285714286,
+      "emp_cov_joint": 0.8441558441558441,
+      "mean_width_valence": 0.4039858891474805,
+      "mean_width_arousal": 0.39706335014949,
+      "mean_set_size": 6.084415584415584,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9675324675324676
+    },
+    {
+      "seed": 3,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.987012987012987,
+      "emp_cov_arousal": 0.9545454545454546,
+      "emp_cov_joint": 0.9415584415584416,
+      "mean_width_valence": 0.5329599901475068,
+      "mean_width_arousal": 0.4670256053289963,
+      "mean_set_size": 8.246753246753247,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9935064935064936
+    },
+    {
+      "seed": 4,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.5454545454545454,
+      "emp_cov_arousal": 0.512987012987013,
+      "emp_cov_joint": 0.3051948051948052,
+      "mean_width_valence": 0.1818543340077767,
+      "mean_width_arousal": 0.1527066789104705,
+      "mean_set_size": 3.012987012987013,
+      "singleton_rate": 0.0909090909090909,
+      "zone_set_coverage": 0.7467532467532467
+    },
+    {
+      "seed": 4,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6948051948051948,
+      "emp_cov_arousal": 0.6753246753246753,
+      "emp_cov_joint": 0.487012987012987,
+      "mean_width_valence": 0.2681393574776929,
+      "mean_width_arousal": 0.2252536127510637,
+      "mean_set_size": 3.935064935064935,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8311688311688312
+    },
+    {
+      "seed": 4,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7987012987012987,
+      "emp_cov_arousal": 0.7727272727272727,
+      "emp_cov_joint": 0.6493506493506493,
+      "mean_width_valence": 0.3196373017730329,
+      "mean_width_arousal": 0.2815836194854251,
+      "mean_set_size": 4.64935064935065,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8701298701298701
+    },
+    {
+      "seed": 4,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.8831168831168831,
+      "emp_cov_joint": 0.8311688311688312,
+      "mean_width_valence": 0.4421653601708609,
+      "mean_width_arousal": 0.3494146508912181,
+      "mean_set_size": 6.116883116883117,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9415584415584416
+    },
+    {
+      "seed": 4,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.961038961038961,
+      "emp_cov_arousal": 0.9155844155844156,
+      "emp_cov_joint": 0.8831168831168831,
+      "mean_width_valence": 0.5018122899319837,
+      "mean_width_arousal": 0.3962289920169204,
+      "mean_set_size": 7.032467532467533,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.948051948051948
+    },
+    {
+      "seed": 5,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.525974025974026,
+      "emp_cov_arousal": 0.5,
+      "emp_cov_joint": 0.3311688311688311,
+      "mean_width_valence": 0.1728919984556778,
+      "mean_width_arousal": 0.147750957103089,
+      "mean_set_size": 2.571428571428572,
+      "singleton_rate": 0.1688311688311688,
+      "zone_set_coverage": 0.7142857142857143
+    },
+    {
+      "seed": 5,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6558441558441559,
+      "emp_cov_arousal": 0.6688311688311688,
+      "emp_cov_joint": 0.4935064935064935,
+      "mean_width_valence": 0.2565137724247439,
+      "mean_width_arousal": 0.2238699746168332,
+      "mean_set_size": 3.7857142857142856,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8506493506493507
+    },
+    {
+      "seed": 5,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7142857142857143,
+      "emp_cov_arousal": 0.7857142857142857,
+      "emp_cov_joint": 0.5909090909090909,
+      "mean_width_valence": 0.2863002316737968,
+      "mean_width_arousal": 0.2826753421046739,
+      "mean_set_size": 4.545454545454546,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8831168831168831
+    },
+    {
+      "seed": 5,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8311688311688312,
+      "emp_cov_arousal": 0.8831168831168831,
+      "emp_cov_joint": 0.7532467532467533,
+      "mean_width_valence": 0.3579389881623443,
+      "mean_width_arousal": 0.3703967768835008,
+      "mean_set_size": 6.025974025974026,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.935064935064935
+    },
+    {
+      "seed": 5,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.9025974025974026,
+      "emp_cov_joint": 0.8571428571428571,
+      "mean_width_valence": 0.4204723380428374,
+      "mean_width_arousal": 0.4175316919850833,
+      "mean_set_size": 6.9480519480519485,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.961038961038961
+    },
+    {
+      "seed": 6,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.525974025974026,
+      "emp_cov_arousal": 0.6558441558441559,
+      "emp_cov_joint": 0.4155844155844156,
+      "mean_width_valence": 0.1790406067853023,
+      "mean_width_arousal": 0.1922911693440758,
+      "mean_set_size": 3.1623376623376624,
+      "singleton_rate": 0.0584415584415584,
+      "zone_set_coverage": 0.8311688311688312
+    },
+    {
+      "seed": 6,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6753246753246753,
+      "emp_cov_arousal": 0.7987012987012987,
+      "emp_cov_joint": 0.5714285714285714,
+      "mean_width_valence": 0.2472910850771901,
+      "mean_width_arousal": 0.266205340404531,
+      "mean_set_size": 4.012987012987013,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8896103896103896
+    },
+    {
+      "seed": 6,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7727272727272727,
+      "emp_cov_arousal": 0.8896103896103896,
+      "emp_cov_joint": 0.7077922077922078,
+      "mean_width_valence": 0.2969942743802982,
+      "mean_width_arousal": 0.3069389824937401,
+      "mean_set_size": 4.701298701298701,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9285714285714286
+    },
+    {
+      "seed": 6,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8701298701298701,
+      "emp_cov_arousal": 0.9415584415584416,
+      "emp_cov_joint": 0.8376623376623377,
+      "mean_width_valence": 0.3804538041557896,
+      "mean_width_arousal": 0.3915299965418918,
+      "mean_set_size": 6.188311688311688,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9805194805194806
+    },
+    {
+      "seed": 6,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.948051948051948,
+      "emp_cov_arousal": 0.961038961038961,
+      "emp_cov_joint": 0.9285714285714286,
+      "mean_width_valence": 0.4768634184058894,
+      "mean_width_arousal": 0.4416485075760321,
+      "mean_set_size": 7.512987012987013,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9935064935064936
+    },
+    {
+      "seed": 7,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.435064935064935,
+      "emp_cov_arousal": 0.5324675324675324,
+      "emp_cov_joint": 0.2662337662337662,
+      "mean_width_valence": 0.1479674318091419,
+      "mean_width_arousal": 0.1491143123377916,
+      "mean_set_size": 2.636363636363636,
+      "singleton_rate": 0.1558441558441558,
+      "zone_set_coverage": 0.7597402597402597
+    },
+    {
+      "seed": 7,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6948051948051948,
+      "emp_cov_arousal": 0.6883116883116883,
+      "emp_cov_joint": 0.5064935064935064,
+      "mean_width_valence": 0.2537904653395535,
+      "mean_width_arousal": 0.2138361631708746,
+      "mean_set_size": 3.7337662337662336,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8766233766233766
+    },
+    {
+      "seed": 7,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7727272727272727,
+      "emp_cov_arousal": 0.7727272727272727,
+      "emp_cov_joint": 0.6233766233766234,
+      "mean_width_valence": 0.2997149834837458,
+      "mean_width_arousal": 0.2567926584575512,
+      "mean_set_size": 4.311688311688312,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9090909090909092
+    },
+    {
+      "seed": 7,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8766233766233766,
+      "emp_cov_arousal": 0.9415584415584416,
+      "emp_cov_joint": 0.8506493506493507,
+      "mean_width_valence": 0.4135814559768204,
+      "mean_width_arousal": 0.3836610906947391,
+      "mean_set_size": 6.35064935064935,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.961038961038961
+    },
+    {
+      "seed": 7,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.948051948051948,
+      "emp_cov_arousal": 0.961038961038961,
+      "emp_cov_joint": 0.9285714285714286,
+      "mean_width_valence": 0.4906803086357452,
+      "mean_width_arousal": 0.4564602823920047,
+      "mean_set_size": 7.818181818181818,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.974025974025974
+    },
+    {
+      "seed": 8,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.6818181818181818,
+      "emp_cov_arousal": 0.5194805194805194,
+      "emp_cov_joint": 0.3831168831168831,
+      "mean_width_valence": 0.2091254585663173,
+      "mean_width_arousal": 0.1621629077368417,
+      "mean_set_size": 3.1623376623376624,
+      "singleton_rate": 0.0194805194805194,
+      "zone_set_coverage": 0.8051948051948052
+    },
+    {
+      "seed": 8,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.8116883116883117,
+      "emp_cov_arousal": 0.6753246753246753,
+      "emp_cov_joint": 0.577922077922078,
+      "mean_width_valence": 0.2870444410489108,
+      "mean_width_arousal": 0.2319804078744345,
+      "mean_set_size": 3.9415584415584415,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8831168831168831
+    },
+    {
+      "seed": 8,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8766233766233766,
+      "emp_cov_arousal": 0.7337662337662337,
+      "emp_cov_joint": 0.6558441558441559,
+      "mean_width_valence": 0.3478513012374006,
+      "mean_width_arousal": 0.2785202254871277,
+      "mean_set_size": 4.753246753246753,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9155844155844156
+    },
+    {
+      "seed": 8,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.948051948051948,
+      "emp_cov_arousal": 0.8506493506493507,
+      "emp_cov_joint": 0.8311688311688312,
+      "mean_width_valence": 0.4411356359246978,
+      "mean_width_arousal": 0.3472438667936387,
+      "mean_set_size": 6.266233766233766,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9545454545454546
+    },
+    {
+      "seed": 8,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.974025974025974,
+      "emp_cov_arousal": 0.935064935064935,
+      "emp_cov_joint": 0.935064935064935,
+      "mean_width_valence": 0.5307059608450897,
+      "mean_width_arousal": 0.4683945025680383,
+      "mean_set_size": 8.441558441558442,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9675324675324676
+    },
+    {
+      "seed": 9,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.5714285714285714,
+      "emp_cov_arousal": 0.512987012987013,
+      "emp_cov_joint": 0.3506493506493506,
+      "mean_width_valence": 0.1499580508558571,
+      "mean_width_arousal": 0.1231224533397932,
+      "mean_set_size": 2.363636363636364,
+      "singleton_rate": 0.2077922077922078,
+      "zone_set_coverage": 0.7337662337662337
+    },
+    {
+      "seed": 9,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7272727272727273,
+      "emp_cov_arousal": 0.6883116883116883,
+      "emp_cov_joint": 0.538961038961039,
+      "mean_width_valence": 0.2381424329720403,
+      "mean_width_arousal": 0.2012304878349881,
+      "mean_set_size": 3.448051948051948,
+      "singleton_rate": 0.0064935064935064,
+      "zone_set_coverage": 0.8636363636363636
+    },
+    {
+      "seed": 9,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8506493506493507,
+      "emp_cov_arousal": 0.8311688311688312,
+      "emp_cov_joint": 0.7532467532467533,
+      "mean_width_valence": 0.3096507167215001,
+      "mean_width_arousal": 0.2630529709485103,
+      "mean_set_size": 4.48051948051948,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9285714285714286
+    },
+    {
+      "seed": 9,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8831168831168831,
+      "emp_cov_arousal": 0.8961038961038961,
+      "emp_cov_joint": 0.8181818181818182,
+      "mean_width_valence": 0.4022560155755401,
+      "mean_width_arousal": 0.3667890455227071,
+      "mean_set_size": 6.214285714285714,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.961038961038961
+    },
+    {
+      "seed": 9,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.922077922077922,
+      "emp_cov_arousal": 0.922077922077922,
+      "emp_cov_joint": 0.8766233766233766,
+      "mean_width_valence": 0.4453240818265716,
+      "mean_width_arousal": 0.4178802408322951,
+      "mean_set_size": 7.136363636363637,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.974025974025974
+    },
+    {
+      "seed": 10,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.487012987012987,
+      "emp_cov_arousal": 0.5324675324675324,
+      "emp_cov_joint": 0.3051948051948052,
+      "mean_width_valence": 0.1716826207106923,
+      "mean_width_arousal": 0.1493859399582435,
+      "mean_set_size": 2.967532467532468,
+      "singleton_rate": 0.0844155844155844,
+      "zone_set_coverage": 0.7662337662337663
+    },
+    {
+      "seed": 10,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6623376623376623,
+      "emp_cov_arousal": 0.7077922077922078,
+      "emp_cov_joint": 0.525974025974026,
+      "mean_width_valence": 0.2682971303979068,
+      "mean_width_arousal": 0.21926578763336,
+      "mean_set_size": 3.8701298701298703,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8636363636363636
+    },
+    {
+      "seed": 10,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7987012987012987,
+      "emp_cov_arousal": 0.7662337662337663,
+      "emp_cov_joint": 0.6558441558441559,
+      "mean_width_valence": 0.3219033916357229,
+      "mean_width_arousal": 0.2570085914098569,
+      "mean_set_size": 4.383116883116883,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8831168831168831
+    },
+    {
+      "seed": 10,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.922077922077922,
+      "emp_cov_arousal": 0.9025974025974026,
+      "emp_cov_joint": 0.8571428571428571,
+      "mean_width_valence": 0.4119875467599698,
+      "mean_width_arousal": 0.3717237651481489,
+      "mean_set_size": 6.201298701298701,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9285714285714286
+    },
+    {
+      "seed": 10,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.948051948051948,
+      "emp_cov_arousal": 0.948051948051948,
+      "emp_cov_joint": 0.9155844155844156,
+      "mean_width_valence": 0.4697933911097103,
+      "mean_width_arousal": 0.484912103967648,
+      "mean_set_size": 7.889610389610389,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.961038961038961
+    },
+    {
+      "seed": 11,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.4935064935064935,
+      "emp_cov_arousal": 0.3896103896103896,
+      "emp_cov_joint": 0.2077922077922078,
+      "mean_width_valence": 0.1444549002505511,
+      "mean_width_arousal": 0.1337678313916345,
+      "mean_set_size": 2.4025974025974026,
+      "singleton_rate": 0.2337662337662337,
+      "zone_set_coverage": 0.6558441558441559
+    },
+    {
+      "seed": 11,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6688311688311688,
+      "emp_cov_arousal": 0.6038961038961039,
+      "emp_cov_joint": 0.4675324675324675,
+      "mean_width_valence": 0.2364367195639045,
+      "mean_width_arousal": 0.2054633790514378,
+      "mean_set_size": 3.603896103896104,
+      "singleton_rate": 0.0064935064935064,
+      "zone_set_coverage": 0.8311688311688312
+    },
+    {
+      "seed": 11,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7792207792207793,
+      "emp_cov_arousal": 0.7922077922077922,
+      "emp_cov_joint": 0.6493506493506493,
+      "mean_width_valence": 0.3266501455735942,
+      "mean_width_arousal": 0.2684663799322119,
+      "mean_set_size": 4.636363636363637,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8961038961038961
+    },
+    {
+      "seed": 11,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9155844155844156,
+      "emp_cov_arousal": 0.8896103896103896,
+      "emp_cov_joint": 0.8311688311688312,
+      "mean_width_valence": 0.4668319822070477,
+      "mean_width_arousal": 0.3585583417288338,
+      "mean_set_size": 6.798701298701299,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9545454545454546
+    },
+    {
+      "seed": 11,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9545454545454546,
+      "emp_cov_arousal": 0.9415584415584416,
+      "emp_cov_joint": 0.9090909090909092,
+      "mean_width_valence": 0.5578348175783493,
+      "mean_width_arousal": 0.4472241642384282,
+      "mean_set_size": 8.2987012987013,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9675324675324676
+    },
+    {
+      "seed": 12,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.4675324675324675,
+      "emp_cov_arousal": 0.5194805194805194,
+      "emp_cov_joint": 0.2727272727272727,
+      "mean_width_valence": 0.154776707696284,
+      "mean_width_arousal": 0.135929948958376,
+      "mean_set_size": 2.396103896103896,
+      "singleton_rate": 0.1363636363636363,
+      "zone_set_coverage": 0.7662337662337663
+    },
+    {
+      "seed": 12,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6753246753246753,
+      "emp_cov_arousal": 0.7207792207792207,
+      "emp_cov_joint": 0.525974025974026,
+      "mean_width_valence": 0.2398253708927107,
+      "mean_width_arousal": 0.2129926723335441,
+      "mean_set_size": 3.5324675324675323,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8636363636363636
+    },
+    {
+      "seed": 12,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8116883116883117,
+      "emp_cov_arousal": 0.8116883116883117,
+      "emp_cov_joint": 0.6948051948051948,
+      "mean_width_valence": 0.3046314853907502,
+      "mean_width_arousal": 0.2898578981739613,
+      "mean_set_size": 4.707792207792208,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.935064935064935
+    },
+    {
+      "seed": 12,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8896103896103896,
+      "emp_cov_arousal": 0.8831168831168831,
+      "emp_cov_joint": 0.8116883116883117,
+      "mean_width_valence": 0.3859553785388074,
+      "mean_width_arousal": 0.3581072142578624,
+      "mean_set_size": 6.051948051948052,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.948051948051948
+    },
+    {
+      "seed": 12,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9675324675324676,
+      "emp_cov_arousal": 0.9285714285714286,
+      "emp_cov_joint": 0.9090909090909092,
+      "mean_width_valence": 0.5133793922997502,
+      "mean_width_arousal": 0.4235851858895251,
+      "mean_set_size": 7.785714285714286,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.987012987012987
+    },
+    {
+      "seed": 13,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.5324675324675324,
+      "emp_cov_arousal": 0.461038961038961,
+      "emp_cov_joint": 0.2597402597402597,
+      "mean_width_valence": 0.1621942804335367,
+      "mean_width_arousal": 0.1387393874805995,
+      "mean_set_size": 2.5779220779220777,
+      "singleton_rate": 0.1623376623376623,
+      "zone_set_coverage": 0.7467532467532467
+    },
+    {
+      "seed": 13,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6753246753246753,
+      "emp_cov_arousal": 0.7142857142857143,
+      "emp_cov_joint": 0.4935064935064935,
+      "mean_width_valence": 0.2443796841728605,
+      "mean_width_arousal": 0.2167477149349169,
+      "mean_set_size": 3.7662337662337664,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8701298701298701
+    },
+    {
+      "seed": 13,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8116883116883117,
+      "emp_cov_arousal": 0.8311688311688312,
+      "emp_cov_joint": 0.6883116883116883,
+      "mean_width_valence": 0.2998091498157582,
+      "mean_width_arousal": 0.2603313129056018,
+      "mean_set_size": 4.467532467532467,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9090909090909092
+    },
+    {
+      "seed": 13,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9025974025974026,
+      "emp_cov_arousal": 0.9155844155844156,
+      "emp_cov_joint": 0.8311688311688312,
+      "mean_width_valence": 0.3871334605416638,
+      "mean_width_arousal": 0.3763271494909664,
+      "mean_set_size": 6.116883116883117,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9545454545454546
+    },
+    {
+      "seed": 13,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.9415584415584416,
+      "emp_cov_joint": 0.8766233766233766,
+      "mean_width_valence": 0.443456701777051,
+      "mean_width_arousal": 0.4319968639042522,
+      "mean_set_size": 7.207792207792208,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9805194805194806
+    },
+    {
+      "seed": 14,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.5584415584415584,
+      "emp_cov_arousal": 0.5454545454545454,
+      "emp_cov_joint": 0.3116883116883117,
+      "mean_width_valence": 0.1723373512804289,
+      "mean_width_arousal": 0.142431001227175,
+      "mean_set_size": 2.616883116883117,
+      "singleton_rate": 0.1233766233766233,
+      "zone_set_coverage": 0.7402597402597403
+    },
+    {
+      "seed": 14,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7272727272727273,
+      "emp_cov_arousal": 0.7532467532467533,
+      "emp_cov_joint": 0.564935064935065,
+      "mean_width_valence": 0.2692712253685238,
+      "mean_width_arousal": 0.2321381043990903,
+      "mean_set_size": 3.8896103896103895,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8701298701298701
+    },
+    {
+      "seed": 14,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8506493506493507,
+      "emp_cov_arousal": 0.8571428571428571,
+      "emp_cov_joint": 0.7662337662337663,
+      "mean_width_valence": 0.3392441114112761,
+      "mean_width_arousal": 0.3257639156960283,
+      "mean_set_size": 5.298701298701299,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.948051948051948
+    },
+    {
+      "seed": 14,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.9285714285714286,
+      "emp_cov_joint": 0.8831168831168831,
+      "mean_width_valence": 0.4407385066293685,
+      "mean_width_arousal": 0.3857417096227419,
+      "mean_set_size": 6.7727272727272725,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9675324675324676
+    },
+    {
+      "seed": 14,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.974025974025974,
+      "emp_cov_arousal": 0.961038961038961,
+      "emp_cov_joint": 0.948051948051948,
+      "mean_width_valence": 0.5453268687660526,
+      "mean_width_arousal": 0.4456779325708574,
+      "mean_set_size": 7.889610389610389,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9805194805194806
+    },
+    {
+      "seed": 15,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.6103896103896104,
+      "emp_cov_arousal": 0.4805194805194805,
+      "emp_cov_joint": 0.3311688311688311,
+      "mean_width_valence": 0.1941922945654832,
+      "mean_width_arousal": 0.1497343091679692,
+      "mean_set_size": 3.0,
+      "singleton_rate": 0.0909090909090909,
+      "zone_set_coverage": 0.7987012987012987
+    },
+    {
+      "seed": 15,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7792207792207793,
+      "emp_cov_arousal": 0.6623376623376623,
+      "emp_cov_joint": 0.538961038961039,
+      "mean_width_valence": 0.265032068669739,
+      "mean_width_arousal": 0.2126540885208879,
+      "mean_set_size": 3.824675324675325,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8766233766233766
+    },
+    {
+      "seed": 15,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8311688311688312,
+      "emp_cov_arousal": 0.7337662337662337,
+      "emp_cov_joint": 0.6103896103896104,
+      "mean_width_valence": 0.337075842412921,
+      "mean_width_arousal": 0.2442824003560966,
+      "mean_set_size": 4.636363636363637,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8896103896103896
+    },
+    {
+      "seed": 15,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8831168831168831,
+      "emp_cov_arousal": 0.9025974025974026,
+      "emp_cov_joint": 0.8051948051948052,
+      "mean_width_valence": 0.4088376263942789,
+      "mean_width_arousal": 0.3677395425193989,
+      "mean_set_size": 6.357142857142857,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9415584415584416
+    },
+    {
+      "seed": 15,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9155844155844156,
+      "emp_cov_arousal": 0.9935064935064936,
+      "emp_cov_joint": 0.9090909090909092,
+      "mean_width_valence": 0.4649447197125368,
+      "mean_width_arousal": 0.5148132423526465,
+      "mean_set_size": 8.285714285714286,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9675324675324676
+    },
+    {
+      "seed": 16,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.6233766233766234,
+      "emp_cov_arousal": 0.5844155844155844,
+      "emp_cov_joint": 0.4025974025974026,
+      "mean_width_valence": 0.191796354250525,
+      "mean_width_arousal": 0.1639029954737731,
+      "mean_set_size": 2.9285714285714284,
+      "singleton_rate": 0.0974025974025974,
+      "zone_set_coverage": 0.8311688311688312
+    },
+    {
+      "seed": 16,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7402597402597403,
+      "emp_cov_arousal": 0.7792207792207793,
+      "emp_cov_joint": 0.6038961038961039,
+      "mean_width_valence": 0.2533081731252355,
+      "mean_width_arousal": 0.2405444292565389,
+      "mean_set_size": 3.8701298701298703,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8961038961038961
+    },
+    {
+      "seed": 16,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8506493506493507,
+      "emp_cov_arousal": 0.8701298701298701,
+      "emp_cov_joint": 0.7597402597402597,
+      "mean_width_valence": 0.3193919109523468,
+      "mean_width_arousal": 0.3093235750419533,
+      "mean_set_size": 5.025974025974026,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9415584415584416
+    },
+    {
+      "seed": 16,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9285714285714286,
+      "emp_cov_arousal": 0.9025974025974026,
+      "emp_cov_joint": 0.8506493506493507,
+      "mean_width_valence": 0.4177884974339747,
+      "mean_width_arousal": 0.3859666198572273,
+      "mean_set_size": 6.363636363636363,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.974025974025974
+    },
+    {
+      "seed": 16,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9545454545454546,
+      "emp_cov_arousal": 0.961038961038961,
+      "emp_cov_joint": 0.9155844155844156,
+      "mean_width_valence": 0.4817889073153213,
+      "mean_width_arousal": 0.481338069093412,
+      "mean_set_size": 7.818181818181818,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 1.0
+    },
+    {
+      "seed": 17,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.461038961038961,
+      "emp_cov_arousal": 0.474025974025974,
+      "emp_cov_joint": 0.2662337662337662,
+      "mean_width_valence": 0.1421235341515592,
+      "mean_width_arousal": 0.1504338071306581,
+      "mean_set_size": 2.707792207792208,
+      "singleton_rate": 0.1233766233766233,
+      "zone_set_coverage": 0.7402597402597403
+    },
+    {
+      "seed": 17,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6168831168831169,
+      "emp_cov_arousal": 0.6558441558441559,
+      "emp_cov_joint": 0.4415584415584415,
+      "mean_width_valence": 0.2300215252613419,
+      "mean_width_arousal": 0.211352680652907,
+      "mean_set_size": 3.5844155844155843,
+      "singleton_rate": 0.0259740259740259,
+      "zone_set_coverage": 0.8246753246753247
+    },
+    {
+      "seed": 17,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7012987012987013,
+      "emp_cov_arousal": 0.7467532467532467,
+      "emp_cov_joint": 0.5584415584415584,
+      "mean_width_valence": 0.2848382933664162,
+      "mean_width_arousal": 0.2657634916121379,
+      "mean_set_size": 4.331168831168832,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8636363636363636
+    },
+    {
+      "seed": 17,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8246753246753247,
+      "emp_cov_arousal": 0.8571428571428571,
+      "emp_cov_joint": 0.7337662337662337,
+      "mean_width_valence": 0.3550333579971296,
+      "mean_width_arousal": 0.3464094167376759,
+      "mean_set_size": 5.396103896103896,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9090909090909092
+    },
+    {
+      "seed": 17,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.935064935064935,
+      "emp_cov_arousal": 0.961038961038961,
+      "emp_cov_joint": 0.9090909090909092,
+      "mean_width_valence": 0.4831936975738707,
+      "mean_width_arousal": 0.4282046291629744,
+      "mean_set_size": 7.383116883116883,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9675324675324676
+    },
+    {
+      "seed": 18,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.4415584415584415,
+      "emp_cov_arousal": 0.538961038961039,
+      "emp_cov_joint": 0.2532467532467532,
+      "mean_width_valence": 0.124183250490363,
+      "mean_width_arousal": 0.1440145567153592,
+      "mean_set_size": 2.4220779220779223,
+      "singleton_rate": 0.2012987012987013,
+      "zone_set_coverage": 0.7012987012987013
+    },
+    {
+      "seed": 18,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.6558441558441559,
+      "emp_cov_arousal": 0.7077922077922078,
+      "emp_cov_joint": 0.512987012987013,
+      "mean_width_valence": 0.2184646477125931,
+      "mean_width_arousal": 0.2276276299385896,
+      "mean_set_size": 3.5454545454545454,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8311688311688312
+    },
+    {
+      "seed": 18,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.7402597402597403,
+      "emp_cov_arousal": 0.7792207792207793,
+      "emp_cov_joint": 0.6233766233766234,
+      "mean_width_valence": 0.284905048775482,
+      "mean_width_arousal": 0.2773318533899843,
+      "mean_set_size": 4.4480519480519485,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8636363636363636
+    },
+    {
+      "seed": 18,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.8636363636363636,
+      "emp_cov_arousal": 0.8961038961038961,
+      "emp_cov_joint": 0.8051948051948052,
+      "mean_width_valence": 0.3878571642215083,
+      "mean_width_arousal": 0.3937186502893287,
+      "mean_set_size": 6.292207792207792,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9545454545454546
+    },
+    {
+      "seed": 18,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.961038961038961,
+      "emp_cov_arousal": 0.9675324675324676,
+      "emp_cov_joint": 0.9285714285714286,
+      "mean_width_valence": 0.5017960571165132,
+      "mean_width_arousal": 0.4616440975489699,
+      "mean_set_size": 7.987012987012987,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.987012987012987
+    },
+    {
+      "seed": 19,
+      "nominal_coverage": 0.5,
+      "emp_cov_valence": 0.6623376623376623,
+      "emp_cov_arousal": 0.564935064935065,
+      "emp_cov_joint": 0.4025974025974026,
+      "mean_width_valence": 0.193369866753112,
+      "mean_width_arousal": 0.1478776929362178,
+      "mean_set_size": 2.7857142857142856,
+      "singleton_rate": 0.1233766233766233,
+      "zone_set_coverage": 0.7922077922077922
+    },
+    {
+      "seed": 19,
+      "nominal_coverage": 0.7,
+      "emp_cov_valence": 0.7597402597402597,
+      "emp_cov_arousal": 0.7597402597402597,
+      "emp_cov_joint": 0.6233766233766234,
+      "mean_width_valence": 0.2771161256761099,
+      "mean_width_arousal": 0.2208321916394753,
+      "mean_set_size": 3.967532467532468,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.8831168831168831
+    },
+    {
+      "seed": 19,
+      "nominal_coverage": 0.8,
+      "emp_cov_valence": 0.8246753246753247,
+      "emp_cov_arousal": 0.7857142857142857,
+      "emp_cov_joint": 0.6818181818181818,
+      "mean_width_valence": 0.3335379730701517,
+      "mean_width_arousal": 0.2606058008102509,
+      "mean_set_size": 4.831168831168832,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.9415584415584416
+    },
+    {
+      "seed": 19,
+      "nominal_coverage": 0.9,
+      "emp_cov_valence": 0.9025974025974026,
+      "emp_cov_arousal": 0.9155844155844156,
+      "emp_cov_joint": 0.8441558441558441,
+      "mean_width_valence": 0.3886733330521878,
+      "mean_width_arousal": 0.3611309714497674,
+      "mean_set_size": 5.967532467532467,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.974025974025974
+    },
+    {
+      "seed": 19,
+      "nominal_coverage": 0.95,
+      "emp_cov_valence": 0.9675324675324676,
+      "emp_cov_arousal": 0.9545454545454546,
+      "emp_cov_joint": 0.9285714285714286,
+      "mean_width_valence": 0.489001417193616,
+      "mean_width_arousal": 0.4487464256107201,
+      "mean_set_size": 7.545454545454546,
+      "singleton_rate": 0.0,
+      "zone_set_coverage": 0.987012987012987
+    }
+  ],
+  "shap_group": [
+    {
+      "Feature Group": "MFCC",
+      "Feature Count": 52,
+      "Genre SHAP Sum": "5.5348 (61.0%)",
+      "Valence SHAP Sum": "0.2382 (75.9%)",
+      "Arousal SHAP Sum": "0.2455 (75.0%)",
+      "pct_genre": 60.99095919360914,
+      "pct_valence": 75.90815323630842,
+      "pct_arousal": 75.03984292825714
+    },
+    {
+      "Feature Group": "SpecContrast",
+      "Feature Count": 14,
+      "Genre SHAP Sum": "2.5519 (28.1%)",
+      "Valence SHAP Sum": "0.0487 (15.5%)",
+      "Arousal SHAP Sum": "0.0551 (16.9%)",
+      "pct_genre": 28.12102313145889,
+      "pct_valence": 15.530163171120396,
+      "pct_arousal": 16.8580284655052
+    },
+    {
+      "Feature Group": "Temporal",
+      "Feature Count": 5,
+      "Genre SHAP Sum": "0.9881 (10.9%)",
+      "Valence SHAP Sum": "0.0269 (8.6%)",
+      "Arousal SHAP Sum": "0.0265 (8.1%)",
+      "pct_genre": 10.888017674931952,
+      "pct_valence": 8.561683592571177,
+      "pct_arousal": 8.102128606237663
+    }
+  ],
+  "shap_top15": [
+    {
+      "Rank": 1,
+      "Genre_Feature": "mfcc_mean_4",
+      "Genre_Group": "MFCC",
+      "Valence_Feature": "mfcc_std_2",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_mean_1",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 2,
+      "Genre_Feature": "spectral_contrast_mean_5",
+      "Genre_Group": "SpecContrast",
+      "Valence_Feature": "mfcc_mean_1",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_mean_2",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 3,
+      "Genre_Feature": "spectral_contrast_mean_7",
+      "Genre_Group": "SpecContrast",
+      "Valence_Feature": "zcr_mean",
+      "Valence_Group": "Temporal",
+      "Arousal_Feature": "zcr_mean",
+      "Arousal_Group": "Temporal"
+    },
+    {
+      "Rank": 4,
+      "Genre_Feature": "spectral_contrast_mean_1",
+      "Genre_Group": "SpecContrast",
+      "Valence_Feature": "spectral_contrast_mean_7",
+      "Valence_Group": "SpecContrast",
+      "Arousal_Feature": "spectral_contrast_mean_3",
+      "Arousal_Group": "SpecContrast"
+    },
+    {
+      "Rank": 5,
+      "Genre_Feature": "delta_mfcc_std_4",
+      "Genre_Group": "MFCC",
+      "Valence_Feature": "delta_mfcc_std_3",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_std_1",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 6,
+      "Genre_Feature": "mfcc_mean_9",
+      "Genre_Group": "MFCC",
+      "Valence_Feature": "mfcc_mean_2",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "spectral_contrast_mean_1",
+      "Arousal_Group": "SpecContrast"
+    },
+    {
+      "Rank": 7,
+      "Genre_Feature": "rms_std",
+      "Genre_Group": "Temporal",
+      "Valence_Feature": "mfcc_std_9",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "delta_mfcc_mean_1",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 8,
+      "Genre_Feature": "delta_mfcc_std_7",
+      "Genre_Group": "MFCC",
+      "Valence_Feature": "mfcc_mean_8",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_mean_3",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 9,
+      "Genre_Feature": "spectral_contrast_mean_4",
+      "Genre_Group": "SpecContrast",
+      "Valence_Feature": "delta_mfcc_std_5",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_mean_4",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 10,
+      "Genre_Feature": "spectral_contrast_mean_3",
+      "Genre_Group": "SpecContrast",
+      "Valence_Feature": "mfcc_std_11",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "rms_mean",
+      "Arousal_Group": "Temporal"
+    },
+    {
+      "Rank": 11,
+      "Genre_Feature": "spectral_contrast_std_4",
+      "Genre_Group": "SpecContrast",
+      "Valence_Feature": "mfcc_std_4",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_std_3",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 12,
+      "Genre_Feature": "delta_mfcc_std_3",
+      "Genre_Group": "MFCC",
+      "Valence_Feature": "mfcc_mean_10",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "delta_mfcc_std_2",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 13,
+      "Genre_Feature": "delta_mfcc_std_6",
+      "Genre_Group": "MFCC",
+      "Valence_Feature": "mfcc_std_1",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "spectral_contrast_std_4",
+      "Arousal_Group": "SpecContrast"
+    },
+    {
+      "Rank": 14,
+      "Genre_Feature": "tempo",
+      "Genre_Group": "Temporal",
+      "Valence_Feature": "delta_mfcc_std_1",
+      "Valence_Group": "MFCC",
+      "Arousal_Feature": "mfcc_std_2",
+      "Arousal_Group": "MFCC"
+    },
+    {
+      "Rank": 15,
+      "Genre_Feature": "zcr_mean",
+      "Genre_Group": "Temporal",
+      "Valence_Feature": "spectral_contrast_mean_1",
+      "Valence_Group": "SpecContrast",
+      "Arousal_Feature": "mfcc_mean_10",
+      "Arousal_Group": "MFCC"
+    }
+  ]
+}

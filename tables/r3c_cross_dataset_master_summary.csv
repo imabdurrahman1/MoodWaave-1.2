@@ -1,0 +1,12 @@
+dimension,GTZAN,FMA_small,PMEmo,DEAM
+Task & Domain,Genre Classification (10 classes),Genre Classification (8 classes),"Emotion Regression (Valence/Arousal [0,1])","Emotion Regression (Valence/Arousal [0,1])"
+Audio Format & Sample Rate,Uncompressed WAV (22.05 kHz),Compressed MP3 (44.1 kHz),Compressed MP3 (44.1 kHz),Compressed MP3 (44.1 kHz)
+Evaluation Set Size,929 clean excerpts (30s),800 stratified excerpts (30s),767 excerpts (variable/chorus),"1,802 clips (middle 30s)"
+Artist Metadata Available,Yes (286 artists),"Yes (2,309 total / 566 in subset)",Yes (400 artists),No (100% Unknown)
+Artist Leakage Drop,"-0.315 (-31.5%, p<0.001, Severe)","+0.028 (p=0.301, not sig) (Modest)",-0.043 in R² (0.426 -> 0.383),N/A (Artists Unknown; Random 5x2 used)
+Audio Decode Latency,14.1 ms,85.9 ms,32.4 ms,94.6 ms
+Decoding Overhead vs WAV,1.00x (Baseline),30.45x,2.30x,33.52x
+MOODWAAVE-Lite Total Latency,94.6 ms,284.4 ms,111.4 ms,279.8 ms
+MOODWAAVE-Lite RTF,0.0031 (317x real-time),0.0095 (105x real-time),0.0037 (269x real-time),0.0093 (107x real-time)
+TOST Equivalence (Lite vs Full),"Equivalent ([-0.05, +0.05])","Equivalent (diff=-0.015, p=0.412)","Equivalent ([-0.05, +0.05])","Equivalent (Valence p<0.001, Arousal p<0.001)"
+Cross-Dataset Zero-Shot Transfer,In-Domain Training Corpus,GTZAN->FMA: 62.29% acc on 3 genres (+28.96% vs 33.3% chance),In-Domain Training Corpus,"PMEmo->DEAM: Val r=0.4309, Aro r=0.5260 (beats mean baseline)"

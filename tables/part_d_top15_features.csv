@@ -1,0 +1,16 @@
+Rank,Genre_Feature,Genre_Group,Valence_Feature,Valence_Group,Arousal_Feature,Arousal_Group
+1,mfcc_mean_4,MFCC,mfcc_std_2,MFCC,mfcc_mean_1,MFCC
+2,spectral_contrast_mean_5,SpecContrast,mfcc_mean_1,MFCC,mfcc_mean_2,MFCC
+3,spectral_contrast_mean_7,SpecContrast,zcr_mean,Temporal,zcr_mean,Temporal
+4,spectral_contrast_mean_1,SpecContrast,spectral_contrast_mean_7,SpecContrast,spectral_contrast_mean_3,SpecContrast
+5,delta_mfcc_std_4,MFCC,delta_mfcc_std_3,MFCC,mfcc_std_1,MFCC
+6,mfcc_mean_9,MFCC,mfcc_mean_2,MFCC,spectral_contrast_mean_1,SpecContrast
+7,rms_std,Temporal,mfcc_std_9,MFCC,delta_mfcc_mean_1,MFCC
+8,delta_mfcc_std_7,MFCC,mfcc_mean_8,MFCC,mfcc_mean_3,MFCC
+9,spectral_contrast_mean_4,SpecContrast,delta_mfcc_std_5,MFCC,mfcc_mean_4,MFCC
+10,spectral_contrast_mean_3,SpecContrast,mfcc_std_11,MFCC,rms_mean,Temporal
+11,spectral_contrast_std_4,SpecContrast,mfcc_std_4,MFCC,mfcc_std_3,MFCC
+12,delta_mfcc_std_3,MFCC,mfcc_mean_10,MFCC,delta_mfcc_std_2,MFCC
+13,delta_mfcc_std_6,MFCC,mfcc_std_1,MFCC,spectral_contrast_std_4,SpecContrast
+14,tempo,Temporal,delta_mfcc_std_1,MFCC,mfcc_std_2,MFCC
+15,zcr_mean,Temporal,spectral_contrast_mean_1,SpecContrast,mfcc_mean_10,MFCC

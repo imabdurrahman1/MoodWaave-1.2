@@ -1,0 +1,37 @@
+# MOODWAAVE Dependencies (Exact Pinned Versions from Evaluation Environment)
+# Environment: Python 3.13.7 (64-bit), Windows 11 / Linux x86_64, Single-Threaded CPU Benchmarking
+
+# Core Scientific Computing & Data Structures
+numpy==2.4.3
+scipy==1.17.1
+pandas==2.3.3
+
+# Machine Learning & Gradient Boosting
+scikit-learn==1.8.0
+lightgbm==4.6.0
+xgboost==3.2.0
+joblib==1.5.3
+
+# Audio Signal Processing & DSP Acceleration
+librosa==0.11.0
+soundfile==0.13.1
+audioread==3.1.0
+numba==0.64.0
+nnAudio==0.3.4
+
+# Visualization & Explainability
+matplotlib==3.10.8
+seaborn==0.13.2
+shap==0.52.0
+
+# System Benchmarking & Utilities
+psutil==7.2.2
+tqdm==4.67.3
+
+# Neural Baselines (CPU-only PyTorch)
+# Note: Install cpu version via wheels if necessary:
+# pip install torch==2.15.0+cpu torchaudio==2.11.1+cpu --index-url https://download.pytorch.org/whl/cpu
+torch==2.15.0+cpu; sys_platform == "win32"
+torchaudio==2.11.1+cpu; sys_platform == "win32"
+torch>=2.0.0; sys_platform != "win32"
+torchaudio>=2.0.0; sys_platform != "win32"

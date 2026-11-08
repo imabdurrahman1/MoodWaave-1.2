@@ -1,0 +1,26 @@
+{
+  "title": "MOODWAAVE: Lightweight, High-Efficiency Music Genre and Emotion Analysis on Edge CPU Hardware",
+  "description": "MOODWAAVE is an ultra-lightweight, CPU-optimized music information retrieval (MIR) architecture and comprehensive reproduction suite. It delivers joint 10-class music genre classification (GTZAN) and continuous Valence/Arousal emotion regression (PMEmo) with distribution-free conformal prediction bounds, running orders of magnitude faster than real-time playback on standard consumer CPUs without requiring GPU acceleration. This release includes complete experimental pipelines, artist-disjoint validation splits, statistical equivalence audits (TOST), cross-dataset evaluations (FMA, DEAM), foundation model comparisons (VGGish, PANNs, MERT), and a turnkey cross-platform benchmarking kit.",
+  "creators": [
+    {
+      "name": "MOODWAAVE Research Team",
+      "affiliation": "Independent MIR Research"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "music information retrieval",
+    "audio feature extraction",
+    "genre classification",
+    "valence-arousal emotion",
+    "conformal prediction",
+    "edge computing",
+    "lightgbm",
+    "librosa",
+    "cross-dataset validation",
+    "cpu optimization"
+  ]
+}
+

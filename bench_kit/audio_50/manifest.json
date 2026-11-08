@@ -1,0 +1,352 @@
+[
+  {
+    "index": 0,
+    "filename": "pop.00094.wav",
+    "genre": "pop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00094.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\pop.00094.wav"
+  },
+  {
+    "index": 1,
+    "filename": "country.00009.wav",
+    "genre": "country",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00009.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\country.00009.wav"
+  },
+  {
+    "index": 2,
+    "filename": "disco.00009.wav",
+    "genre": "disco",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00009.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\disco.00009.wav"
+  },
+  {
+    "index": 3,
+    "filename": "pop.00041.wav",
+    "genre": "pop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00041.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\pop.00041.wav"
+  },
+  {
+    "index": 4,
+    "filename": "jazz.00079.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00079.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00079.wav"
+  },
+  {
+    "index": 5,
+    "filename": "reggae.00096.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00096.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00096.wav"
+  },
+  {
+    "index": 6,
+    "filename": "jazz.00045.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00045.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00045.wav"
+  },
+  {
+    "index": 7,
+    "filename": "hiphop.00036.wav",
+    "genre": "hiphop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00036.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\hiphop.00036.wav"
+  },
+  {
+    "index": 8,
+    "filename": "metal.00079.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00079.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00079.wav"
+  },
+  {
+    "index": 9,
+    "filename": "rock.00036.wav",
+    "genre": "rock",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00036.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\rock.00036.wav"
+  },
+  {
+    "index": 10,
+    "filename": "metal.00036.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00036.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00036.wav"
+  },
+  {
+    "index": 11,
+    "filename": "reggae.00067.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00067.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00067.wav"
+  },
+  {
+    "index": 12,
+    "filename": "metal.00004.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00004.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00004.wav"
+  },
+  {
+    "index": 13,
+    "filename": "pop.00021.wav",
+    "genre": "pop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00021.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\pop.00021.wav"
+  },
+  {
+    "index": 14,
+    "filename": "blues.00070.wav",
+    "genre": "blues",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00070.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\blues.00070.wav"
+  },
+  {
+    "index": 15,
+    "filename": "reggae.00025.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00025.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00025.wav"
+  },
+  {
+    "index": 16,
+    "filename": "hiphop.00068.wav",
+    "genre": "hiphop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00068.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\hiphop.00068.wav"
+  },
+  {
+    "index": 17,
+    "filename": "disco.00082.wav",
+    "genre": "disco",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00082.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\disco.00082.wav"
+  },
+  {
+    "index": 18,
+    "filename": "country.00008.wav",
+    "genre": "country",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00008.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\country.00008.wav"
+  },
+  {
+    "index": 19,
+    "filename": "jazz.00071.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00071.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00071.wav"
+  },
+  {
+    "index": 20,
+    "filename": "disco.00077.wav",
+    "genre": "disco",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00077.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\disco.00077.wav"
+  },
+  {
+    "index": 21,
+    "filename": "reggae.00099.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00099.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00099.wav"
+  },
+  {
+    "index": 22,
+    "filename": "reggae.00088.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00088.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00088.wav"
+  },
+  {
+    "index": 23,
+    "filename": "rock.00002.wav",
+    "genre": "rock",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00002.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\rock.00002.wav"
+  },
+  {
+    "index": 24,
+    "filename": "blues.00059.wav",
+    "genre": "blues",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00059.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\blues.00059.wav"
+  },
+  {
+    "index": 25,
+    "filename": "classical.00068.wav",
+    "genre": "classical",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00068.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\classical.00068.wav"
+  },
+  {
+    "index": 26,
+    "filename": "country.00049.wav",
+    "genre": "country",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00049.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\country.00049.wav"
+  },
+  {
+    "index": 27,
+    "filename": "reggae.00011.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00011.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00011.wav"
+  },
+  {
+    "index": 28,
+    "filename": "disco.00044.wav",
+    "genre": "disco",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00044.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\disco.00044.wav"
+  },
+  {
+    "index": 29,
+    "filename": "jazz.00096.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00096.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00096.wav"
+  },
+  {
+    "index": 30,
+    "filename": "disco.00018.wav",
+    "genre": "disco",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00018.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\disco.00018.wav"
+  },
+  {
+    "index": 31,
+    "filename": "metal.00026.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00026.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00026.wav"
+  },
+  {
+    "index": 32,
+    "filename": "jazz.00042.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00042.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00042.wav"
+  },
+  {
+    "index": 33,
+    "filename": "metal.00023.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00023.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00023.wav"
+  },
+  {
+    "index": 34,
+    "filename": "metal.00095.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00095.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00095.wav"
+  },
+  {
+    "index": 35,
+    "filename": "classical.00058.wav",
+    "genre": "classical",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00058.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\classical.00058.wav"
+  },
+  {
+    "index": 36,
+    "filename": "classical.00098.wav",
+    "genre": "classical",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00098.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\classical.00098.wav"
+  },
+  {
+    "index": 37,
+    "filename": "metal.00063.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00063.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00063.wav"
+  },
+  {
+    "index": 38,
+    "filename": "jazz.00098.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00098.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00098.wav"
+  },
+  {
+    "index": 39,
+    "filename": "pop.00089.wav",
+    "genre": "pop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00089.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\pop.00089.wav"
+  },
+  {
+    "index": 40,
+    "filename": "disco.00080.wav",
+    "genre": "disco",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\disco\\disco.00080.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\disco.00080.wav"
+  },
+  {
+    "index": 41,
+    "filename": "rock.00038.wav",
+    "genre": "rock",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\rock\\rock.00038.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\rock.00038.wav"
+  },
+  {
+    "index": 42,
+    "filename": "hiphop.00025.wav",
+    "genre": "hiphop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\hiphop\\hiphop.00025.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\hiphop.00025.wav"
+  },
+  {
+    "index": 43,
+    "filename": "classical.00099.wav",
+    "genre": "classical",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\classical\\classical.00099.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\classical.00099.wav"
+  },
+  {
+    "index": 44,
+    "filename": "jazz.00077.wav",
+    "genre": "jazz",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\jazz\\jazz.00077.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\jazz.00077.wav"
+  },
+  {
+    "index": 45,
+    "filename": "country.00066.wav",
+    "genre": "country",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\country\\country.00066.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\country.00066.wav"
+  },
+  {
+    "index": 46,
+    "filename": "pop.00038.wav",
+    "genre": "pop",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\pop\\pop.00038.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\pop.00038.wav"
+  },
+  {
+    "index": 47,
+    "filename": "blues.00076.wav",
+    "genre": "blues",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\blues\\blues.00076.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\blues.00076.wav"
+  },
+  {
+    "index": 48,
+    "filename": "reggae.00071.wav",
+    "genre": "reggae",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\reggae\\reggae.00071.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\reggae.00071.wav"
+  },
+  {
+    "index": 49,
+    "filename": "metal.00035.wav",
+    "genre": "metal",
+    "original_path": "D:\\Projects\\music_ml_project\\data\\gtzan\\genres_original\\metal\\metal.00035.wav",
+    "dest_path": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50\\metal.00035.wav"
+  }
+]

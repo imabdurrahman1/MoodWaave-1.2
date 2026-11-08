@@ -1,0 +1,31 @@
+dataset,component,mode,mean_ms,std_ms
+GTZAN,Audio Loading,load,1.79,0.13
+GTZAN,Shared STFT,shared_stft,20.13,1.72
+GTZAN,MFCC,standalone,31.2,3.15
+GTZAN,MFCC,shared_marginal,8.93,2.54
+GTZAN,Chroma,standalone,57.92,4.21
+GTZAN,Chroma,shared_marginal,38.0,2.99
+GTZAN,Tonnetz (V0 Baseline),standalone,1396.23,50.9
+GTZAN,Tonnetz (V1 Shared Chroma),shared_marginal,0.43,0.07
+GTZAN,Tonnetz (V2 Harmonic STFT),shared_marginal,1174.61,61.23
+GTZAN,Spectral,standalone,152.98,8.39
+GTZAN,Spectral,shared_marginal,82.79,4.68
+GTZAN,Spectral Contrast,standalone,33.92,2.35
+GTZAN,Spectral Contrast,shared_marginal,10.37,0.77
+GTZAN,Temporal,standalone,75.62,9.27
+GTZAN,Temporal,shared_marginal,75.62,9.27
+PMEmo,Audio Loading,load,52.62,9.22
+PMEmo,Shared STFT,shared_stft,19.06,3.17
+PMEmo,MFCC,standalone,30.5,8.98
+PMEmo,MFCC,shared_marginal,8.48,1.43
+PMEmo,Chroma,standalone,55.63,11.11
+PMEmo,Chroma,shared_marginal,36.24,6.19
+PMEmo,Tonnetz (V0 Baseline),standalone,1342.24,193.68
+PMEmo,Tonnetz (V1 Shared Chroma),shared_marginal,0.43,0.1
+PMEmo,Tonnetz (V2 Harmonic STFT),shared_marginal,1121.8,167.04
+PMEmo,Spectral,standalone,147.03,24.81
+PMEmo,Spectral,shared_marginal,79.02,13.03
+PMEmo,Spectral Contrast,standalone,32.3,5.52
+PMEmo,Spectral Contrast,shared_marginal,9.78,1.73
+PMEmo,Temporal,standalone,71.19,11.32
+PMEmo,Temporal,shared_marginal,71.19,11.32

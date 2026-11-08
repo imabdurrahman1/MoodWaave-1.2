@@ -1,0 +1,5 @@
+Model,Features,Accuracy,Macro-F1
+Dummy (Prior),0,10.01% ± 0.02%,0.0182 ± 0.0000
+RandomForest (100 trees),113,74.21% ± 3.63%,0.7378 ± 0.0367
+LightGBM Full-113,113,77.21% ± 2.42%,0.7706 ± 0.0235
+LightGBM Lite-71 (MOODWAAVE-Lite),71,76.44% ± 2.88%,0.7623 ± 0.0283

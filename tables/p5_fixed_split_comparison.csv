@@ -1,0 +1,8 @@
+model,protocol,n_train,n_test,accuracy,macro_f1,notes
+MOODWAAVE-Full,P1 (Train+Validation; 5 seeds),639,290,0.593103448275862,0.5929,Default hyperparameters; 5 model seeds (42; 101; 202; 303; 404)
+MOODWAAVE-Lite,P1 (Train+Validation; 5 seeds),639,290,0.5827586206896552,0.5775,Default hyperparameters; 5 model seeds (42; 101; 202; 303; 404)
+MOODWAAVE-Full,P5 (Train only; single seed),442,290,0.5689655172413793,0.5640690677270088,Default hyperparameters; seed 42
+MOODWAAVE-Lite,P5 (Train only; single seed),442,290,0.5586206896551724,0.5508029211651856,Default hyperparameters; seed 42
+SmallMelCNN (scratch),P5 (Train only; 3 seeds mean),442,290,0.554022988505747,0.5361830343349624,3 seeds (42; 43; 44) 10-crop avg; mean ± SD: 55.40% ± 2.79%
+SmallMelCNN (scratch),P5 (Train only; seed-avg logits),442,290,0.5862068965517241,0.5665739464374506,Logits averaged across seeds 42; 43; 44 prior to argmax
+VGGish + Logistic Regression,P5 (Train only; single seed),442,290,0.7620689655172413,0.7601188792784966,Pretrained VGGish (mean+std pool) + LogReg (C tuned)

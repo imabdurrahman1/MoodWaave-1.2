@@ -1,0 +1,315 @@
+{
+  "platform": {
+    "project": "MOODWAAVE",
+    "cpu_model": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel",
+    "architecture": "AMD64",
+    "cores_physical": 4,
+    "cores_logical": 8,
+    "ram_gb": 7.75,
+    "os": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.26200",
+    "python_version": "3.13.7",
+    "python_compiler": "MSC v.1944 64 bit (AMD64)",
+    "single_thread_enforced": true,
+    "libraries": {
+      "numpy": "2.4.3",
+      "librosa": "0.11.0",
+      "soundfile": "0.13.1",
+      "joblib": "1.5.3",
+      "torch": "2.15.0+cpu",
+      "torchaudio": "2.11.1+cpu",
+      "nnAudio": "0.3.4",
+      "essentia": null
+    }
+  },
+  "benchmark_config": {
+    "audio_dir": "D:\\Projects\\music_ml_project\\release\\bench_kit\\audio_50",
+    "num_evaluated_clips": 2,
+    "warmup_clip": "pop.00094.wav",
+    "repeats": 3,
+    "sample_rate": 22050,
+    "clip_duration_s": 30.0,
+    "single_thread": true
+  },
+  "librosa": {
+    "summary": {
+      "audio_load_ms": {
+        "mean": 2.7354500198271126,
+        "std": 0.5372499872464687,
+        "median": 2.7354500198271126,
+        "min": 2.198200032580644,
+        "max": 3.272700007073581
+      },
+      "mfcc_ms": {
+        "mean": 38.78810000605881,
+        "std": 0.4020999767817557,
+        "median": 38.78810000605881,
+        "min": 38.38600002927706,
+        "max": 39.19019998284057
+      },
+      "chroma_ms": {
+        "mean": 70.907499990426,
+        "std": 0.5271999980323017,
+        "median": 70.907499990426,
+        "min": 70.3802999923937,
+        "max": 71.4346999884583
+      },
+      "tonnetz_v0_ms": {
+        "mean": 1798.6119999841321,
+        "std": 15.153599990298972,
+        "median": 1798.6119999841321,
+        "min": 1783.4583999938332,
+        "max": 1813.765599974431
+      },
+      "tonnetz_v1_ms": {
+        "mean": 0.31374997342936695,
+        "std": 0.003049994120374322,
+        "median": 0.31374997342936695,
+        "min": 0.3106999793089926,
+        "max": 0.31679996754974127
+      },
+      "spectral_ms": {
+        "mean": 191.60930000361986,
+        "std": 7.078400027239695,
+        "median": 191.60930000361986,
+        "min": 184.53089997638017,
+        "max": 198.68770003085956
+      },
+      "contrast_ms": {
+        "mean": 40.41480002342723,
+        "std": 0.8369999995920807,
+        "median": 40.41480002342723,
+        "min": 39.57780002383515,
+        "max": 41.251800023019314
+      },
+      "temporal_ms": {
+        "mean": 93.23155001038685,
+        "std": 1.3568499707616866,
+        "median": 93.23155001038685,
+        "min": 91.87470003962517,
+        "max": 94.58839998114854
+      },
+      "pipe_a_orig113": {
+        "features_ms": {
+          "mean": 2237.3215500847436,
+          "std": 48.857250018045306,
+          "median": 2237.3215500847436,
+          "min": 2188.4643000666983,
+          "max": 2286.178800102789
+        },
+        "prediction_ms": {
+          "mean": 2.633700001752004,
+          "std": 0.023299973690882325,
+          "median": 2.633700001752004,
+          "min": 2.6104000280611217,
+          "max": 2.6569999754428864
+        },
+        "total_ms": {
+          "mean": 2242.7733500371687,
+          "std": 49.707850033883005,
+          "median": 2242.7733500371687,
+          "min": 2193.0655000032857,
+          "max": 2292.4812000710517
+        },
+        "rtf": 0.07475911166790562,
+        "tonnetz_share_pct": 80.22031882605344,
+        "speedup_vs_orig": 1.0
+      },
+      "pipe_b_full113_v1": {
+        "features_ms": {
+          "mean": 438.92799998866394,
+          "std": 8.133199997246265,
+          "median": 438.92799998866394,
+          "min": 430.7947999914177,
+          "max": 447.0611999859102
+        },
+        "prediction_ms": {
+          "mean": 2.300499996636063,
+          "std": 0.06180000491440296,
+          "median": 2.300499996636063,
+          "min": 2.23869999172166,
+          "max": 2.362300001550466
+        },
+        "total_ms": {
+          "mean": 449.40439995843917,
+          "std": 13.003100000787526,
+          "median": 449.40439995843917,
+          "min": 436.40129995765164,
+          "max": 462.4074999592267
+        },
+        "rtf": 0.014980146665281305,
+        "speedup_vs_orig": 4.990546043262104
+      },
+      "pipe_c_lite71": {
+        "features_ms": {
+          "mean": 171.1739000165835,
+          "std": 0.24779996601864696,
+          "median": 171.1739000165835,
+          "min": 170.92610005056486,
+          "max": 171.42169998260215
+        },
+        "prediction_ms": {
+          "mean": 2.398549986537546,
+          "std": 0.2896499936468899,
+          "median": 2.398549986537546,
+          "min": 2.108899992890656,
+          "max": 2.688199980184436
+        },
+        "total_ms": {
+          "mean": 180.82589999539778,
+          "std": 4.988099972251803,
+          "median": 180.82589999539778,
+          "min": 175.83780002314597,
+          "max": 185.81399996764958
+        },
+        "rtf": 0.006027529999846593,
+        "speedup_vs_orig": 12.40294310767567
+      }
+    },
+    "clips": [
+      {
+        "audio_load_ms": 3.272700007073581,
+        "mfcc_ms": 38.38600002927706,
+        "chroma_ms": 70.3802999923937,
+        "tonnetz_v0_ms": 1813.765599974431,
+        "tonnetz_v1_ms": 0.3106999793089926,
+        "spectral_ms": 198.68770003085956,
+        "contrast_ms": 41.251800023019314,
+        "temporal_ms": 94.58839998114854,
+        "pipe_a": {
+          "feat_ms": 2286.178800102789,
+          "pred_ms": 2.6569999754428864,
+          "total_ms": 2292.4812000710517
+        },
+        "pipe_b": {
+          "feat_ms": 447.0611999859102,
+          "pred_ms": 2.362300001550466,
+          "total_ms": 462.4074999592267
+        },
+        "pipe_c": {
+          "feat_ms": 170.92610005056486,
+          "pred_ms": 2.688199980184436,
+          "total_ms": 185.81399996764958
+        },
+        "filename": "country.00009.wav",
+        "index": 1
+      },
+      {
+        "audio_load_ms": 2.198200032580644,
+        "mfcc_ms": 39.19019998284057,
+        "chroma_ms": 71.4346999884583,
+        "tonnetz_v0_ms": 1783.4583999938332,
+        "tonnetz_v1_ms": 0.31679996754974127,
+        "spectral_ms": 184.53089997638017,
+        "contrast_ms": 39.57780002383515,
+        "temporal_ms": 91.87470003962517,
+        "pipe_a": {
+          "feat_ms": 2188.4643000666983,
+          "pred_ms": 2.6104000280611217,
+          "total_ms": 2193.0655000032857
+        },
+        "pipe_b": {
+          "feat_ms": 430.7947999914177,
+          "pred_ms": 2.23869999172166,
+          "total_ms": 436.40129995765164
+        },
+        "pipe_c": {
+          "feat_ms": 171.42169998260215,
+          "pred_ms": 2.108899992890656,
+          "total_ms": 175.83780002314597
+        },
+        "filename": "disco.00009.wav",
+        "index": 2
+      }
+    ]
+  },
+  "second_library": {
+    "summary": {
+      "library": "TorchAudio_nnAudio",
+      "status": "analogue_features",
+      "covered_groups": [
+        "audio_load",
+        "mfcc",
+        "chroma",
+        "tonnetz",
+        "temporal",
+        "spectral (centroid)"
+      ],
+      "uncovered_groups": [
+        "spectral_contrast (no native op)",
+        "tempo (no native beat tracker)"
+      ],
+      "notes": "Features are acoustic analogues for latency comparison, not identical to Librosa.",
+      "audio_load_ms": {
+        "mean": 1.9333999953232706,
+        "std": 0.12649997370317578,
+        "median": 1.9333999953232706,
+        "min": 1.8069000216200948,
+        "max": 2.0598999690264463
+      },
+      "mfcc_ms": {
+        "mean": 24.347149999812245,
+        "std": 1.5087500214576721,
+        "median": 24.347149999812245,
+        "min": 22.838399978354573,
+        "max": 25.855900021269917
+      },
+      "chroma_ms": {
+        "mean": 1146.1153000127524,
+        "std": 8.398399979341775,
+        "median": 1146.1153000127524,
+        "min": 1137.7169000334106,
+        "max": 1154.5136999920942
+      },
+      "tonnetz_ms": {
+        "mean": 0.12474998948164284,
+        "std": 0.005350011633709073,
+        "median": 0.12474998948164284,
+        "min": 0.11939997784793377,
+        "max": 0.13010000111535192
+      },
+      "spectral_ms": {
+        "mean": 19.234700012020767,
+        "std": 1.7809999990276992,
+        "median": 19.234700012020767,
+        "min": 17.453700012993068,
+        "max": 21.015700011048466
+      },
+      "temporal_ms": {
+        "mean": 2.7011499914806336,
+        "std": 0.2929499896708876,
+        "median": 2.7011499914806336,
+        "min": 2.408200001809746,
+        "max": 2.994099981151521
+      }
+    },
+    "clips": [
+      {
+        "library": "TorchAudio_nnAudio",
+        "audio_load_ms": 2.0598999690264463,
+        "mfcc_ms": 25.855900021269917,
+        "chroma_ms": 1137.7169000334106,
+        "tonnetz_ms": 0.11939997784793377,
+        "spectral_ms": 21.015700011048466,
+        "contrast_ms": null,
+        "temporal_ms": 2.994099981151521,
+        "filename": "country.00009.wav",
+        "index": 1
+      },
+      {
+        "library": "TorchAudio_nnAudio",
+        "audio_load_ms": 1.8069000216200948,
+        "mfcc_ms": 22.838399978354573,
+        "chroma_ms": 1154.5136999920942,
+        "tonnetz_ms": 0.13010000111535192,
+        "spectral_ms": 17.453700012993068,
+        "contrast_ms": null,
+        "temporal_ms": 2.408200001809746,
+        "filename": "disco.00009.wav",
+        "index": 2
+      }
+    ]
+  },
+  "elapsed_benchmark_seconds": 30.22
+}

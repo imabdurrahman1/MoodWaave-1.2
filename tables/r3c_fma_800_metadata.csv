@@ -1,0 +1,792 @@
+track_id,genre,artist_id,artist_name,official_split,rel_path
+93521,Electronic,17332,Moon Veil,test,fma_small/093/093521.mp3
+115811,Electronic,19696,sawsquarenoise,training,fma_small/115/115811.mp3
+115814,Electronic,19696,sawsquarenoise,training,fma_small/115/115814.mp3
+110106,Electronic,18846,Azureflux,validation,fma_small/110/110106.mp3
+79606,Electronic,14661,trollhead,training,fma_small/079/079606.mp3
+112769,Electronic,9680,Richard Jonas,training,fma_small/112/112769.mp3
+107913,Electronic,17927,Project 5am,validation,fma_small/107/107913.mp3
+92561,Electronic,14215,Beat Doctor,training,fma_small/092/092561.mp3
+130135,Electronic,21456,Michett,training,fma_small/130/130135.mp3
+40683,Electronic,8403,Str8 Sounds,training,fma_small/040/040683.mp3
+124754,Electronic,20809,Maartez,training,fma_small/124/124754.mp3
+29039,Electronic,7270,Digi G'Alessio,validation,fma_small/029/029039.mp3
+108421,Electronic,18761,UncleBibby,training,fma_small/108/108421.mp3
+145645,Electronic,23200,Trip.Logic,training,fma_small/145/145645.mp3
+140924,Electronic,21691,Nihilore,test,fma_small/140/140924.mp3
+136323,Electronic,22007,D SMILEZ,training,fma_small/136/136323.mp3
+65073,Electronic,13570,AViDD,training,fma_small/065/065073.mp3
+133028,Electronic,20146,SPCZ,training,fma_small/133/133028.mp3
+116882,Electronic,17198,Gumbel,training,fma_small/116/116882.mp3
+69194,Electronic,14208,Risey,validation,fma_small/069/069194.mp3
+97960,Electronic,17892,Gilo,training,fma_small/097/097960.mp3
+47073,Electronic,10779,Eric Skiff,training,fma_small/047/047073.mp3
+72076,Electronic,14670,Decktonic,training,fma_small/072/072076.mp3
+94263,Electronic,14511,Pandacetamol,training,fma_small/094/094263.mp3
+52638,Electronic,11679,Jason Shaw,training,fma_small/052/052638.mp3
+55807,Electronic,12198,Blasterhead,training,fma_small/055/055807.mp3
+32437,Electronic,7974,Big Bang Boom,training,fma_small/032/032437.mp3
+146458,Electronic,22985,Langax,training,fma_small/146/146458.mp3
+137054,Electronic,22121,S-B-J,training,fma_small/137/137054.mp3
+141619,Electronic,13437,Barbarix,test,fma_small/141/141619.mp3
+70303,Electronic,14373,Morsa,validation,fma_small/070/070303.mp3
+40843,Electronic,9526,Fancy Mike,training,fma_small/040/040843.mp3
+107908,Electronic,18808,Project 5am (Feat. DJ Whodini),training,fma_small/107/107908.mp3
+91625,Electronic,10397,Rolemusic,training,fma_small/091/091625.mp3
+72075,Electronic,14670,Decktonic,training,fma_small/072/072075.mp3
+51954,Electronic,9944,Tony Dubshot,training,fma_small/051/051954.mp3
+113973,Electronic,19453,Little Glass Men,training,fma_small/113/113973.mp3
+103600,Electronic,10484,RoccoW,training,fma_small/103/103600.mp3
+136424,Electronic,22007,D SMILEZ,training,fma_small/136/136424.mp3
+26659,Electronic,6747,Graphiqs Groove,training,fma_small/026/026659.mp3
+69203,Electronic,14211,Redmann,training,fma_small/069/069203.mp3
+31044,Electronic,7688,Christian Bjoerklund,training,fma_small/031/031044.mp3
+68895,Electronic,9067,Broke For Free,test,fma_small/068/068895.mp3
+145646,Electronic,23200,Trip.Logic,training,fma_small/145/145646.mp3
+67638,Electronic,14045,Southman,validation,fma_small/067/067638.mp3
+65040,Electronic,13534,Candlegravity,validation,fma_small/065/065040.mp3
+140134,Electronic,22429,Remain,training,fma_small/140/140134.mp3
+105672,Electronic,17892,Gilo,training,fma_small/105/105672.mp3
+85041,Electronic,5450,Sick To The Back Teeth,training,fma_small/085/085041.mp3
+126292,Electronic,3578,Gorowski,validation,fma_small/126/126292.mp3
+100497,Electronic,10484,RoccoW,training,fma_small/100/100497.mp3
+133024,Electronic,20146,SPCZ,training,fma_small/133/133024.mp3
+63064,Electronic,13326,Koona,test,fma_small/063/063064.mp3
+100745,Electronic,10484,RoccoW,training,fma_small/100/100745.mp3
+14344,Electronic,3949,Ambienteer,training,fma_small/014/014344.mp3
+17588,Electronic,354,Future Islands,training,fma_small/017/017588.mp3
+107613,Electronic,18767,Vienna Ditto,training,fma_small/107/107613.mp3
+12189,Electronic,3230,Mr. Moods,training,fma_small/012/012189.mp3
+53457,Electronic,11840,Fanas,training,fma_small/053/053457.mp3
+125154,Electronic,3578,Gorowski,validation,fma_small/125/125154.mp3
+67470,Electronic,14014,Ant Neely,training,fma_small/067/067470.mp3
+26654,Electronic,6747,Graphiqs Groove,training,fma_small/026/026654.mp3
+97845,Electronic,15990,Egg Nebula,training,fma_small/097/097845.mp3
+52637,Electronic,11679,Jason Shaw,training,fma_small/052/052637.mp3
+107125,Electronic,18732,Marrach,training,fma_small/107/107125.mp3
+114065,Electronic,14670,Decktonic,training,fma_small/114/114065.mp3
+110108,Electronic,18846,Azureflux,validation,fma_small/110/110108.mp3
+132134,Electronic,19696,sawsquarenoise,training,fma_small/132/132134.mp3
+27798,Electronic,7010,spinningmerkaba,validation,fma_small/027/027798.mp3
+97846,Electronic,15990,Egg Nebula,training,fma_small/097/097846.mp3
+33203,Electronic,8166,Maryos,training,fma_small/033/033203.mp3
+91619,Electronic,10397,Rolemusic,training,fma_small/091/091619.mp3
+104283,Electronic,18405,Beatoven,training,fma_small/104/104283.mp3
+115815,Electronic,19696,sawsquarenoise,training,fma_small/115/115815.mp3
+66638,Electronic,13889,Ghosts,training,fma_small/066/066638.mp3
+66390,Electronic,13830,krackatoa,training,fma_small/066/066390.mp3
+109538,Electronic,8118,Skip,training,fma_small/109/109538.mp3
+22095,Electronic,2752,Just Plain Ant,training,fma_small/022/022095.mp3
+104282,Electronic,18405,Beatoven,training,fma_small/104/104282.mp3
+68683,Electronic,14152,Mean Moon,training,fma_small/068/068683.mp3
+112770,Electronic,9680,Richard Jonas,training,fma_small/112/112770.mp3
+27177,Electronic,6890,Pixelord,training,fma_small/027/027177.mp3
+65038,Electronic,13534,Candlegravity,validation,fma_small/065/065038.mp3
+27406,Electronic,6926,Ryo Miyashita,training,fma_small/027/027406.mp3
+69193,Electronic,13826,Psychadelik Pedestrian,training,fma_small/069/069193.mp3
+97959,Electronic,17892,Gilo,training,fma_small/097/097959.mp3
+149701,Electronic,23707,Sro,training,fma_small/149/149701.mp3
+114388,Electronic,19496,Quaro,training,fma_small/114/114388.mp3
+116243,Electronic,7507,The Crayon Industry,training,fma_small/116/116243.mp3
+69202,Electronic,14209,Marc Burt,training,fma_small/069/069202.mp3
+73125,Electronic,10456,Jeremy Macachor,training,fma_small/073/073125.mp3
+85832,Electronic,11574,Frame,training,fma_small/085/085832.mp3
+93522,Electronic,17332,Moon Veil,test,fma_small/093/093522.mp3
+52648,Electronic,11679,Jason Shaw,training,fma_small/052/052648.mp3
+122832,Electronic,14348,Sci Fi Industries,validation,fma_small/122/122832.mp3
+85038,Electronic,5450,Sick To The Back Teeth,training,fma_small/085/085038.mp3
+118070,Electronic,17927,Project 5am,validation,fma_small/118/118070.mp3
+30520,Electronic,7550,Trash80,training,fma_small/030/030520.mp3
+26904,Electronic,3766,Goto80,test,fma_small/026/026904.mp3
+125161,Electronic,3578,Gorowski,validation,fma_small/125/125161.mp3
+74373,Experimental,15117,Julianne Marx and Craig Olson,training,fma_small/074/074373.mp3
+115597,Experimental,19671,How I Quit Crack,training,fma_small/115/115597.mp3
+115850,Experimental,19259,Dead Peoples Records,training,fma_small/115/115850.mp3
+102112,Experimental,18244,Alexei Borisov and Anton Mobin,validation,fma_small/102/102112.mp3
+57939,Experimental,129,Ergo Phizmiz,training,fma_small/057/057939.mp3
+108319,Experimental,9500,Cagey House,training,fma_small/108/108319.mp3
+92872,Experimental,14774,The Fucked Up Beat,training,fma_small/092/092872.mp3
+73820,Experimental,13913,Miquel Parera Jaques,training,fma_small/073/073820.mp3
+125237,Experimental,20860,Derek Baron,validation,fma_small/125/125237.mp3
+26307,Experimental,6484,Karl Blau,training,fma_small/026/026307.mp3
+119727,Experimental,20130,manuelgordiani.it - fabrizioab,training,fma_small/119/119727.mp3
+11020,Experimental,10,Lucky Dragons,test,fma_small/011/011020.mp3
+95189,Experimental,13882,Semyon,training,fma_small/095/095189.mp3
+144492,Experimental,22994,Dave Keifer,training,fma_small/144/144492.mp3
+133916,Experimental,21851,FUNSHINE BEAR / ODOR BABY,training,fma_small/133/133916.mp3
+127532,Experimental,21106,Space Monkey Death Sequence,validation,fma_small/127/127532.mp3
+44347,Experimental,7595,Clutter,training,fma_small/044/044347.mp3
+126550,Experimental,21016,Nate Scheible,validation,fma_small/126/126550.mp3
+117991,Experimental,17524,Ars Sonor,training,fma_small/117/117991.mp3
+46711,Experimental,10696,Antoine Beuger,training,fma_small/046/046711.mp3
+77521,Experimental,14774,The Fucked Up Beat,training,fma_small/077/077521.mp3
+33278,Experimental,474,Bing and Ruth,training,fma_small/033/033278.mp3
+51157,Experimental,11461,Base Cleft,validation,fma_small/051/051157.mp3
+74380,Experimental,15121,Rene Wilson,training,fma_small/074/074380.mp3
+38888,Experimental,9279,File Under Toner,validation,fma_small/038/038888.mp3
+38967,Experimental,9291,Talulah Lotus,training,fma_small/038/038967.mp3
+15625,Experimental,4334,Jim Lee,training,fma_small/015/015625.mp3
+147086,Experimental,2008,Lee Rosevere,training,fma_small/147/147086.mp3
+127798,Experimental,19268,ODOR BABY,training,fma_small/127/127798.mp3
+137484,Experimental,10530,Zreen Toyz,training,fma_small/137/137484.mp3
+48864,Experimental,10154,NaDa BaBa,training,fma_small/048/048864.mp3
+26600,Experimental,5994,Lezet,training,fma_small/026/026600.mp3
+91899,Experimental,5994,Lezet,training,fma_small/091/091899.mp3
+70005,Experimental,14349,THF Drenching & Karl D'Silva,training,fma_small/070/070005.mp3
+51118,Experimental,1977,Bob Ostertag,training,fma_small/051/051118.mp3
+37784,Experimental,9034,La Rainbow Toy Orchestra,training,fma_small/037/037784.mp3
+109712,Experimental,8109,Tiruset,training,fma_small/109/109712.mp3
+84058,Experimental,16249,Avery Trufelman,training,fma_small/084/084058.mp3
+127542,Experimental,21106,Space Monkey Death Sequence,validation,fma_small/127/127542.mp3
+9477,Experimental,2240,Justice Yeldham,training,fma_small/009/009477.mp3
+47197,Experimental,7050,Asian Women on the Telephone,training,fma_small/047/047197.mp3
+15476,Experimental,4271,Bruce Russell,training,fma_small/015/015476.mp3
+144809,Experimental,15891,Kosta T,training,fma_small/144/144809.mp3
+44802,Experimental,10357,8-Bit Ninjas,validation,fma_small/044/044802.mp3
+44110,Experimental,10242,Messages,training,fma_small/044/044110.mp3
+131567,Experimental,21316,Massaccesi,training,fma_small/131/131567.mp3
+86256,Experimental,16583,echosonic,test,fma_small/086/086256.mp3
+64253,Experimental,13445,The Happy Valley Band,training,fma_small/064/064253.mp3
+122168,Experimental,15939,Jeremy Gluck & Jaan Patterson,test,fma_small/122/122168.mp3
+82886,Experimental,16066,Fields Ohio,training,fma_small/082/082886.mp3
+126519,Experimental,21014,Autumna X Triage,training,fma_small/126/126519.mp3
+41714,Experimental,9820,As Seen On TV,training,fma_small/041/041714.mp3
+83954,Experimental,16228,Princess Army Wedding Combat,training,fma_small/083/083954.mp3
+1736,Experimental,288,Teeth Mountain,training,fma_small/001/001736.mp3
+6677,Experimental,1771,Jarrod Fowler,training,fma_small/006/006677.mp3
+90804,Experimental,16239,HighWay17,training,fma_small/090/090804.mp3
+1075,Experimental,10,Lucky Dragons,test,fma_small/001/001075.mp3
+38901,Experimental,9279,File Under Toner,validation,fma_small/038/038901.mp3
+121288,Experimental,20097,Running Point,training,fma_small/121/121288.mp3
+44799,Experimental,10355,Paza Rahm,training,fma_small/044/044799.mp3
+8416,Experimental,50,Taal,training,fma_small/008/008416.mp3
+74960,Experimental,15220,Bisamråtta,training,fma_small/074/074960.mp3
+38887,Experimental,9279,File Under Toner,validation,fma_small/038/038887.mp3
+86720,Experimental,11364,McCloud Zicmuse,training,fma_small/086/086720.mp3
+110208,Experimental,12351,Circus Marcus,test,fma_small/110/110208.mp3
+104434,Experimental,15508,Farthest South,test,fma_small/104/104434.mp3
+126221,Experimental,20977,Ø+yn + GMC,training,fma_small/126/126221.mp3
+10521,Experimental,2572,Sabrina,training,fma_small/010/010521.mp3
+75975,Experimental,13913,Miquel Parera Jaques,training,fma_small/075/075975.mp3
+18877,Experimental,5103,Urthquake,training,fma_small/018/018877.mp3
+69789,Experimental,14307,Chris Cook,training,fma_small/069/069789.mp3
+84144,Experimental,16270,Electric Mirrors,training,fma_small/084/084144.mp3
+115852,Experimental,19259,Dead Peoples Records,training,fma_small/115/115852.mp3
+44795,Experimental,4349,René Vis,training,fma_small/044/044795.mp3
+44792,Experimental,10351,The Moot,training,fma_small/044/044792.mp3
+98229,Experimental,3007,Marco Raaphorst,validation,fma_small/098/098229.mp3
+7378,Experimental,10,Lucky Dragons,test,fma_small/007/007378.mp3
+84142,Experimental,16270,Electric Mirrors,training,fma_small/084/084142.mp3
+44854,Experimental,10369,Sunslide,training,fma_small/044/044854.mp3
+109068,Experimental,14930,Rene Kita,training,fma_small/109/109068.mp3
+10375,Experimental,2491,Sodadosa,training,fma_small/010/010375.mp3
+43883,Experimental,10234,Myo,training,fma_small/043/043883.mp3
+10376,Experimental,2491,Sodadosa,training,fma_small/010/010376.mp3
+46611,Experimental,10640,Monster Rally,training,fma_small/046/046611.mp3
+77519,Experimental,14774,The Fucked Up Beat,training,fma_small/077/077519.mp3
+149778,Experimental,23714,Controlled Insanity,training,fma_small/149/149778.mp3
+112583,Experimental,19258,Simon Panrucker,training,fma_small/112/112583.mp3
+116587,Experimental,9289,Jaan Patterson,training,fma_small/116/116587.mp3
+47196,Experimental,7050,Asian Women on the Telephone,training,fma_small/047/047196.mp3
+53675,Experimental,11883,Annette Krebs/Taku Unami,training,fma_small/053/053675.mp3
+64862,Experimental,13391,Monroeville Music Center,training,fma_small/064/064862.mp3
+74374,Experimental,15118,Roslyn,test,fma_small/074/074374.mp3
+38898,Experimental,9279,File Under Toner,validation,fma_small/038/038898.mp3
+118958,Experimental,19268,ODOR BABY,training,fma_small/118/118958.mp3
+64248,Experimental,13445,The Happy Valley Band,training,fma_small/064/064248.mp3
+118084,Experimental,19535,PC-ONE,training,fma_small/118/118084.mp3
+12737,Experimental,3426,Prince Rama,training,fma_small/012/012737.mp3
+9846,Experimental,2308,Mattin,training,fma_small/009/009846.mp3
+121998,Experimental,20387,Beauty School,test,fma_small/121/121998.mp3
+88861,Folk,3228,Josh Woodward,training,fma_small/088/088861.mp3
+117627,Folk,19890,Julia K. Mars,training,fma_small/117/117627.mp3
+117630,Folk,19890,Julia K. Mars,training,fma_small/117/117630.mp3
+108304,Folk,18841,Carter Behnke,training,fma_small/108/108304.mp3
+72050,Folk,11346,David Rovics,training,fma_small/072/072050.mp3
+109905,Folk,19031,Debby Schwartz,training,fma_small/109/109905.mp3
+106457,Folk,18661,Titan,training,fma_small/106/106457.mp3
+87971,Folk,16824,Sandy & Caroline Paton,training,fma_small/087/087971.mp3
+131903,Folk,21616,David Szesztay,training,fma_small/131/131903.mp3
+10993,Folk,77,Big Blood,test,fma_small/010/010993.mp3
+126786,Folk,21035,Connie Acher & Blind Drunk John,training,fma_small/126/126786.mp3
+5159,Folk,1625,Peter Biedermann,training,fma_small/005/005159.mp3
+107583,Folk,18755,Kelly Latimore,training,fma_small/107/107583.mp3
+148186,Folk,22428,Josh Armistead,validation,fma_small/148/148186.mp3
+144471,Folk,3475,Nick Jaina,training,fma_small/144/144471.mp3
+138413,Folk,9765,Derek Clegg,training,fma_small/138/138413.mp3
+47865,Folk,10979,Zachary Cale,training,fma_small/047/047865.mp3
+134981,Folk,21934,talons',training,fma_small/134/134981.mp3
+122355,Folk,20475,David Mumford,validation,fma_small/122/122355.mp3
+53578,Folk,11874,Mary Lorson,training,fma_small/053/053578.mp3
+91228,Folk,17044,Lonely Faction,training,fma_small/091/091228.mp3
+12489,Folk,77,Big Blood,test,fma_small/012/012489.mp3
+66180,Folk,9765,Derek Clegg,training,fma_small/066/066180.mp3
+88870,Folk,3228,Josh Woodward,training,fma_small/088/088870.mp3
+31389,Folk,7458,Amy Sayer,training,fma_small/031/031389.mp3
+40233,Folk,77,Big Blood,test,fma_small/040/040233.mp3
+7712,Folk,1331,Mia Doi Todd,training,fma_small/007/007712.mp3
+148231,Folk,22428,Josh Armistead,validation,fma_small/148/148231.mp3
+138416,Folk,9765,Derek Clegg,training,fma_small/138/138416.mp3
+144544,Folk,17780,Wildlight,training,fma_small/144/144544.mp3
+61006,Folk,12347,Ben von Wildenhaus,training,fma_small/061/061006.mp3
+11504,Folk,77,Big Blood,test,fma_small/011/011504.mp3
+105920,Folk,18592,Matt Sowell,training,fma_small/105/105920.mp3
+85492,Folk,9765,Derek Clegg,training,fma_small/085/085492.mp3
+66058,Folk,8343,Ivana XL,training,fma_small/066/066058.mp3
+23371,Folk,3228,Josh Woodward,training,fma_small/023/023371.mp3
+110440,Folk,559,Michael Chapman,training,fma_small/110/110440.mp3
+96698,Folk,17697,Melissa Laveaux,training,fma_small/096/096698.mp3
+138415,Folk,9765,Derek Clegg,training,fma_small/138/138415.mp3
+3910,Folk,559,Michael Chapman,training,fma_small/003/003910.mp3
+54297,Folk,5152,Whitman,training,fma_small/054/054297.mp3
+6856,Folk,1615,Lior,training,fma_small/006/006856.mp3
+52948,Folk,1065,Marissa Nadler,validation,fma_small/052/052948.mp3
+148187,Folk,22428,Josh Armistead,validation,fma_small/148/148187.mp3
+51333,Folk,11499,Boca Chica,training,fma_small/051/051333.mp3
+47661,Folk,7305,Onda bidón,training,fma_small/047/047661.mp3
+142516,Folk,22678,Jacket Thor,training,fma_small/142/142516.mp3
+104009,Folk,18276,Lille,training,fma_small/104/104009.mp3
+74445,Folk,15135,Robo,training,fma_small/074/074445.mp3
+130349,Folk,21491,Goddess,training,fma_small/130/130349.mp3
+93074,Folk,17285,Levi Weaver,validation,fma_small/093/093074.mp3
+134073,Folk,21863,Windmill,training,fma_small/134/134073.mp3
+43962,Folk,7501,James Beaudreau,training,fma_small/043/043962.mp3
+96692,Folk,17697,Melissa Laveaux,training,fma_small/096/096692.mp3
+718,Folk,143,Fursaxa,training,fma_small/000/000718.mp3
+1197,Folk,215,Mount Eerie,training,fma_small/001/001197.mp3
+105916,Folk,18592,Matt Sowell,training,fma_small/105/105916.mp3
+210,Folk,127,Ed Askew,training,fma_small/000/000210.mp3
+34484,Folk,8467,Not From This World,training,fma_small/034/034484.mp3
+127193,Folk,21068,Stærosaurus,training,fma_small/127/127193.mp3
+50276,Folk,11346,David Rovics,training,fma_small/050/050276.mp3
+3904,Folk,559,Michael Chapman,training,fma_small/003/003904.mp3
+89484,Folk,16876,John Wort Hannam,training,fma_small/089/089484.mp3
+31356,Folk,6641,Spectre Folk,training,fma_small/031/031356.mp3
+104357,Folk,18408,Mark Fosson,training,fma_small/104/104357.mp3
+111182,Folk,19120,Sondra Sun-Odeon,validation,fma_small/111/111182.mp3
+108306,Folk,18841,Carter Behnke,training,fma_small/108/108306.mp3
+132453,Folk,21701,Ava Zandieh,validation,fma_small/132/132453.mp3
+4068,Folk,1374,Peter Walker,training,fma_small/004/004068.mp3
+89485,Folk,16876,John Wort Hannam,training,fma_small/089/089485.mp3
+9888,Folk,2313,James Blackshaw,training,fma_small/009/009888.mp3
+85486,Folk,9765,Derek Clegg,training,fma_small/085/085486.mp3
+117631,Folk,19890,Julia K. Mars,training,fma_small/117/117631.mp3
+49848,Folk,11299,My Bubba & Mi,training,fma_small/049/049848.mp3
+49845,Folk,11299,My Bubba & Mi,training,fma_small/049/049845.mp3
+108014,Folk,18816,Zach Fleury,training,fma_small/108/108014.mp3
+2097,Folk,153,Hall Of Fame,training,fma_small/002/002097.mp3
+96730,Folk,17701,Allysen Callery,training,fma_small/096/096730.mp3
+52502,Folk,11668,Kalli,training,fma_small/052/052502.mp3
+109906,Folk,19031,Debby Schwartz,training,fma_small/109/109906.mp3
+4017,Folk,1070,Nalle,training,fma_small/004/004017.mp3
+47506,Folk,6150,Virgin of the Birds,training,fma_small/047/047506.mp3
+4037,Folk,1622,Neil Halstead,training,fma_small/004/004037.mp3
+53576,Folk,11874,Mary Lorson,training,fma_small/053/053576.mp3
+91170,Folk,17039,Mariana Päraway,validation,fma_small/091/091170.mp3
+150064,Folk,23106,Finn Anderson,training,fma_small/150/150064.mp3
+115935,Folk,19714,Flor Braier,training,fma_small/115/115935.mp3
+119725,Folk,14571,manuel gordiani,training,fma_small/119/119725.mp3
+54064,Folk,5300,Yair Yona,training,fma_small/054/054064.mp3
+67766,Folk,2312,Meg Baird,training,fma_small/067/067766.mp3
+78213,Folk,14026,Howie Mitchell,training,fma_small/078/078213.mp3
+88863,Folk,3228,Josh Woodward,training,fma_small/088/088863.mp3
+33050,Folk,8094,Eric Lindley,training,fma_small/033/033050.mp3
+73675,Folk,5881,Jan Grünfeld,training,fma_small/073/073675.mp3
+122358,Folk,20475,David Mumford,validation,fma_small/122/122358.mp3
+6463,Folk,458,Matt Bauer,validation,fma_small/006/006463.mp3
+3920,Folk,851,Michael Holt,training,fma_small/003/003920.mp3
+127726,Folk,21114,Andreas Woiger,training,fma_small/127/127726.mp3
+89848,Hip-Hop,16894,Not The 1s,training,fma_small/089/089848.mp3
+114275,Hip-Hop,18587,Uncle Milk,training,fma_small/114/114275.mp3
+108841,Hip-Hop,3593,Tha Silent Partner,training,fma_small/108/108841.mp3
+72785,Hip-Hop,3593,Tha Silent Partner,training,fma_small/072/072785.mp3
+110260,Hip-Hop,19057,Kellee Maize & J. Glaze Productions,training,fma_small/110/110260.mp3
+107025,Hip-Hop,12085,Alaclair Ensemble,training,fma_small/107/107025.mp3
+89445,Hip-Hop,16870,Shad + Skratch Bastid,test,fma_small/089/089445.mp3
+137898,Hip-Hop,14456,C-Doc,training,fma_small/137/137898.mp3
+22295,Hip-Hop,4454,Comfort Fit,training,fma_small/022/022295.mp3
+129910,Hip-Hop,21421,Dollar Boyz,training,fma_small/129/129910.mp3
+11795,Hip-Hop,3089,6th Sense,training,fma_small/011/011795.mp3
+108489,Hip-Hop,18877,Sun Sunych,training,fma_small/108/108489.mp3
+148031,Hip-Hop,23527,BoyHoodBuchi,test,fma_small/148/148031.mp3
+145747,Hip-Hop,16031,The Impossebulls,test,fma_small/145/145747.mp3
+142093,Hip-Hop,19803,SK,training,fma_small/142/142093.mp3
+61159,Hip-Hop,12085,Alaclair Ensemble,training,fma_small/061/061159.mp3
+141564,Hip-Hop,22568,Yshwa,training,fma_small/141/141564.mp3
+121315,Hip-Hop,20304,Coin Locker Kid,training,fma_small/121/121315.mp3
+64988,Hip-Hop,13533,Action Davis,training,fma_small/064/064988.mp3
+97037,Hip-Hop,17781,CuzOH! Black Feat. Wordsmith,training,fma_small/097/097037.mp3
+29720,Hip-Hop,7391,Codex Machine,training,fma_small/029/029720.mp3
+71175,Hip-Hop,11213,Frenic,training,fma_small/071/071175.mp3
+90993,Hip-Hop,17014,Mported Flows,training,fma_small/090/090993.mp3
+40542,Hip-Hop,5934,uiutna,training,fma_small/040/040542.mp3
+50264,Hip-Hop,11336,Square Flare,training,fma_small/050/050264.mp3
+13670,Hip-Hop,3739,Raflesia,training,fma_small/013/013670.mp3
+149951,Hip-Hop,11979,K. Sparks,training,fma_small/149/149951.mp3
+142360,Hip-Hop,16031,The Impossebulls,test,fma_small/142/142360.mp3
+146151,Hip-Hop,23260,A-Grav Lab,training,fma_small/146/146151.mp3
+69825,Hip-Hop,14320,Infinite Livez,training,fma_small/069/069825.mp3
+24420,Hip-Hop,6274,Black Ant,training,fma_small/024/024420.mp3
+105825,Hip-Hop,18584,All Urban Outfield,training,fma_small/105/105825.mp3
+83717,Hip-Hop,7473,Cullah,training,fma_small/083/083717.mp3
+36986,Hip-Hop,6274,Black Ant,training,fma_small/036/036986.mp3
+110736,Hip-Hop,18921,D3Zs,training,fma_small/110/110736.mp3
+98580,Hip-Hop,15196,Hi-Rez,training,fma_small/098/098580.mp3
+142359,Hip-Hop,16031,The Impossebulls,test,fma_small/142/142359.mp3
+11778,Hip-Hop,3089,6th Sense,training,fma_small/011/011778.mp3
+65752,Hip-Hop,12085,Alaclair Ensemble,training,fma_small/065/065752.mp3
+13199,Hip-Hop,3593,Tha Silent Partner,training,fma_small/013/013199.mp3
+64625,Hip-Hop,13493,Blank & Kytt,validation,fma_small/064/064625.mp3
+148032,Hip-Hop,23527,BoyHoodBuchi,test,fma_small/148/148032.mp3
+63805,Hip-Hop,5334,Lushlife,training,fma_small/063/063805.mp3
+60477,Hip-Hop,12968,Centz,training,fma_small/060/060477.mp3
+144216,Hip-Hop,16031,The Impossebulls,test,fma_small/144/144216.mp3
+98627,Hip-Hop,17784,KINGS OF THE CITY,training,fma_small/098/098627.mp3
+75396,Hip-Hop,12271,Kellee Maize,validation,fma_small/075/075396.mp3
+132954,Hip-Hop,21462,Cockmasta Flex,training,fma_small/132/132954.mp3
+98554,Hip-Hop,12271,Kellee Maize,validation,fma_small/098/098554.mp3
+141304,Hip-Hop,22552,Jules,training,fma_small/141/141304.mp3
+56499,Hip-Hop,4035,Opio,training,fma_small/056/056499.mp3
+98574,Hip-Hop,15196,Hi-Rez,training,fma_small/098/098574.mp3
+6611,Hip-Hop,1882,Height With Friends,training,fma_small/006/006611.mp3
+7490,Hip-Hop,1953,BrokeMC,training,fma_small/007/007490.mp3
+105451,Hip-Hop,3226,CM aka Creative,training,fma_small/105/105451.mp3
+5268,Hip-Hop,618,Dälek,training,fma_small/005/005268.mp3
+43863,Hip-Hop,3738,This One,training,fma_small/043/043863.mp3
+130440,Hip-Hop,21503,Pot-C,training,fma_small/130/130440.mp3
+63789,Hip-Hop,7473,Cullah,training,fma_small/063/063789.mp3
+11773,Hip-Hop,3089,6th Sense,training,fma_small/011/011773.mp3
+95911,Hip-Hop,2283,Suicidal Rap Orgy,training,fma_small/095/095911.mp3
+40541,Hip-Hop,5934,uiutna,training,fma_small/040/040541.mp3
+99095,Hip-Hop,16031,The Impossebulls,test,fma_small/099/099095.mp3
+110765,Hip-Hop,16031,The Impossebulls,test,fma_small/110/110765.mp3
+108843,Hip-Hop,16031,The Impossebulls,test,fma_small/108/108843.mp3
+138216,Hip-Hop,14456,C-Doc,training,fma_small/138/138216.mp3
+11789,Hip-Hop,3089,6th Sense,training,fma_small/011/011789.mp3
+95912,Hip-Hop,2283,Suicidal Rap Orgy,training,fma_small/095/095912.mp3
+13768,Hip-Hop,3773,Majik Most,training,fma_small/013/013768.mp3
+79616,Hip-Hop,15701,Ill Papa Giraffe,training,fma_small/079/079616.mp3
+98613,Hip-Hop,17784,KINGS OF THE CITY,training,fma_small/098/098613.mp3
+116388,Hip-Hop,8693,Asthmatic Astronaut,test,fma_small/116/116388.mp3
+63747,Hip-Hop,7473,Cullah,training,fma_small/063/063747.mp3
+61884,Hip-Hop,7473,Cullah,training,fma_small/061/061884.mp3
+108808,Hip-Hop,18921,D3Zs,training,fma_small/108/108808.mp3
+10698,Hip-Hop,2631,BOPD,training,fma_small/010/010698.mp3
+98585,Hip-Hop,15196,Hi-Rez,training,fma_small/098/098585.mp3
+64519,Hip-Hop,13476,Heavy Links,validation,fma_small/064/064519.mp3
+110261,Hip-Hop,19057,Kellee Maize & J. Glaze Productions,training,fma_small/110/110261.mp3
+11785,Hip-Hop,3089,6th Sense,training,fma_small/011/011785.mp3
+60474,Hip-Hop,12966,Citizen Crane,training,fma_small/060/060474.mp3
+11786,Hip-Hop,3089,6th Sense,training,fma_small/011/011786.mp3
+64631,Hip-Hop,13493,Blank & Kytt,validation,fma_small/064/064631.mp3
+154309,Hip-Hop,23208,Fleslit,test,fma_small/154/154309.mp3
+112488,Hip-Hop,16031,The Impossebulls,test,fma_small/112/112488.mp3
+119988,Hip-Hop,20156,Cassette Tape Bandits,training,fma_small/119/119988.mp3
+65745,Hip-Hop,13729,Super Galactic Expansive,validation,fma_small/065/065745.mp3
+71245,Hip-Hop,14544,Dengaz,training,fma_small/071/071245.mp3
+75427,Hip-Hop,12271,Kellee Maize,validation,fma_small/075/075427.mp3
+89857,Hip-Hop,16894,Not The 1s,training,fma_small/089/089857.mp3
+43859,Hip-Hop,10231,Katrah-Quey ft. dj Alekzander,test,fma_small/043/043859.mp3
+123972,Hip-Hop,20707,BenJamin Banger,training,fma_small/123/123972.mp3
+75391,Hip-Hop,12271,Kellee Maize,validation,fma_small/075/075391.mp3
+121318,Hip-Hop,20304,Coin Locker Kid,training,fma_small/121/121318.mp3
+11920,Hip-Hop,3070,WatFatMan,training,fma_small/011/011920.mp3
+11782,Hip-Hop,3089,6th Sense,training,fma_small/011/011782.mp3
+130710,Hip-Hop,21509,Jimmy & The Threats,training,fma_small/130/130710.mp3
+121663,Instrumental,11939,happiness in aeroplanes,validation,fma_small/121/121663.mp3
+130932,Instrumental,19461,Blue Dot Sessions,training,fma_small/130/130932.mp3
+130988,Instrumental,19461,Blue Dot Sessions,training,fma_small/130/130988.mp3
+126415,Instrumental,19461,Blue Dot Sessions,training,fma_small/126/126415.mp3
+117159,Instrumental,19461,Blue Dot Sessions,training,fma_small/117/117159.mp3
+126885,Instrumental,19461,Blue Dot Sessions,training,fma_small/126/126885.mp3
+126215,Instrumental,19461,Blue Dot Sessions,training,fma_small/126/126215.mp3
+121655,Instrumental,11939,happiness in aeroplanes,validation,fma_small/121/121655.mp3
+134454,Instrumental,21803,TRG Banks,validation,fma_small/134/134454.mp3
+81782,Instrumental,7168,Podington Bear,training,fma_small/081/081782.mp3
+133453,Instrumental,21803,TRG Banks,validation,fma_small/133/133453.mp3
+57371,Instrumental,2240,Justice Yeldham,training,fma_small/057/057371.mp3
+126233,Instrumental,19461,Blue Dot Sessions,training,fma_small/126/126233.mp3
+148002,Instrumental,19472,Squire Tuck,test,fma_small/148/148002.mp3
+142641,Instrumental,21803,TRG Banks,validation,fma_small/142/142641.mp3
+139537,Instrumental,22370,Dave Nelson,training,fma_small/139/139537.mp3
+111146,Instrumental,16986,Rod Hamilton,test,fma_small/111/111146.mp3
+137176,Instrumental,17524,Ars Sonor,training,fma_small/137/137176.mp3
+131911,Instrumental,21616,David Szesztay,training,fma_small/131/131911.mp3
+122654,Instrumental,20108,Josh Spacek,training,fma_small/122/122654.mp3
+87097,Instrumental,16682,XPURM,training,fma_small/087/087097.mp3
+115771,Instrumental,19692,Jelsonic,training,fma_small/115/115771.mp3
+122621,Instrumental,20519,Doctor Turtle,training,fma_small/122/122621.mp3
+94035,Instrumental,17361,Coldnoise,training,fma_small/094/094035.mp3
+106629,Instrumental,18680,Phelios,test,fma_small/106/106629.mp3
+75440,Instrumental,3951,Cherly KaCherly,training,fma_small/075/075440.mp3
+149141,Instrumental,19461,Blue Dot Sessions,training,fma_small/149/149141.mp3
+139773,Instrumental,22389,Evgeny Teilor,training,fma_small/139/139773.mp3
+143306,Instrumental,22795,Chase Alan Willis,validation,fma_small/143/143306.mp3
+114533,Instrumental,19461,Blue Dot Sessions,training,fma_small/114/114533.mp3
+81803,Instrumental,7168,Podington Bear,training,fma_small/081/081803.mp3
+126186,Instrumental,20971,Joao Picoito,training,fma_small/126/126186.mp3
+120773,Instrumental,20273,Aaron Mist,training,fma_small/120/120773.mp3
+115769,Instrumental,19692,Jelsonic,training,fma_small/115/115769.mp3
+92952,Instrumental,17278,Muhmood,training,fma_small/092/092952.mp3
+127211,Instrumental,21071,Satori Ensemble,training,fma_small/127/127211.mp3
+125616,Instrumental,19461,Blue Dot Sessions,training,fma_small/125/125616.mp3
+139772,Instrumental,22389,Evgeny Teilor,training,fma_small/139/139772.mp3
+52446,Instrumental,11662,Jan Morgenstern,training,fma_small/052/052446.mp3
+114212,Instrumental,19472,Squire Tuck,test,fma_small/114/114212.mp3
+75435,Instrumental,3951,Cherly KaCherly,training,fma_small/075/075435.mp3
+112978,Instrumental,6074,Gillicuddy,training,fma_small/112/112978.mp3
+148112,Instrumental,23539,Ryan Cullinane,training,fma_small/148/148112.mp3
+111793,Instrumental,19188,Nightech,training,fma_small/111/111793.mp3
+110653,Instrumental,19096,Il Sogno Del Marinaio,training,fma_small/110/110653.mp3
+141293,Instrumental,22551,Kevin Hartnell,training,fma_small/141/141293.mp3
+125818,Instrumental,19461,Blue Dot Sessions,training,fma_small/125/125818.mp3
+118952,Instrumental,20112,Igor Khabarov,training,fma_small/118/118952.mp3
+133580,Instrumental,21616,David Szesztay,training,fma_small/133/133580.mp3
+124177,Instrumental,19692,Jelsonic,training,fma_small/124/124177.mp3
+137172,Instrumental,17524,Ars Sonor,training,fma_small/137/137172.mp3
+108879,Instrumental,10469,Plusplus,training,fma_small/108/108879.mp3
+124874,Instrumental,20760,Sergey Cheremisinov,training,fma_small/124/124874.mp3
+20365,Instrumental,129,Ergo Phizmiz,training,fma_small/020/020365.mp3
+20376,Instrumental,129,Ergo Phizmiz,training,fma_small/020/020376.mp3
+126181,Instrumental,20971,Joao Picoito,training,fma_small/126/126181.mp3
+14579,Instrumental,129,Ergo Phizmiz,training,fma_small/014/014579.mp3
+97279,Instrumental,13255,Dexter Britain,training,fma_small/097/097279.mp3
+133544,Instrumental,21616,David Szesztay,training,fma_small/133/133544.mp3
+111228,Instrumental,15547,Mystified,training,fma_small/111/111228.mp3
+45393,Instrumental,10458,Blear Moon,training,fma_small/045/045393.mp3
+122645,Instrumental,20108,Josh Spacek,training,fma_small/122/122645.mp3
+94034,Instrumental,17361,Coldnoise,training,fma_small/094/094034.mp3
+125821,Instrumental,19461,Blue Dot Sessions,training,fma_small/125/125821.mp3
+127496,Instrumental,19461,Blue Dot Sessions,training,fma_small/127/127496.mp3
+126417,Instrumental,19461,Blue Dot Sessions,training,fma_small/126/126417.mp3
+134793,Instrumental,18834,Pianochocolate,test,fma_small/134/134793.mp3
+54154,Instrumental,11944,Mark Neil,training,fma_small/054/054154.mp3
+122646,Instrumental,20108,Josh Spacek,training,fma_small/122/122646.mp3
+76363,Instrumental,12351,Circus Marcus,test,fma_small/076/076363.mp3
+120514,Instrumental,19125,LAZY SALON,validation,fma_small/120/120514.mp3
+125657,Instrumental,19461,Blue Dot Sessions,training,fma_small/125/125657.mp3
+130989,Instrumental,19461,Blue Dot Sessions,training,fma_small/130/130989.mp3
+111224,Instrumental,15547,Mystified,training,fma_small/111/111224.mp3
+111221,Instrumental,15547,Mystified,training,fma_small/111/111221.mp3
+126321,Instrumental,20987,Janneh,training,fma_small/126/126321.mp3
+40655,Instrumental,9568,Albert Glasser,validation,fma_small/040/040655.mp3
+125622,Instrumental,19461,Blue Dot Sessions,training,fma_small/125/125622.mp3
+112210,Instrumental,12654,The OO-Ray,training,fma_small/112/112210.mp3
+126886,Instrumental,19461,Blue Dot Sessions,training,fma_small/126/126886.mp3
+54150,Instrumental,11944,Mark Neil,training,fma_small/054/054150.mp3
+110651,Instrumental,19096,Il Sogno Del Marinaio,training,fma_small/110/110651.mp3
+54151,Instrumental,11944,Mark Neil,training,fma_small/054/054151.mp3
+113969,Instrumental,19452,Fearless Super Pictures,training,fma_small/113/113969.mp3
+122651,Instrumental,20108,Josh Spacek,training,fma_small/122/122651.mp3
+152569,Instrumental,24088,Siddhartha,training,fma_small/152/152569.mp3
+128815,Instrumental,19461,Blue Dot Sessions,training,fma_small/128/128815.mp3
+131789,Instrumental,19685,Pranavibes,training,fma_small/131/131789.mp3
+114077,Instrumental,19461,Blue Dot Sessions,training,fma_small/114/114077.mp3
+116175,Instrumental,19472,Squire Tuck,test,fma_small/116/116175.mp3
+119898,Instrumental,19461,Blue Dot Sessions,training,fma_small/119/119898.mp3
+121664,Instrumental,11939,happiness in aeroplanes,validation,fma_small/121/121664.mp3
+95725,Instrumental,6074,Gillicuddy,training,fma_small/095/095725.mp3
+133100,Instrumental,20475,David Mumford,validation,fma_small/133/133100.mp3
+118618,Instrumental,18673,Fabian Measures,training,fma_small/118/118618.mp3
+131914,Instrumental,21616,David Szesztay,training,fma_small/131/131914.mp3
+66757,Instrumental,13830,krackatoa,training,fma_small/066/066757.mp3
+52451,Instrumental,11662,Jan Morgenstern,training,fma_small/052/052451.mp3
+133561,Instrumental,21616,David Szesztay,training,fma_small/133/133561.mp3
+59707,International,12860,Tenores de Aterúe,training,fma_small/059/059707.mp3
+107181,International,18736,Don Goliath,training,fma_small/107/107181.mp3
+107184,International,18736,Don Goliath,training,fma_small/107/107184.mp3
+80774,International,15839,Zlatni Makedoncinja,training,fma_small/080/080774.mp3
+53160,International,6543,Ras Amerlock,training,fma_small/053/053160.mp3
+92206,International,17136,Čaj na Ex,training,fma_small/092/092206.mp3
+73776,International,14991,StrangeZero,test,fma_small/073/073776.mp3
+59684,International,12855,Ventanas,training,fma_small/059/059684.mp3
+129400,International,21299,Trevor Flowers and Iheka-Chama,training,fma_small/129/129400.mp3
+16747,International,4621,Salam,training,fma_small/016/016747.mp3
+6366,International,1837,Zikrayat,training,fma_small/006/006366.mp3
+76076,International,15393,Koliadnyky of Kryvorivnia,training,fma_small/076/076076.mp3
+142574,International,22685,La Flor del Otro,training,fma_small/142/142574.mp3
+135220,International,21947,Ehl-i Keyif,validation,fma_small/135/135220.mp3
+131953,International,6345,Yale Women's Slavic Chorus,training,fma_small/131/131953.mp3
+38818,International,9237,Sláinte,test,fma_small/038/038818.mp3
+129925,International,21423,Radio Jarocho and Zenen Zeferino Huervo,training,fma_small/129/129925.mp3
+108863,International,3936,Black Sea Hotel,validation,fma_small/108/108863.mp3
+43019,International,10060,Huun Huur Tu,training,fma_small/043/043019.mp3
+60537,International,12974,Rakiya,test,fma_small/060/060537.mp3
+24366,International,6251,Cuban Cowboys,training,fma_small/024/024366.mp3
+44947,International,10385,SONGO 21,training,fma_small/044/044947.mp3
+59719,International,6344,The Rosen Sisters,training,fma_small/059/059719.mp3
+25603,International,6543,Ras Amerlock,training,fma_small/025/025603.mp3
+27981,International,7059,Gamelan Nyai Saraswati,training,fma_small/027/027981.mp3
+11671,International,2795,Cordero,training,fma_small/011/011671.mp3
+148429,International,23585,In De Nadfin,validation,fma_small/148/148429.mp3
+132141,International,11103,Gogofski,training,fma_small/132/132141.mp3
+135229,International,21947,Ehl-i Keyif,validation,fma_small/135/135229.mp3
+43588,International,10188,Rozsa has become... Madárka,training,fma_small/043/043588.mp3
+17607,International,4799,Alash Ensemble,training,fma_small/017/017607.mp3
+73771,International,14998,Mistakemistake & MC Sky Wikluh,training,fma_small/073/073771.mp3
+59666,International,6345,Yale Women's Slavic Chorus,training,fma_small/059/059666.mp3
+44946,International,10384,arsonist,training,fma_small/044/044946.mp3
+25030,International,6416,Romashka,validation,fma_small/025/025030.mp3
+98026,International,17898,Čoček Nation,validation,fma_small/098/098026.mp3
+62196,International,13227,Barbara Kanam --,training,fma_small/062/062196.mp3
+132140,International,11103,Gogofski,training,fma_small/132/132140.mp3
+4509,International,1423,Yan Yalego,training,fma_small/004/004509.mp3
+43028,International,10060,Huun Huur Tu,training,fma_small/043/043028.mp3
+6469,International,1839,Orkestra Keyif,training,fma_small/006/006469.mp3
+42240,International,1838,Zlatne Uste Balkan Brass Band,training,fma_small/042/042240.mp3
+142575,International,22685,La Flor del Otro,training,fma_small/142/142575.mp3
+42014,International,9916,Caballo and the Mothafu Kings,training,fma_small/042/042014.mp3
+38784,International,9237,Sláinte,test,fma_small/038/038784.mp3
+134940,International,19607,"Turku, Nomads of the Silk Road",training,fma_small/134/134940.mp3
+64408,International,13454,Shan-A-Shan,validation,fma_small/064/064408.mp3
+54480,International,11992,Friglob,training,fma_small/054/054480.mp3
+121929,International,20367,Negritage,test,fma_small/121/121929.mp3
+60875,International,10174,Eastern Watershed Klezmer Quartet,test,fma_small/060/060875.mp3
+129889,International,21420,Tzelalot,training,fma_small/129/129889.mp3
+38326,International,9165,Tchakare Kanyembe,training,fma_small/038/038326.mp3
+62190,International,13221,"LETIS DIVA,",training,fma_small/062/062190.mp3
+3778,International,932,La Troba Kung-Fu,training,fma_small/003/003778.mp3
+4073,International,1134,Pistolera,training,fma_small/004/004073.mp3
+73767,International,14996,The Global Optimistic,training,fma_small/073/073767.mp3
+1680,International,1259,The Sounds of Taraab,training,fma_small/001/001680.mp3
+25802,International,6593,Buguinha Dub,training,fma_small/025/025802.mp3
+115271,International,18008,Catherine Foster Brass Band,training,fma_small/115/115271.mp3
+41018,International,9627,Unity Vibration,training,fma_small/041/041018.mp3
+4235,International,1259,The Sounds of Taraab,training,fma_small/004/004235.mp3
+60144,International,12911,Vlada Tomova's Balkan Tales,training,fma_small/060/060144.mp3
+25601,International,6546,Ras Amerlock meets Professor Balthazar,training,fma_small/025/025601.mp3
+64590,International,13489,Frank Guerrero y Su Grupo Aché,validation,fma_small/064/064590.mp3
+98300,International,12974,Rakiya,test,fma_small/098/098300.mp3
+80776,International,15839,Zlatni Makedoncinja,training,fma_small/080/080776.mp3
+129407,International,21299,Trevor Flowers and Iheka-Chama,training,fma_small/129/129407.mp3
+6342,International,1837,Zikrayat,training,fma_small/006/006342.mp3
+60145,International,12911,Vlada Tomova's Balkan Tales,training,fma_small/060/060145.mp3
+11679,International,2795,Cordero,training,fma_small/011/011679.mp3
+59657,International,12839,Brazda,training,fma_small/059/059657.mp3
+62531,International,9160,Tommy Tornado,training,fma_small/062/062531.mp3
+107185,International,18739,Don Goliath meet Iyah Ranx,training,fma_small/107/107185.mp3
+38830,International,9237,Sláinte,test,fma_small/038/038830.mp3
+38827,International,9237,Sláinte,test,fma_small/038/038827.mp3
+80754,International,11103,Gogofski,training,fma_small/080/080754.mp3
+4092,International,1140,Polka Madre,training,fma_small/004/004092.mp3
+62529,International,9160,Tommy Tornado,training,fma_small/062/062529.mp3
+42031,International,9946,Uffe,training,fma_small/042/042031.mp3
+93981,International,17351,Abraka Dub,training,fma_small/093/093981.mp3
+6330,International,1259,The Sounds of Taraab,training,fma_small/006/006330.mp3
+38782,International,9237,Sláinte,test,fma_small/038/038782.mp3
+43018,International,10060,Huun Huur Tu,training,fma_small/043/043018.mp3
+60536,International,12974,Rakiya,test,fma_small/060/060536.mp3
+152418,International,13021,Niva,training,fma_small/152/152418.mp3
+99368,International,18023,Yasna New York Bulgarian Women's Voices Choir,training,fma_small/099/099368.mp3
+107950,International,18810,Mamá Patxanga,training,fma_small/107/107950.mp3
+43027,International,10060,Huun Huur Tu,training,fma_small/043/043027.mp3
+48494,International,11103,Gogofski,training,fma_small/048/048494.mp3
+55235,International,9169,Mastermind XS,training,fma_small/055/055235.mp3
+59708,International,12860,Tenores de Aterúe,training,fma_small/059/059708.mp3
+25795,International,6593,Buguinha Dub,training,fma_small/025/025795.mp3
+113273,International,19371,Ortalio,test,fma_small/113/113273.mp3
+54475,International,11992,Friglob,training,fma_small/054/054475.mp3
+108866,International,3936,Black Sea Hotel,validation,fma_small/108/108866.mp3
+6385,International,1836,Scott Wilson & Efendi,validation,fma_small/006/006385.mp3
+4848,International,911,Mamak Khadem,training,fma_small/004/004848.mp3
+117669,International,19892,La Inédita,training,fma_small/117/117669.mp3
+85598,Pop,3222,Garmisch,test,fma_small/085/085598.mp3
+122807,Pop,20544,The Carnys,training,fma_small/122/122807.mp3
+122810,Pop,20544,The Carnys,training,fma_small/122/122810.mp3
+113016,Pop,5673,Malaventura,training,fma_small/113/113016.mp3
+64366,Pop,13451,Bergitta Victor,training,fma_small/064/064366.mp3
+113934,Pop,19448,Chris Herb,training,fma_small/113/113934.mp3
+109973,Pop,9454,Phemale,validation,fma_small/109/109973.mp3
+85426,Pop,16470,Orange Peels,training,fma_small/085/085426.mp3
+131444,Pop,21568,Mom Jeans,training,fma_small/131/131444.mp3
+27550,Pop,6957,Frau,training,fma_small/027/027550.mp3
+127294,Pop,21081,"Oh Yeah, the Future",training,fma_small/127/127294.mp3
+19416,Pop,5202,Orquestra Popular De Paio Pires,training,fma_small/019/019416.mp3
+111375,Pop,16362,Fierbinteanu,training,fma_small/111/111375.mp3
+148607,Pop,23605,Red Crickets,test,fma_small/148/148607.mp3
+144941,Pop,23102,Maxwell Powers,training,fma_small/144/144941.mp3
+135341,Pop,21957,Caleb Lemond,validation,fma_small/135/135341.mp3
+51263,Pop,11474,Germany Germany,training,fma_small/051/051263.mp3
+132790,Pop,12953,Gardenella,training,fma_small/132/132790.mp3
+126357,Pop,20992,Boonesboro,training,fma_small/126/126357.mp3
+54234,Pop,6877,Ivy,training,fma_small/054/054234.mp3
+87324,Pop,16732,Sally Seltmann,training,fma_small/087/087324.mp3
+32336,Pop,7949,Plushgoolash,training,fma_small/032/032336.mp3
+59446,Pop,9454,Phemale,validation,fma_small/059/059446.mp3
+85953,Pop,1123,Pete Galub,training,fma_small/085/085953.mp3
+39658,Pop,9409,Quiet Hooves,training,fma_small/039/039658.mp3
+45122,Pop,9454,Phemale,validation,fma_small/045/045122.mp3
+21672,Pop,5731,Guidance Counselor,training,fma_small/021/021672.mp3
+149101,Pop,23648,Coco Morier,training,fma_small/149/149101.mp3
+138039,Pop,22220,Massage,training,fma_small/138/138039.mp3
+145704,Pop,23102,Maxwell Powers,training,fma_small/145/145704.mp3
+56274,Pop,12255,Orca Team,training,fma_small/056/056274.mp3
+27797,Pop,7009,The Orchestral Movement of 1932,training,fma_small/027/027797.mp3
+109960,Pop,9454,Phemale,validation,fma_small/109/109960.mp3
+84605,Pop,15404,EARTH-ENEMY,training,fma_small/084/084605.mp3
+59445,Pop,9454,Phemale,validation,fma_small/059/059445.mp3
+36959,Pop,3222,Garmisch,test,fma_small/036/036959.mp3
+120105,Pop,1916,Lanark,training,fma_small/120/120105.mp3
+94423,Pop,17057,Bored With Four,training,fma_small/094/094423.mp3
+138038,Pop,22220,Massage,training,fma_small/138/138038.mp3
+16163,Pop,4455,Christopher Joel,training,fma_small/016/016163.mp3
+55285,Pop,9367,The Kyoto Connection,training,fma_small/055/055285.mp3
+21404,Pop,5640,Airships,training,fma_small/021/021404.mp3
+53937,Pop,11914,Scraps,training,fma_small/053/053937.mp3
+148608,Pop,23605,Red Crickets,test,fma_small/148/148608.mp3
+52040,Pop,11615,Poland,training,fma_small/052/052040.mp3
+51260,Pop,11471,Les Filles et les Garçons,test,fma_small/051/051260.mp3
+142550,Pop,22682,Rony Friedman,training,fma_small/142/142550.mp3
+104779,Pop,16993,Unthunk,validation,fma_small/104/104779.mp3
+67358,Pop,13990,Brutal Vainqueur,training,fma_small/067/067358.mp3
+129051,Pop,21268,Total Unicorn,validation,fma_small/129/129051.mp3
+91162,Pop,13391,Monroeville Music Center,training,fma_small/091/091162.mp3
+132786,Pop,12953,Gardenella,training,fma_small/132/132786.mp3
+47895,Pop,2176,Superhumanoids,training,fma_small/047/047895.mp3
+92129,Pop,17123,The Craters,training,fma_small/092/092129.mp3
+10806,Pop,2735,Lesbian Afternoon,training,fma_small/010/010806.mp3
+11200,Pop,2881,March Rosetta,test,fma_small/011/011200.mp3
+108460,Pop,18873,Miracles of Modern Science,test,fma_small/108/108460.mp3
+2099,Pop,348,luc,training,fma_small/002/002099.mp3
+41568,Pop,9784,Fabryka,training,fma_small/041/041568.mp3
+127303,Pop,21081,"Oh Yeah, the Future",training,fma_small/127/127303.mp3
+52036,Pop,11615,Poland,training,fma_small/052/052036.mp3
+13378,Pop,3652,Peter Fox Simon,training,fma_small/013/013378.mp3
+87190,Pop,16692,Eric & Magill,training,fma_small/087/087190.mp3
+39530,Pop,9288,Liam Stewart,training,fma_small/039/039530.mp3
+107047,Pop,18725,Elvin Brandhi,validation,fma_small/107/107047.mp3
+120183,Pop,2007,Math and Physics Club,training,fma_small/120/120183.mp3
+113018,Pop,5673,Malaventura,training,fma_small/113/113018.mp3
+131454,Pop,21568,Mom Jeans,training,fma_small/131/131454.mp3
+18146,Pop,2532,Funky Terrorist,training,fma_small/018/018146.mp3
+87191,Pop,16692,Eric & Magill,training,fma_small/087/087191.mp3
+21998,Pop,5828,Katapulto,test,fma_small/021/021998.mp3
+77572,Pop,14296,Evils That Never Came,training,fma_small/077/077572.mp3
+94635,Pop,15460,Mike Morton,training,fma_small/094/094635.mp3
+123509,Pop,20061,Red Trees,training,fma_small/123/123509.mp3
+51291,Pop,9454,Phemale,validation,fma_small/051/051291.mp3
+51275,Pop,11486,Mother Of Pearl,training,fma_small/051/051275.mp3
+111395,Pop,16362,Fierbinteanu,training,fma_small/111/111395.mp3
+12390,Pop,3346,Pipo Pegoraro,test,fma_small/012/012390.mp3
+94634,Pop,15460,Mike Morton,training,fma_small/094/094634.mp3
+52393,Pop,9454,Phemale,validation,fma_small/052/052393.mp3
+113935,Pop,19448,Chris Herb,training,fma_small/113/113935.mp3
+17345,Pop,4634,No Nature,validation,fma_small/017/017345.mp3
+50272,Pop,7295,ZOE.LEELA,training,fma_small/050/050272.mp3
+17906,Pop,1922,Learning Music,training,fma_small/017/017906.mp3
+54039,Pop,8376,alright lover,training,fma_small/054/054039.mp3
+87323,Pop,16732,Sally Seltmann,training,fma_small/087/087323.mp3
+154413,Pop,24252,Tasseomancy,training,fma_small/154/154413.mp3
+121737,Pop,20335,Frozen Houses,training,fma_small/121/121737.mp3
+125721,Pop,20941,Babe Parade,training,fma_small/125/125721.mp3
+55076,Pop,243,The Polyps,training,fma_small/055/055076.mp3
+61734,Pop,13153,Soft Serve,validation,fma_small/061/061734.mp3
+68353,Pop,14093,Caroline Gorman,training,fma_small/068/068353.mp3
+85599,Pop,3222,Garmisch,test,fma_small/085/085599.mp3
+39666,Pop,9409,Quiet Hooves,training,fma_small/039/039666.mp3
+127188,Pop,15469,Wintermitts,test,fma_small/127/127188.mp3
+67334,Pop,13985,Drama for Yamaha,test,fma_small/067/067334.mp3
+126400,Pop,20995,Shy Kids,training,fma_small/126/126400.mp3
+19760,Pop,5283,Dirty Mittens,training,fma_small/019/019760.mp3
+16340,Pop,1762,Twizzle,test,fma_small/016/016340.mp3
+127911,Pop,21124,Gingerlys,training,fma_small/127/127911.mp3
+99438,Rock,17172,Atlantic Thrills,training,fma_small/099/099438.mp3
+122685,Rock,17997,Salmo,training,fma_small/122/122685.mp3
+123273,Rock,20629,Son Altesse Furieuse,training,fma_small/123/123273.mp3
+114201,Rock,19470,Fallen to Flux,training,fma_small/114/114201.mp3
+83969,Rock,139,Foot Village,training,fma_small/083/083969.mp3
+114413,Rock,19498,Scott Holmes,training,fma_small/114/114413.mp3
+111982,Rock,13052,Chat Logs,validation,fma_small/111/111982.mp3
+98297,Rock,17534,Mário Gajarský,training,fma_small/098/098297.mp3
+135363,Rock,21958,Lamprey,training,fma_small/135/135363.mp3
+26642,Rock,6742,Flowerheads,training,fma_small/026/026642.mp3
+129094,Rock,1860,The Vivisectors,validation,fma_small/129/129094.mp3
+10670,Rock,2630,Nine Inch Nails,training,fma_small/010/010670.mp3
+112527,Rock,19279,Action Will Be Taken,training,fma_small/112/112527.mp3
+145257,Rock,23152,Lonely Punk,training,fma_small/145/145257.mp3
+141877,Rock,22584,Nocturnal Mayhem,test,fma_small/141/141877.mp3
+137632,Rock,21476,The Sun Through A Telescope,test,fma_small/137/137632.mp3
+58333,Rock,12626,Jono Bacon,validation,fma_small/058/058333.mp3
+137214,Rock,22128,Punk Rock Opera,training,fma_small/137/137214.mp3
+124461,Rock,20739,Clean,training,fma_small/124/124461.mp3
+65619,Rock,13671,BlackBox Red,training,fma_small/065/065619.mp3
+106566,Rock,18269,Apache Tomcat,training,fma_small/106/106566.mp3
+37730,Rock,453,Bardo Pond,training,fma_small/037/037730.mp3
+72289,Rock,14695,Squarehead,training,fma_small/072/072289.mp3
+100802,Rock,18153,Margina,training,fma_small/100/100802.mp3
+46024,Rock,2915,Obits,training,fma_small/046/046024.mp3
+50752,Rock,11418,Metalmorphosis,test,fma_small/050/050752.mp3
+14740,Rock,4120,Throwing Muses,test,fma_small/014/014740.mp3
+146482,Rock,23325,Norwegian Blue Records,training,fma_small/146/146482.mp3
+137717,Rock,1860,The Vivisectors,validation,fma_small/137/137717.mp3
+142948,Rock,22765,Mrs. Magician,validation,fma_small/142/142948.mp3
+69781,Rock,5594,Home Blitz,training,fma_small/069/069781.mp3
+26681,Rock,6752,Disen Gage,training,fma_small/026/026681.mp3
+111335,Rock,13523,springtide,training,fma_small/111/111335.mp3
+96408,Rock,17534,Mário Gajarský,training,fma_small/096/096408.mp3
+72288,Rock,14695,Squarehead,training,fma_small/072/072288.mp3
+42310,Rock,9976,Lockerbie,training,fma_small/042/042310.mp3
+115765,Rock,19691,Zoliborz,training,fma_small/115/115765.mp3
+108502,Rock,17247,Voodoo Puppets,training,fma_small/108/108502.mp3
+137716,Rock,1860,The Vivisectors,validation,fma_small/137/137716.mp3
+6788,Rock,1119,Peelander-Z,training,fma_small/006/006788.mp3
+66717,Rock,13904,Young Love,test,fma_small/066/066717.mp3
+14735,Rock,4120,Throwing Muses,test,fma_small/014/014735.mp3
+63472,Rock,13017,Mutilation Rites,training,fma_small/063/063472.mp3
+145258,Rock,23152,Lonely Punk,training,fma_small/145/145258.mp3
+61821,Rock,13158,Ed Saad,test,fma_small/061/061821.mp3
+57968,Rock,11423,Ljudske Potrebe,training,fma_small/057/057968.mp3
+138318,Rock,22240,Big White,training,fma_small/138/138318.mp3
+109355,Rock,15300,TIGERBERRY,training,fma_small/109/109355.mp3
+87151,Rock,16689,Still Pluto,training,fma_small/087/087151.mp3
+131553,Rock,21464,Your Marginally Talented Photographer Girlfriend,training,fma_small/131/131553.mp3
+107476,Rock,18766,CRTVTR,training,fma_small/107/107476.mp3
+136709,Rock,22091,Tojamura 7,training,fma_small/136/136709.mp3
+56559,Rock,12277,Krebs,validation,fma_small/056/056559.mp3
+108038,Rock,18817,Kubark,training,fma_small/108/108038.mp3
+3624,Rock,728,Fallen Leaves,test,fma_small/003/003624.mp3
+3762,Rock,921,Kinski,training,fma_small/003/003762.mp3
+110983,Rock,19115,Antethic,training,fma_small/110/110983.mp3
+1039,Rock,190,Lightning Bolt,training,fma_small/001/001039.mp3
+48763,Rock,281,Sun Araw,training,fma_small/048/048763.mp3
+129969,Rock,19164,Pipe Choir,training,fma_small/129/129969.mp3
+61493,Rock,13115,Room For A Ghost,training,fma_small/061/061493.mp3
+5006,Rock,1075,New Bomb Turks,training,fma_small/005/005006.mp3
+106274,Rock,18641,Night Rally,training,fma_small/106/106274.mp3
+45475,Rock,10463,Original Innocence,training,fma_small/045/045475.mp3
+109468,Rock,19011,The Pink Tiles,training,fma_small/109/109468.mp3
+117883,Rock,19909,Connections,test,fma_small/117/117883.mp3
+114396,Rock,19498,Scott Holmes,training,fma_small/114/114396.mp3
+135372,Rock,21958,Lamprey,training,fma_small/135/135372.mp3
+9557,Rock,1917,Kristin Hersh,validation,fma_small/009/009557.mp3
+106277,Rock,18641,Night Rally,training,fma_small/106/106277.mp3
+16354,Rock,4495,Michael Gira,training,fma_small/016/016354.mp3
+95535,Rock,17370,Westy Reflector,test,fma_small/095/095535.mp3
+108961,Rock,18947,The Mystery Artist,training,fma_small/108/108961.mp3
+123278,Rock,18191,STYPTIC,training,fma_small/123/123278.mp3
+59876,Rock,12867,Boy Friend,training,fma_small/059/059876.mp3
+59374,Rock,12802,Twin Guns,training,fma_small/059/059374.mp3
+113512,Rock,19406,A Crooked Pulse,training,fma_small/113/113512.mp3
+4777,Rock,823,Half Japanese,training,fma_small/004/004777.mp3
+108957,Rock,18947,The Mystery Artist,training,fma_small/108/108957.mp3
+63045,Rock,7916,The Wedding Present,training,fma_small/063/063045.mp3
+114414,Rock,19498,Scott Holmes,training,fma_small/114/114414.mp3
+9513,Rock,1097,Old Time Relijun,training,fma_small/009/009513.mp3
+57891,Rock,12277,Krebs,validation,fma_small/057/057891.mp3
+9550,Rock,1917,Kristin Hersh,validation,fma_small/009/009550.mp3
+64919,Rock,13526,The Units,training,fma_small/064/064919.mp3
+106564,Rock,18269,Apache Tomcat,training,fma_small/106/106564.mp3
+149488,Rock,23674,Autumn Interlude,training,fma_small/149/149488.mp3
+121867,Rock,20359,The Britemores,training,fma_small/121/121867.mp3
+124185,Rock,20733,Bloodgod,test,fma_small/124/124185.mp3
+66539,Rock,10027,Waylon Thornton,test,fma_small/066/066539.mp3
+73519,Rock,14958,Hounds Of Hate,test,fma_small/073/073519.mp3
+88900,Rock,16849,Hunter-Gatherer,training,fma_small/088/088900.mp3
+99439,Rock,17172,Atlantic Thrills,training,fma_small/099/099439.mp3
+48367,Rock,11018,Cloudkicker,training,fma_small/048/048367.mp3
+126671,Rock,21027,Sleep Out,training,fma_small/126/126671.mp3
+86799,Rock,16622,Von Korf,training,fma_small/086/086799.mp3
+124996,Rock,12676,Let Me Crazy,training,fma_small/124/124996.mp3
+12521,Rock,3227,Brad Sucks,test,fma_small/012/012521.mp3
+8208,Rock,2252,Alan Vega & Oneida,training,fma_small/008/008208.mp3
+130084,Rock,21447,Terry & Louie,training,fma_small/130/130084.mp3

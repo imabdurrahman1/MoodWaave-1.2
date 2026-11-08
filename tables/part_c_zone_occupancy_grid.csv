@@ -1,0 +1,5 @@
+Arousal_Range,"Valence [0.00, 0.25]","Valence [0.25, 0.50]","Valence [0.50, 0.75]","Valence [0.75, 1.00]"
+"Arousal [0.75, 1.00]",Frustrated: True=5 | Pred=0,Tense: True=17 | Pred=0,Energetic: True=435 | Pred=512,Excited: True=446 | Pred=192
+"Arousal [0.50, 0.75]",Angry: True=24 | Pred=0,Distressed: True=242 | Pred=271,Pleased: True=1001 | Pred=1351,Happy: True=171 | Pred=36
+"Arousal [0.25, 0.50]",Sad: True=19 | Pred=1,Gloomy: True=431 | Pred=452,Peaceful: True=190 | Pred=258,Relaxed: True=0 | Pred=0
+"Arousal [0.00, 0.25]",Depressed: True=14 | Pred=0,Bored: True=74 | Pred=7,Calm: True=11 | Pred=0,Serene: True=0 | Pred=0

@@ -1,0 +1,9 @@
+dataset,pipeline,features,cost_mode,cost_median_ms,cost_range_ms,speedup_vs_v0_median,speedup_vs_v0_range,speedup_vs_v1_median
+GTZAN,Full-113 V0 (Headline Baseline),113,Modelled,1633.86,1633.86,1.0,1.00×,0.15
+GTZAN,Full-113 V1 (Secondary Baseline),113,Modelled,238.06,238.06,6.86,6.86×,1.0
+GTZAN,"MOODWAAVE-Lite (71, Fixed)",71,Modelled,116.84,116.84,13.98,13.98×,2.04
+GTZAN,Chosen Subsets (Unbiased 1-SE),79.1 (range 66–107),Modelled,116.84,41.22–155.27,13.98,10.52×–39.64×,2.04
+PMEmo,Full-113 V0 (Headline Baseline),113,Modelled,1618.63,1618.63,1.0,1.00×,0.17
+PMEmo,Full-113 V1 (Secondary Baseline),113,Modelled,276.82,276.82,5.85,5.85×,1.0
+PMEmo,"MOODWAAVE-Lite (71, Fixed)",71,Modelled,161.13,161.13,10.05,10.05×,1.72
+PMEmo,Chosen Subsets (Unbiased 1-SE),70.9 (range 52–90),Modelled,89.94,80.16–1458.64,18.0,1.11×–20.19×,3.08

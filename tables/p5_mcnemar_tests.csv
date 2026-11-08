@@ -1,0 +1,5 @@
+comparison,model_a,model_b,acc_a,acc_b,n_total,n11_both_correct,n10_a_correct_b_wrong,n01_a_wrong_b_correct,n00_both_wrong,n_discordant,p_value
+VGGish vs MOODWAAVE-Full,VGGish + Logistic Regression,MOODWAAVE-Full,0.7620689655172413,0.5689655172413793,290,145,76,20,49,96,7.319367989521492e-09
+VGGish vs MOODWAAVE-Lite,VGGish + Logistic Regression,MOODWAAVE-Lite,0.7620689655172413,0.5586206896551724,290,144,77,18,51,95,7.252322160518573e-10
+SmallMelCNN (Seed-Averaged Logits) vs MOODWAAVE-Lite,SmallMelCNN (Seed-Averaged),MOODWAAVE-Lite,0.5862068965517241,0.5586206896551724,290,128,42,34,86,76,0.42219110499231566
+SmallMelCNN (Seed-Averaged Logits) vs MOODWAAVE-Full,SmallMelCNN (Seed-Averaged),MOODWAAVE-Full,0.5862068965517241,0.5689655172413793,290,131,39,34,86,73,0.6399729317539425

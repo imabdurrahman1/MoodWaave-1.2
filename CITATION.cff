@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use the MOODWAAVE architecture, benchmark methodology, or pre-extracted features in your research, please cite it as below."
+title: "MOODWAAVE: Lightweight, High-Efficiency Music Genre and Emotion Analysis on Edge CPU Hardware"
+authors:
+  - family-names: "[Author Lastname]"
+    given-names: "[Author Firstname]"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+  - family-names: "[Author Lastname]"
+    given-names: "[Author Firstname]"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "[Author Lastname]"
+      given-names: "[Author Firstname]"
+    - family-names: "[Author Lastname]"
+      given-names: "[Author Firstname]"
+  title: "MOODWAAVE: Lightweight, High-Efficiency Music Genre and Emotion Analysis on Edge CPU Hardware"
+  journal: "[Journal / Conference Venue Placeholder, e.g., IEEE Transactions on Audio, Speech, and Language Processing / ISMIR]"
+  year: 2026
+  month: 11
+  doi: "10.5281/zenodo.placeholder"
+  url: "https://github.com/placeholder-org/MOODWAAVE"
+keywords:
+  - "music information retrieval"
+  - "audio feature extraction"
+  - "genre classification"
+  - "valence arousal emotion"
+  - "conformal prediction"
+  - "edge computing"
+  - "lightgbm"
+  - "librosa"
+  - "cross-platform benchmarking"
+version: 1.0.0
+date-released: "2026-11-03"
+license: "MIT"

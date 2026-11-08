@@ -1,0 +1,29 @@
+{
+  "dataset": "PMEmo",
+  "total_tracks": 767,
+  "unique_artists": 400,
+  "repeated_artists_count": 154,
+  "tracks_in_repeated_artists": 521,
+  "pct_tracks_in_repeated_artists": 67.93,
+  "unique_albums": 597,
+  "unique_titles": 757,
+  "top_10_artists": {
+    "Drake": 40,
+    "The Weeknd": 15,
+    "Kendrick Lamar": 15,
+    "J. Cole": 11,
+    "Future": 10,
+    "DJ Khaled": 8,
+    "Big Sean": 8,
+    "The Chainsmokers": 7,
+    "Various Artists": 7,
+    "Migos": 7
+  },
+  "random_cv_leakage_rate_pct": {
+    "mean": 62.35,
+    "std": 4.13,
+    "min": 54.9,
+    "max": 69.93
+  },
+  "grouped_cv_leakage_rate_pct": 0.0
+}

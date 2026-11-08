@@ -1,0 +1,9 @@
+dataset,pipeline,features,measured_e2e_mean_ms,measured_e2e_std_ms,latency_display,sum_of_components_ms,overhead_gap_ms,overhead_gap_pct,tonnetz_variant,tonnetz_cost_ms,tonnetz_share_pct,tonnetz_share_definition,speedup_vs_v0,speedup_vs_full_v1
+GTZAN,Original 113 (V0 Baseline),113,1755.94,64.38,1755.9 ± 64.4 ms,1747.87,-8.07,-0.46,V0 (HPSS+CQT),1396.23,79.51,standalone V0 cost / E2E,1.0,0.14
+GTZAN,Full-113 with Tonnetz V1,113,240.74,61.29,240.7 ± 61.3 ms,236.27,-4.47,-1.86,V1 (Shared Chroma),0.43,0.18,marginal V1 projection only (chroma in full),7.29,1.0
+GTZAN,MOODWAAVE-Lite (71 features),71,117.8,28.35,117.8 ± 28.4 ms,115.06,-2.75,-2.33,None (Excluded),0.0,0.0,not included,14.91,2.04
+GTZAN,MOODWAAVE-Lite + V1 (83 features),83,154.0,18.36,154.0 ± 18.4 ms,153.49,-0.52,-0.34,V1 (Chroma + Tonnetz),38.43,24.95,chroma marginal + V1 projection (both added to Lite),11.4,1.56
+PMEmo,Original 113 (V0 Baseline),113,1697.43,278.47,1697.4 ± 278.5 ms,1678.9,-18.53,-1.09,V0 (HPSS+CQT),1342.24,79.08,standalone V0 cost / E2E,1.0,0.13
+PMEmo,Full-113 with Tonnetz V1,113,228.36,36.77,228.4 ± 36.8 ms,224.2,-4.15,-1.82,V1 (Shared Chroma),0.43,0.19,marginal V1 projection only (chroma in full),7.43,1.0
+PMEmo,MOODWAAVE-Lite (71 features),71,112.49,20.71,112.5 ± 20.7 ms,108.51,-3.98,-3.54,None (Excluded),0.0,0.0,not included,15.09,2.03
+PMEmo,MOODWAAVE-Lite + V1 (83 features),83,148.96,28.99,149.0 ± 29.0 ms,145.19,-3.77,-2.53,V1 (Chroma + Tonnetz),36.67,24.62,chroma marginal + V1 projection (both added to Lite),11.4,1.53

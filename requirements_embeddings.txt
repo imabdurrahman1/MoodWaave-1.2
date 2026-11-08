@@ -1,0 +1,36 @@
+# MOODWAAVE Foundation Model Embedding Dependencies
+# Dedicated Environment: Python 3.11 or Python 3.12 (64-bit)
+# Required for pretrained foundation models: VGGish (PyTorch), PANNs CNN14 (panns-inference), MERT (transformers)
+
+# Deep Learning Framework (CPU-only)
+# On Windows, install CPU wheels if needed:
+# pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+torch>=2.1.0
+torchaudio>=2.1.0
+
+# Foundation Audio Models & Hugging Face Ecosystem
+transformers>=4.36.0
+huggingface-hub>=0.20.0
+safetensors>=0.4.0
+tokenizers>=0.15.0
+
+# PANNs (Pretrained Audio Neural Networks)
+panns-inference==0.1.1
+torchlibrosa==0.1.0
+
+# Numerical, Tabular & ML Probing Heads
+numpy>=1.24.0,<2.1.0
+scipy>=1.10.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+lightgbm>=4.0.0
+
+# Audio Loading & Resampling
+librosa>=0.10.1
+soundfile>=0.12.1
+
+# Progress & Utilities
+psutil>=5.9.0
+tqdm>=4.66.0
+requests>=2.31.0
+

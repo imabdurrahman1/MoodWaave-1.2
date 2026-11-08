@@ -1,0 +1,1767 @@
+dataset,track_id,artist,title,album,genre_or_label
+GTZAN,blues.00000.wav,John Lee Hooker,"One Bourbon, One Scotch And One Beer",GTZAN,blues
+GTZAN,blues.00001.wav,John Lee Hooker,I'm In The Mood For Love,GTZAN,blues
+GTZAN,blues.00002.wav,John Lee Hooker,Think Twice Before You Go,GTZAN,blues
+GTZAN,blues.00003.wav,John Lee Hooker,I'm Bad Like Jesse James,GTZAN,blues
+GTZAN,blues.00004.wav,John Lee Hooker,Walkin' the Boogie,GTZAN,blues
+GTZAN,blues.00005.wav,John Lee Hooker,Sugar Mama,GTZAN,blues
+GTZAN,blues.00006.wav,John Lee Hooker,Dreamin' Blues,GTZAN,blues
+GTZAN,blues.00007.wav,John Lee Hooker,Ground Hog Blues,GTZAN,blues
+GTZAN,blues.00008.wav,John Lee Hooker,Shake It Baby,GTZAN,blues
+GTZAN,blues.00009.wav,John Lee Hooker,It's My Own Fault,GTZAN,blues
+GTZAN,blues.00010.wav,John Lee Hooker,Lonely Boy Boogie,GTZAN,blues
+GTZAN,blues.00011.wav,John Lee Hooker,It Serves Me Right To Suffer,GTZAN,blues
+GTZAN,blues.00012.wav,Robert Johnson,Cross Road Blues,GTZAN,blues
+GTZAN,blues.00013.wav,Robert Johnson,Terraplane Blues,GTZAN,blues
+GTZAN,blues.00014.wav,Robert Johnson,Come On In My Kitchen,GTZAN,blues
+GTZAN,blues.00015.wav,Robert Johnson,Walking blues,GTZAN,blues
+GTZAN,blues.00016.wav,Robert Johnson,Last Fair Deal Gone Down,GTZAN,blues
+GTZAN,blues.00017.wav,Robert Johnson,32-20 Blues,GTZAN,blues
+GTZAN,blues.00018.wav,Robert Johnson,Kind Hearted Woman Blues,GTZAN,blues
+GTZAN,blues.00019.wav,Robert Johnson,If I Had Possession Over Judgement Day,GTZAN,blues
+GTZAN,blues.00020.wav,Robert Johnson,Preachin' Blues,GTZAN,blues
+GTZAN,blues.00021.wav,Robert Johnson,When You Got A Good Friend,GTZAN,blues
+GTZAN,blues.00022.wav,Robert Johnson,Ramblin' On My Mind,GTZAN,blues
+GTZAN,blues.00023.wav,Robert Johnson,Stones In My Passway,GTZAN,blues
+GTZAN,blues.00024.wav,Robert Johnson,Traveling Riverside Blues,GTZAN,blues
+GTZAN,blues.00025.wav,Robert Johnson,Milkcow's Calf Blues,GTZAN,blues
+GTZAN,blues.00026.wav,Robert Johnson,Me And The Devil Blues,GTZAN,blues
+GTZAN,blues.00027.wav,Robert Johnson,Hell Hound On My Trail,GTZAN,blues
+GTZAN,blues.00028.wav,Robert Johnson,Traveling Riverside Blues,GTZAN,blues
+GTZAN,blues.00029.wav,Kelly Joe Phelps,The House Carpenter,GTZAN,blues
+GTZAN,blues.00030.wav,Kelly Joe Phelps,River Rat Jimmy,GTZAN,blues
+GTZAN,blues.00031.wav,Kelly Joe Phelps,Hobo's Son,GTZAN,blues
+GTZAN,blues.00032.wav,Kelly Joe Phelps,Katy,GTZAN,blues
+GTZAN,blues.00033.wav,Kelly Joe Phelps,Wandering Away,GTZAN,blues
+GTZAN,blues.00034.wav,Kelly Joe Phelps,Dock Boggs Country Blues,GTZAN,blues
+GTZAN,blues.00035.wav,Kelly Joe Phelps,Capman Bootman,GTZAN,blues
+GTZAN,blues.00036.wav,Kelly Joe Phelps,Train Carried My Girl From Town,GTZAN,blues
+GTZAN,blues.00037.wav,Kelly Joe Phelps,Piece By Piece,GTZAN,blues
+GTZAN,blues.00038.wav,Kelly Joe Phelps,Many A Time,GTZAN,blues
+GTZAN,blues.00039.wav,Kelly Joe Phelps,Goodnight Irene,GTZAN,blues
+GTZAN,blues.00040.wav,Stevie Ray Vaughan,Love Struck Baby,GTZAN,blues
+GTZAN,blues.00041.wav,Stevie Ray Vaughan,Pride and Joy,GTZAN,blues
+GTZAN,blues.00042.wav,Stevie Ray Vaughan,Texas Flood,GTZAN,blues
+GTZAN,blues.00043.wav,Stevie Ray Vaughan,Tell Me,GTZAN,blues
+GTZAN,blues.00044.wav,Stevie Ray Vaughan,Testify,GTZAN,blues
+GTZAN,blues.00045.wav,Stevie Ray Vaughan,Rude Mood,GTZAN,blues
+GTZAN,blues.00046.wav,Stevie Ray Vaughan,Mary Had A Little Lamb,GTZAN,blues
+GTZAN,blues.00047.wav,Stevie Ray Vaughan,Dirty Pool,GTZAN,blues
+GTZAN,blues.00048.wav,Stevie Ray Vaughan,I'm Cryin',GTZAN,blues
+GTZAN,blues.00049.wav,Stevie Ray Vaughan,Lenny,GTZAN,blues
+GTZAN,blues.00050.wav,Magic Slim & The Teardrops,What's Wrong,GTZAN,blues
+GTZAN,blues.00051.wav,Magic Slim & The Teardrops,Snakebite,GTZAN,blues
+GTZAN,blues.00052.wav,Magic Slim & The Teardrops,Please Don't Dog Me,GTZAN,blues
+GTZAN,blues.00053.wav,Magic Slim & The Teardrops,Key To Your Door,GTZAN,blues
+GTZAN,blues.00054.wav,Magic Slim & The Teardrops,Shake It,GTZAN,blues
+GTZAN,blues.00055.wav,Magic Slim & The Teardrops,I Ain't Looking for No Love,GTZAN,blues
+GTZAN,blues.00056.wav,Magic Slim & The Teardrops,Country Boy,GTZAN,blues
+GTZAN,blues.00057.wav,Magic Slim & The Teardrops,Lump On Your Stump,GTZAN,blues
+GTZAN,blues.00058.wav,Magic Slim & The Teardrops,Lonesome Trouble,GTZAN,blues
+GTZAN,blues.00059.wav,Magic Slim & The Teardrops,The Man You Need,GTZAN,blues
+GTZAN,blues.00060.wav,Magic Slim & The Teardrops,Mind Your Own Business,GTZAN,blues
+GTZAN,blues.00061.wav,Clifton Chenier,Boppin' The Rock,GTZAN,blues
+GTZAN,blues.00062.wav,Clifton Chenier,The Things I Did for You,GTZAN,blues
+GTZAN,blues.00063.wav,Clifton Chenier,Yesterday (I Lost My Best Friend),GTZAN,blues
+GTZAN,blues.00064.wav,Clifton Chenier,Clifton's Squeeze-box Boogie,GTZAN,blues
+GTZAN,blues.00065.wav,Clifton Chenier,I'm On My Way (Back Home To You),GTZAN,blues
+GTZAN,blues.00066.wav,Clifton Chenier,Ay-Te Te Fee,GTZAN,blues
+GTZAN,blues.00067.wav,Clifton Chenier,All Night Long,GTZAN,blues
+GTZAN,blues.00068.wav,Clifton Chenier,Opelousas Hop,GTZAN,blues
+GTZAN,blues.00069.wav,Clifton Chenier,"I'm On My Way, Part 2",GTZAN,blues
+GTZAN,blues.00070.wav,Clifton Chenier,Think It Over,GTZAN,blues
+GTZAN,blues.00071.wav,Clifton Chenier,Zodico Stomp,GTZAN,blues
+GTZAN,blues.00072.wav,Clifton Chenier,The Cats Dreamin',GTZAN,blues
+GTZAN,blues.00073.wav,Buckwheat Zydeco,Turning Point,GTZAN,blues
+GTZAN,blues.00074.wav,Buckwheat Zydeco,Zydeco Boogaloo,GTZAN,blues
+GTZAN,blues.00075.wav,Buckwheat Zydeco,Ya Ya,GTZAN,blues
+GTZAN,blues.00076.wav,Buckwheat Zydeco,Buck's Nouvelle Jole Blon,GTZAN,blues
+GTZAN,blues.00077.wav,Buckwheat Zydeco,On A Night Like This,GTZAN,blues
+GTZAN,blues.00078.wav,Buckwheat Zydeco,Hot Tamale Baby,GTZAN,blues
+GTZAN,blues.00079.wav,Buckwheat Zydeco,Ma Tit Fille,GTZAN,blues
+GTZAN,blues.00080.wav,Buckwheat Zydeco,Hey Good Lookin',GTZAN,blues
+GTZAN,blues.00081.wav,Buckwheat Zydeco,Buck's Hot Rod,GTZAN,blues
+GTZAN,blues.00082.wav,Buckwheat Zydeco,Why Does Love Got to Be So Sad,GTZAN,blues
+GTZAN,blues.00083.wav,Buckwheat Zydeco,Drivin' Old Grey,GTZAN,blues
+GTZAN,blues.00084.wav,Buckwheat Zydeco,Zydeco Honky Tonk,GTZAN,blues
+GTZAN,blues.00085.wav,Hot Toddy,Crow Jane,GTZAN,blues
+GTZAN,blues.00086.wav,Hot Toddy,Cross Cut Saw,GTZAN,blues
+GTZAN,blues.00087.wav,Hot Toddy,Right From The Start,GTZAN,blues
+GTZAN,blues.00088.wav,Hot Toddy,She's My Girl,GTZAN,blues
+GTZAN,blues.00089.wav,Hot Toddy,I Wish You Would,GTZAN,blues
+GTZAN,blues.00090.wav,Hot Toddy,One More Night,GTZAN,blues
+GTZAN,blues.00091.wav,Hot Toddy,Rescue Me,GTZAN,blues
+GTZAN,blues.00092.wav,Hot Toddy,Neighbors Land,GTZAN,blues
+GTZAN,blues.00093.wav,Hot Toddy,Mermaids Flirt With Me,GTZAN,blues
+GTZAN,blues.00094.wav,Hot Toddy,My Babe,GTZAN,blues
+GTZAN,blues.00095.wav,Hot Toddy,Down By The Riverside,GTZAN,blues
+GTZAN,blues.00096.wav,Hot Toddy,Long Distance,GTZAN,blues
+GTZAN,blues.00097.wav,Hot Toddy,T-Bone Shuffle,GTZAN,blues
+GTZAN,blues.00098.wav,Albert Collins,Iceman,GTZAN,blues
+GTZAN,blues.00099.wav,Albert Collins,Lights Are On But Nobody's Home,GTZAN,blues
+GTZAN,classical.00000.wav,Johann Sebastian Bach,"Concert for oboe, BWV 1053, I. Allegro",GTZAN,classical
+GTZAN,classical.00001.wav,Johann Sebastian Bach,"Concert for oboe, BWV 1053, II. Sicilliano",GTZAN,classical
+GTZAN,classical.00002.wav,Johann Sebastian Bach,"Concert for oboe, BWV 1053, III. Allegro",GTZAN,classical
+GTZAN,classical.00003.wav,Johann Sebastian Bach,"Ich steh mit einem Fuss im Grabe, BWV 156 Sinfonia",GTZAN,classical
+GTZAN,classical.00004.wav,Johann Sebastian Bach,"Canonic Trio in F, BWV 1040",GTZAN,classical
+GTZAN,classical.00005.wav,Carl Philipp Emanuel Bach,"Oboe Concerto in E Flat Major, Wq 165, Allegro",GTZAN,classical
+GTZAN,classical.00006.wav,Carl Philipp Emanuel Bach,"Oboe Concerto in E Flat Major, Wq 165, Adagio Ma Non Troppo",GTZAN,classical
+GTZAN,classical.00007.wav,Carl Philipp Emanuel Bach,"Oboe Concerto in E Flat Major, Wq 165, Allegro Ma Non Troppo",GTZAN,classical
+GTZAN,classical.00008.wav,Carl Philipp Emanuel Bach,"Oboe Concerto in B Flat Major, Wq 164, Allegretto",GTZAN,classical
+GTZAN,classical.00009.wav,Carl Philipp Emanuel Bach,"Oboe Concerto in B Flat Major, Wq 164, Largo E Mesto",GTZAN,classical
+GTZAN,classical.00010.wav,Carl Philipp Emanuel Bach,"Oboe Concerto in B Flat Major, Wq 164, Allegro Moderato",GTZAN,classical
+GTZAN,classical.00011.wav,Wofgang Amadeus Mozart,"Symphony No.36 in C, K.425, ""Linz"", Adagio, Allegro spiritoso",GTZAN,classical
+GTZAN,classical.00012.wav,Wofgang Amadeus Mozart,"Symphony No.36 in C, K.425, ""Linz"", Andante",GTZAN,classical
+GTZAN,classical.00013.wav,Wofgang Amadeus Mozart,"Symphony No.36 in C, K.425, ""Linz"", Menuetto",GTZAN,classical
+GTZAN,classical.00014.wav,Wofgang Amadeus Mozart,"Symphony No.36 in C, K.425, ""Linz"", Finale (Presto)",GTZAN,classical
+GTZAN,classical.00015.wav,Wofgang Amadeus Mozart,"Symphony No.38 in D, K.504, ""Prague"", Adagio, Allegro",GTZAN,classical
+GTZAN,classical.00016.wav,Wofgang Amadeus Mozart,"Symphony No.38 in D, K.504, ""Prague"", Andante",GTZAN,classical
+GTZAN,classical.00017.wav,Wofgang Amadeus Mozart,"Symphony No.38 in D, K.504, ""Prague"", Finale (Presto)",GTZAN,classical
+GTZAN,classical.00018.wav,Wofgang Amadeus Mozart,"Symphony No.39 in E flat, K.543, Adagio, Allegro",GTZAN,classical
+GTZAN,classical.00019.wav,Wofgang Amadeus Mozart,"Symphony No.39 in E flat, K.543, Andante con moto",GTZAN,classical
+GTZAN,classical.00020.wav,Wofgang Amadeus Mozart,"Symphony No.39 in E flat, K.543, Menuetto (Allegretto)",GTZAN,classical
+GTZAN,classical.00021.wav,Wofgang Amadeus Mozart,"Symphony No.39 in E flat, K.543, Finale (Allegro)",GTZAN,classical
+GTZAN,classical.00022.wav,Wofgang Amadeus Mozart,"Symphony No.40 in G minor, K.550, Molto allegro",GTZAN,classical
+GTZAN,classical.00023.wav,Wofgang Amadeus Mozart,"Symphony No.40 in G minor, K.550, Andante",GTZAN,classical
+GTZAN,classical.00024.wav,Wofgang Amadeus Mozart,"Symphony No.40 in G minor, K.550, Menuetto (Allegretto)",GTZAN,classical
+GTZAN,classical.00025.wav,Wofgang Amadeus Mozart,"Symphony No.40 in G minor, K.550, Finale (Allegro assai)",GTZAN,classical
+GTZAN,classical.00026.wav,Wofgang Amadeus Mozart,"Symphony No.41 in C, K.551, ""Jupiter"", Allegro vivace",GTZAN,classical
+GTZAN,classical.00027.wav,Wofgang Amadeus Mozart,"Symphony No.41 in C, K.551, ""Jupiter"", Andante cantabile",GTZAN,classical
+GTZAN,classical.00028.wav,Wofgang Amadeus Mozart,"Symphony No.41 in C, K.551, ""Jupiter"", Menuetto (Allegretto)",GTZAN,classical
+GTZAN,classical.00029.wav,Wofgang Amadeus Mozart,"Symphony No.41 in C, K.551, ""Jupiter"", Molto allegro",GTZAN,classical
+GTZAN,classical.00030.wav,Claude Debussy,"Quartet in G minor for Strings, Op. 10, Anime et tres decide",GTZAN,classical
+GTZAN,classical.00031.wav,Claude Debussy,"Quartet in G minor for Strings, Op. 10, Assez vif et bien rythme",GTZAN,classical
+GTZAN,classical.00032.wav,Claude Debussy,"Quartet in G minor for Strings, Op. 10, Andantino, doucement expressif",GTZAN,classical
+GTZAN,classical.00033.wav,Claude Debussy,"Quartet in G minor for Strings, Op. 10, Tres modere, Tres mouvemente et avec passion, Tres anime, Tres vii",GTZAN,classical
+GTZAN,classical.00034.wav,Maurice Ravel,"Quartet in F Major for Strings, Allegro moderato. Tres doux",GTZAN,classical
+GTZAN,classical.00035.wav,Maurice Ravel,"Quartet in F Major for Strings, Assez vif - Tres rythme",GTZAN,classical
+GTZAN,classical.00036.wav,Maurice Ravel,"Quartet in F Major for Strings, Tres lent",GTZAN,classical
+GTZAN,classical.00037.wav,Maurice Ravel,"Quartet in F Major for Strings, Vif et agite",GTZAN,classical
+GTZAN,classical.00038.wav,Henri Dutilleux,Ainsi la nuit for String Quartet: I. Nocturne,GTZAN,classical
+GTZAN,classical.00039.wav,Henri Dutilleux,Ainsi la nuit for String Quartet: II. Miroir d'espace,GTZAN,classical
+GTZAN,classical.00040.wav,Henri Dutilleux,Ainsi la nuit for String Quartet: IV. Litanies 2,GTZAN,classical
+GTZAN,classical.00041.wav,Henri Dutilleux,Ainsi la nuit for String Quartet: VII. Temps suspendu,GTZAN,classical
+GTZAN,classical.00042.wav,Giovanni Gabrieli,Canzon XIII,GTZAN,classical
+GTZAN,classical.00043.wav,Richard Strauss,"Konzert Fur Waldhorn Mit Orchester, Op. 11, Allegro",GTZAN,classical
+GTZAN,classical.00044.wav,George Gershwin,Rhapsody in Blue (v1),GTZAN,classical
+GTZAN,classical.00045.wav,Richard Strauss,Fuge Fur Klavier,GTZAN,classical
+GTZAN,classical.00046.wav,Karol Szymanowski,"Violin Concerto No. 1, Op. 35",GTZAN,classical
+GTZAN,classical.00047.wav,Leonard Bernstein,"On the Town, Three Dance Episodes, Lonely town",GTZAN,classical
+GTZAN,classical.00048.wav,George Gershwin,Rhapsody in Blue (v2),GTZAN,classical
+GTZAN,classical.00049.wav,Ludwig van Beethoven,"Symphony No.1 in C, Op.21, Finale (Adagio - Allegro molto e vivace)",GTZAN,classical
+GTZAN,classical.00050.wav,Samuel Barber,Adagio for Strings,GTZAN,classical
+GTZAN,classical.00051.wav,Pyotr Ilyich Tchaikovsky,"Symphony 6, mvt. 1",GTZAN,classical
+GTZAN,classical.00052.wav,Leonard Bernstein,Candide Overture,GTZAN,classical
+GTZAN,classical.00053.wav,Giovanni Gabrieli,Canzon XIII,GTZAN,classical
+GTZAN,classical.00054.wav,Giuseppe Verdi,"Rigoletto, Act 2, Tutte le feste al tiempo",GTZAN,classical
+GTZAN,classical.00055.wav,Leonard Bernstein,"Symphonic dances from West Side Story, Somewhere",GTZAN,classical
+GTZAN,classical.00056.wav,Giovanni Rovetta,Solemn Mass for Feast of Santa Maria della Salute,GTZAN,classical
+GTZAN,classical.00057.wav,Leonard Bernstein,"Symphonic dances from West Side Story, Scherzo",GTZAN,classical
+GTZAN,classical.00058.wav,Erik Satie,Gymnopedies no. 3,GTZAN,classical
+GTZAN,classical.00059.wav,Erik Satie,"Mercure, Marche-Ouverture",GTZAN,classical
+GTZAN,classical.00060.wav,Erik Satie,La Belle Excentrique,GTZAN,classical
+GTZAN,classical.00061.wav,Unknown_classical.00061,,GTZAN,classical
+GTZAN,classical.00062.wav,Unknown_classical.00062,,GTZAN,classical
+GTZAN,classical.00063.wav,Franz Schubert,"Piano Sonata No.21 in B flat, D.960, Molto moderato",GTZAN,classical
+GTZAN,classical.00064.wav,Franz Schubert,"Piano Sonata No.21 in B flat, D.960, Andante sostenuto",GTZAN,classical
+GTZAN,classical.00065.wav,Franz Schubert,"Piano Sonata No.21 in B flat, D.960, Scherzo",GTZAN,classical
+GTZAN,classical.00066.wav,Franz Schubert,"Piano Sonata No.21 in B flat, D.960, Allegro ma non troppo",GTZAN,classical
+GTZAN,classical.00067.wav,Franz Schubert,"Fantasy In C Major, ""Wanderer"", Allegro Con Fuoco Ma Non Troppo",GTZAN,classical
+GTZAN,classical.00068.wav,Franz Joseph Haydn,"Symphony No. 26 in D minor, ""Lamentatione"", Allegro assai con spirito",GTZAN,classical
+GTZAN,classical.00069.wav,Franz Joseph Haydn,"Symphony No. 26 in D minor, ""Lamentatione"", Adagio",GTZAN,classical
+GTZAN,classical.00070.wav,Franz Joseph Haydn,"Symphony No. 26 in D minor, ""Lamentatione"", Minuet and Trio",GTZAN,classical
+GTZAN,classical.00071.wav,Franz Joseph Haydn,"Symphony No. 35 in B flat major, Allegro di molto",GTZAN,classical
+GTZAN,classical.00072.wav,Franz Joseph Haydn,"Symphony No. 35 in B flat major, Andante",GTZAN,classical
+GTZAN,classical.00073.wav,Franz Joseph Haydn,"Symphony No. 35 in B flat major, Minuet and Trio",GTZAN,classical
+GTZAN,classical.00074.wav,Franz Joseph Haydn,"Symphony No. 35 in B flat major, Presto",GTZAN,classical
+GTZAN,classical.00075.wav,Franz Joseph Haydn,"Symphony No. 49 in F minor, Adagio",GTZAN,classical
+GTZAN,classical.00076.wav,Franz Joseph Haydn,"Symphony No. 49 in F minor, Allegro di molto",GTZAN,classical
+GTZAN,classical.00077.wav,Ludwig van Beethoven,"Piano Sonata No.8, ""Pathetique"", Grave",GTZAN,classical
+GTZAN,classical.00078.wav,Ludwig van Beethoven,"Piano Sonata No.8, ""Pathetique"", Adagio cantabile",GTZAN,classical
+GTZAN,classical.00079.wav,Ludwig van Beethoven,"Piano Sonata No.8, ""Pathetique"", Rondo, allegro",GTZAN,classical
+GTZAN,classical.00080.wav,Pyotr Ilyich Tchaikovsky,"Symphony 6, mvt. 1",GTZAN,classical
+GTZAN,classical.00081.wav,Pyotr Ilyich Tchaikovsky,"Symphony 6, mvt. 2",GTZAN,classical
+GTZAN,classical.00082.wav,Percy Grainger,Hill-Song No. 2,GTZAN,classical
+GTZAN,classical.00083.wav,Percy Grainger,Ye Banks and Braes o'Bonnie Doon,GTZAN,classical
+GTZAN,classical.00084.wav,Percy Grainger,Let's Dance Gay in Green Meadow,GTZAN,classical
+GTZAN,classical.00085.wav,Percy Grainger,Lads of Wamphray March,GTZAN,classical
+GTZAN,classical.00086.wav,Percy Grainger,Shepherd's Hey,GTZAN,classical
+GTZAN,classical.00087.wav,Percy Grainger,The Merry King,GTZAN,classical
+GTZAN,classical.00088.wav,Percy Grainger,Molly on the Shore,GTZAN,classical
+GTZAN,classical.00089.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Spring: Allegro I.",GTZAN,classical
+GTZAN,classical.00090.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Spring: Largo e pianissimo sempre II.",GTZAN,classical
+GTZAN,classical.00091.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Spring: Allegro III.",GTZAN,classical
+GTZAN,classical.00092.wav,Antonio Vivaldi,"Piccolo Concerto in A Minor, RV 445: Larghetto",GTZAN,classical
+GTZAN,classical.00093.wav,Antonio Vivaldi,,GTZAN,classical
+GTZAN,classical.00094.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Summer: Allegro non molto; Allegro I.",GTZAN,classical
+GTZAN,classical.00095.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Summer: Adaio; Presto II.",GTZAN,classical
+GTZAN,classical.00096.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Summer: Presto - Tempo impetuoso d'estate III.",GTZAN,classical
+GTZAN,classical.00097.wav,Antonio Vivaldi,"Violin Concerto in A minor Op. 3 No. 6, first movement",GTZAN,classical
+GTZAN,classical.00098.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Autumn: Allegro I.",GTZAN,classical
+GTZAN,classical.00099.wav,Antonio Vivaldi,"The Four Seasons, Op. 8: Autumn: Adagio molto II.",GTZAN,classical
+GTZAN,country.00000.wav,Faith Hill,Just To Hear You Say That You Love Me,GTZAN,country
+GTZAN,country.00001.wav,Patty Loveless,That's the Kind of Mood I'm In,GTZAN,country
+GTZAN,country.00002.wav,Unknown_country.00002,I Wish I Had A Nickel,GTZAN,country
+GTZAN,country.00003.wav,Garth Brooks,If tomorrow never comes,GTZAN,country
+GTZAN,country.00004.wav,Suzy Bogguss,Outbound Plane,GTZAN,country
+GTZAN,country.00005.wav,Shania Twain,You Win My Love,GTZAN,country
+GTZAN,country.00006.wav,John Anderson,Straight Tequila Night,GTZAN,country
+GTZAN,country.00007.wav,Travis Tritt,Best Of Intentions,GTZAN,country
+GTZAN,country.00008.wav,Vince Gill,Never Knew Lonely,GTZAN,country
+GTZAN,country.00009.wav,The Clark Family Experience,"Meanwhile, back at the ranch",GTZAN,country
+GTZAN,country.00010.wav,Don Gibson,I Can't Stop Loving You,GTZAN,country
+GTZAN,country.00011.wav,Patsy Cline,"A Church, a Courtroom, and Then Goodbye",GTZAN,country
+GTZAN,country.00012.wav,Billy Joe Shaver,Music City,GTZAN,country
+GTZAN,country.00013.wav,Loretta Lynn,Let Your Love Flow,GTZAN,country
+GTZAN,country.00014.wav,Nina Martinique,Silver Threads And Golden Needles,GTZAN,country
+GTZAN,country.00015.wav,George Jones,White Lightening,GTZAN,country
+GTZAN,country.00016.wav,Johnny Cash,I Walk The Line,GTZAN,country
+GTZAN,country.00017.wav,Floyd Cramer,San Antonio Rose,GTZAN,country
+GTZAN,country.00018.wav,Billie Jo Spears,I'm Gonna Be A Country Girl Again,GTZAN,country
+GTZAN,country.00019.wav,Willie Nelson,Shelter Of My Arms,GTZAN,country
+GTZAN,country.00020.wav,Ray Peterson,Tell Laura I Love Her,GTZAN,country
+GTZAN,country.00021.wav,Burt Bacharach,Raindrops Keep Falling on my Head,GTZAN,country
+GTZAN,country.00022.wav,Karl Denver,Love Me With All Your Heart,GTZAN,country
+GTZAN,country.00023.wav,Kenny Rogers,Today I Started Loving You Again,GTZAN,country
+GTZAN,country.00024.wav,Hank Williams,Your Cheatin' Heart,GTZAN,country
+GTZAN,country.00025.wav,Emmylou Harris,Love Hurts,GTZAN,country
+GTZAN,country.00026.wav,Willie Nelson,Home Is Where You're Happy,GTZAN,country
+GTZAN,country.00027.wav,Billy Joe Shaver,Chicken On The Ground,GTZAN,country
+GTZAN,country.00028.wav,Jerry Lee Lewis,Would You Take Another Chance On Me,GTZAN,country
+GTZAN,country.00029.wav,Johnny Rodriguez,Ridin' My Thumb To Mexico,GTZAN,country
+GTZAN,country.00030.wav,Unknown_country.00030,,GTZAN,country
+GTZAN,country.00031.wav,Jo El Sonnier,Come On Joe,GTZAN,country
+GTZAN,country.00032.wav,Sonny Throckmorton,The Last Cheaters Waltz,GTZAN,country
+GTZAN,country.00033.wav,The Kendalls,Teach me to cheat,GTZAN,country
+GTZAN,country.00034.wav,Merle Haggard,Sally let your bangs hang down,GTZAN,country
+GTZAN,country.00035.wav,The Statler Brothers,Oh Baby Mine (I Get So Lonely),GTZAN,country
+GTZAN,country.00036.wav,Johnny Paycheck,Old Violin,GTZAN,country
+GTZAN,country.00037.wav,Larry Boone,Don't give candy to a stranger,GTZAN,country
+GTZAN,country.00038.wav,Los Lobos,Our Last Night,GTZAN,country
+GTZAN,country.00039.wav,Wayne Toups & Zydecajun,Johnnie Can't Dance,GTZAN,country
+GTZAN,country.00040.wav,Kentucky Headhunters,Dumas Walker,GTZAN,country
+GTZAN,country.00041.wav,Johnny Cash,Goin' By The Book,GTZAN,country
+GTZAN,country.00042.wav,Normaltown Flyers,Rockin' The Love Boat,GTZAN,country
+GTZAN,country.00043.wav,Sammy Kershaw,Cadillac Style,GTZAN,country
+GTZAN,country.00044.wav,Wesley Dennis,It Ain't Fair,GTZAN,country
+GTZAN,country.00045.wav,Shania Twain,Any Man Of Mine,GTZAN,country
+GTZAN,country.00046.wav,Jimmie Skinner,I Found My Girl In The USA,GTZAN,country
+GTZAN,country.00047.wav,Connie Hall,I'm the Girl in the USA,GTZAN,country
+GTZAN,country.00048.wav,Johnny Preston,Running Bear,GTZAN,country
+GTZAN,country.00049.wav,George Jones,Out Of Control,GTZAN,country
+GTZAN,country.00050.wav,Vince Gill,Never Alone,GTZAN,country
+GTZAN,country.00051.wav,Vince Gill,Never Knew Lonely,GTZAN,country
+GTZAN,country.00052.wav,Vince Gill,When I Call Your Name,GTZAN,country
+GTZAN,country.00053.wav,Vince Gill,Liza Jane,GTZAN,country
+GTZAN,country.00054.wav,Vince Gill,Look At Us,GTZAN,country
+GTZAN,country.00055.wav,Vince Gill,Take Your Memory With You,GTZAN,country
+GTZAN,country.00056.wav,Vince Gill,Pocket Full Of Gold,GTZAN,country
+GTZAN,country.00057.wav,Vince Gill,The Heart Won't Lie,GTZAN,country
+GTZAN,country.00058.wav,Vince Gill,Don't Let Our Love Start Slippin' Away,GTZAN,country
+GTZAN,country.00059.wav,Vince Gill,I Still Believe In You,GTZAN,country
+GTZAN,country.00060.wav,Vince Gill,No Future In The Past,GTZAN,country
+GTZAN,country.00061.wav,Vince Gill,Tryin' To Get Over You,GTZAN,country
+GTZAN,country.00062.wav,Vince Gill,One More Last Chance,GTZAN,country
+GTZAN,country.00063.wav,Vince Gill,I Can't Tell You Why,GTZAN,country
+GTZAN,country.00064.wav,Vince Gill,I Will Always Love You,GTZAN,country
+GTZAN,country.00065.wav,Willie Nelson,Blue Eyes Crying In The Rain,GTZAN,country
+GTZAN,country.00066.wav,Willie Nelson,If You've Got The Money I've Got The Time,GTZAN,country
+GTZAN,country.00067.wav,Willie Nelson,Georgia On My Mind,GTZAN,country
+GTZAN,country.00068.wav,Willie Nelson,Blue Skies,GTZAN,country
+GTZAN,country.00069.wav,Willie Nelson,My Heroes Have Always Been Cowboys,GTZAN,country
+GTZAN,country.00070.wav,Willie Nelson,On the road again,GTZAN,country
+GTZAN,country.00071.wav,Willie Nelson,Always On My Mind,GTZAN,country
+GTZAN,country.00072.wav,Willie Nelson,City Of New Orleans,GTZAN,country
+GTZAN,country.00073.wav,Willie Nelson,Forgiving You Was Easy,GTZAN,country
+GTZAN,country.00074.wav,Willie Nelson,Living In The Promiseland,GTZAN,country
+GTZAN,country.00075.wav,Willie Nelson,Midnight Rider,GTZAN,country
+GTZAN,country.00076.wav,Willie Nelson,Remember Me (When The Candle Lights Are Gleaming),GTZAN,country
+GTZAN,country.00077.wav,Willie Nelson,Uncloudy Day,GTZAN,country
+GTZAN,country.00078.wav,Willie Nelson,Angel Flying Too Close To The Ground,GTZAN,country
+GTZAN,country.00079.wav,Willie Nelson,The Last Thing I Needed First Thing This Morning,GTZAN,country
+GTZAN,country.00080.wav,Willie Nelson,Nothing I Can Do About It Now,GTZAN,country
+GTZAN,country.00081.wav,Brad Paisley,Long Sermon,GTZAN,country
+GTZAN,country.00082.wav,Brad Paisley,Me Neither,GTZAN,country
+GTZAN,country.00083.wav,Brad Paisley,Who Needs Pictures,GTZAN,country
+GTZAN,country.00084.wav,Brad Paisley,Don't Breathe,GTZAN,country
+GTZAN,country.00085.wav,Brad Paisley,He Didn't Have To Be,GTZAN,country
+GTZAN,country.00086.wav,Brad Paisley,It Never Woulda Worked Out Anyway,GTZAN,country
+GTZAN,country.00087.wav,Brad Paisley,Holdin' On To You,GTZAN,country
+GTZAN,country.00088.wav,Brad Paisley,I've Been Better,GTZAN,country
+GTZAN,country.00089.wav,Brad Paisley,We Danced,GTZAN,country
+GTZAN,country.00090.wav,Brad Paisley,Sleepin' On The Foldout,GTZAN,country
+GTZAN,country.00091.wav,Brad Paisley,Cloud Of Dust,GTZAN,country
+GTZAN,country.00092.wav,Brad Paisley,The Nervous Breakdown,GTZAN,country
+GTZAN,country.00093.wav,Brad Paisley,In the Garden,GTZAN,country
+GTZAN,country.00094.wav,George Strait,I Just Want To Dance With You,GTZAN,country
+GTZAN,country.00095.wav,George Strait,One Step At A Time,GTZAN,country
+GTZAN,country.00096.wav,George Strait,True,GTZAN,country
+GTZAN,country.00097.wav,George Strait,Remember The Alamo,GTZAN,country
+GTZAN,country.00098.wav,George Strait,Maria,GTZAN,country
+GTZAN,country.00099.wav,George Strait,We Really Shouldn't Be Doing This,GTZAN,country
+GTZAN,disco.00000.wav,Boz Scaggs,Lowdown,GTZAN,disco
+GTZAN,disco.00001.wav,Gloria Gaynor,I Will Survive,GTZAN,disco
+GTZAN,disco.00002.wav,Archie Bell and The Drells,Look Back Over Your Shoulder,GTZAN,disco
+GTZAN,disco.00003.wav,Don Armando,Deputy of Love,GTZAN,disco
+GTZAN,disco.00004.wav,Carl Douglas,Run Back,GTZAN,disco
+GTZAN,disco.00005.wav,Odyssey,Native New Yorker,GTZAN,disco
+GTZAN,disco.00006.wav,Alec R. Costandinos,Romeo And Juliet,GTZAN,disco
+GTZAN,disco.00007.wav,Miquel Brown,"So Many Men, So Little Time",GTZAN,disco
+GTZAN,disco.00008.wav,Ashford & Simpson,Found A Cure,GTZAN,disco
+GTZAN,disco.00009.wav,Osibisa,Get Up,GTZAN,disco
+GTZAN,disco.00010.wav,Cheryl Lynn,Encore,GTZAN,disco
+GTZAN,disco.00011.wav,Billy Ocean,Can You Feel It,GTZAN,disco
+GTZAN,disco.00012.wav,Carl Carlton,She's A Bad Mama Jama,GTZAN,disco
+GTZAN,disco.00013.wav,Donna Summer,Back Off Boogaloo,GTZAN,disco
+GTZAN,disco.00014.wav,Bee Gees,Staying Alive,GTZAN,disco
+GTZAN,disco.00015.wav,Heatwave,Boogie Nights,GTZAN,disco
+GTZAN,disco.00016.wav,"Earth, Wind & Fire",Sing a Song,GTZAN,disco
+GTZAN,disco.00017.wav,Ottawan,You're Ok,GTZAN,disco
+GTZAN,disco.00018.wav,Sabrina,S.E.X.,GTZAN,disco
+GTZAN,disco.00019.wav,New York City,I'm Doing Fine Now,GTZAN,disco
+GTZAN,disco.00020.wav,Clarence Carter,Patches,GTZAN,disco
+GTZAN,disco.00021.wav,Gloria Gaynor,Never Can Say Goodbye,GTZAN,disco
+GTZAN,disco.00022.wav,The Gibson Brothers,Ooh! What A Life,GTZAN,disco
+GTZAN,disco.00023.wav,Latoya Jackson,Playboy (Be Me),GTZAN,disco
+GTZAN,disco.00024.wav,Ottawan,"Help, Get Me Some Help",GTZAN,disco
+GTZAN,disco.00025.wav,Evelyn Thomas,High Energy,GTZAN,disco
+GTZAN,disco.00026.wav,Latoya Jackson,(Baby) Do The Salsa,GTZAN,disco
+GTZAN,disco.00027.wav,The Sugarhill Gang,Rapper's Delight,GTZAN,disco
+GTZAN,disco.00028.wav,The Gibson Brothers,Better Do It Salsa,GTZAN,disco
+GTZAN,disco.00029.wav,Evelyn Thomas,Heartless,GTZAN,disco
+GTZAN,disco.00030.wav,The Gibson Brothers,Latin America,GTZAN,disco
+GTZAN,disco.00031.wav,The Three Degrees,My Simple Heart,GTZAN,disco
+GTZAN,disco.00032.wav,David Christie,Saddle Up,GTZAN,disco
+GTZAN,disco.00033.wav,The Tymes,You Little Trustmaker,GTZAN,disco
+GTZAN,disco.00034.wav,Evelyn Thomas,Reflections,GTZAN,disco
+GTZAN,disco.00035.wav,The Gibson Brothers,Cuba,GTZAN,disco
+GTZAN,disco.00036.wav,Brenda Reid,Reaching For The Best,GTZAN,disco
+GTZAN,disco.00037.wav,The Gibson Brothers,Que Sera Mi Vida,GTZAN,disco
+GTZAN,disco.00038.wav,Gloria Gaynor,I Am What I Am,GTZAN,disco
+GTZAN,disco.00039.wav,George McCrae,I Can't Leave You Alone,GTZAN,disco
+GTZAN,disco.00040.wav,David Christie,Stress,GTZAN,disco
+GTZAN,disco.00041.wav,Heatwave,Always and Forever,GTZAN,disco
+GTZAN,disco.00042.wav,Disco-Tex and the Sex-O-Lettes,I Wanna Dance Wit' Choo,GTZAN,disco
+GTZAN,disco.00043.wav,Harold Melvin & the Blue Notes,Satisfaction Guaranteed,GTZAN,disco
+GTZAN,disco.00044.wav,Ottawan,Hands Up (Give Me Your Heart),GTZAN,disco
+GTZAN,disco.00045.wav,Ottawan,D.i.s.c.o.,GTZAN,disco
+GTZAN,disco.00046.wav,Donna Summer,Hot Stuff,GTZAN,disco
+GTZAN,disco.00047.wav,Barbra Streisand; Donna Summer,No More Tears (Enough Is Enough),GTZAN,disco
+GTZAN,disco.00048.wav,Carl Douglas,Kung Fu Fighting,GTZAN,disco
+GTZAN,disco.00049.wav,KC and the Sunshine Band,Boogie Shoes,GTZAN,disco
+GTZAN,disco.00050.wav,KC and the Sunshine Band,That's The Way (I Like It),GTZAN,disco
+GTZAN,disco.00051.wav,KC and the Sunshine Band,That's The Way (I Like It),GTZAN,disco
+GTZAN,disco.00052.wav,Village People,In the Navy,GTZAN,disco
+GTZAN,disco.00053.wav,Amii Stewart,Knock On Wood,GTZAN,disco
+GTZAN,disco.00054.wav,Chic,I Want Your Love,GTZAN,disco
+GTZAN,disco.00055.wav,The Trammps,Disco Inferno,GTZAN,disco
+GTZAN,disco.00056.wav,"Earth, Wind & Fire",Fantasy,GTZAN,disco
+GTZAN,disco.00057.wav,Boney M.,Auld Lang Syne,GTZAN,disco
+GTZAN,disco.00058.wav,"Earth, Wind & Fire",Boogie Wonderland,GTZAN,disco
+GTZAN,disco.00059.wav,"Earth, Wind & Fire",Let's Groove Tonight,GTZAN,disco
+GTZAN,disco.00060.wav,The Trammps,Disco Inferno,GTZAN,disco
+GTZAN,disco.00061.wav,Anita Ward,Ring My Bell,GTZAN,disco
+GTZAN,disco.00062.wav,Peter Brown,Dance With Me,GTZAN,disco
+GTZAN,disco.00063.wav,Boney M.,She's Crazy Like a Fool,GTZAN,disco
+GTZAN,disco.00064.wav,"Lipps, Inc.",Funkytown,GTZAN,disco
+GTZAN,disco.00065.wav,Evelyn 'Champagne' King,Shame,GTZAN,disco
+GTZAN,disco.00066.wav,Peaches & Herb,Shake Your Groove Thing,GTZAN,disco
+GTZAN,disco.00067.wav,ABBA,Dancing Queen,GTZAN,disco
+GTZAN,disco.00068.wav,ABBA,Take A Chance On Me,GTZAN,disco
+GTZAN,disco.00069.wav,KC and the Sunshine Band,"Shake, Shake, Shake",GTZAN,disco
+GTZAN,disco.00070.wav,KC and the Sunshine Band,That's The Way (I Like It),GTZAN,disco
+GTZAN,disco.00071.wav,KC and the Sunshine Band,Get Down Tonight,GTZAN,disco
+GTZAN,disco.00072.wav,ABBA,Mamma Mia,GTZAN,disco
+GTZAN,disco.00073.wav,KC and the Sunshine Band,I'm Your Boogie Man,GTZAN,disco
+GTZAN,disco.00074.wav,KC and the Sunshine Band,Get Down Tonight,GTZAN,disco
+GTZAN,disco.00075.wav,Village People,Macho Man,GTZAN,disco
+GTZAN,disco.00076.wav,Love & Kisses,Thank God It's Friday,GTZAN,disco
+GTZAN,disco.00077.wav,Tavares,Heaven must be missing an angel,GTZAN,disco
+GTZAN,disco.00078.wav,Gloria Gaynor,I Am What I Am,GTZAN,disco
+GTZAN,disco.00079.wav,Peter Brown,Love Is Just The Game,GTZAN,disco
+GTZAN,disco.00080.wav,Dazzle You,Dazzle,GTZAN,disco
+GTZAN,disco.00081.wav,Serge Ponsar,Out In The Night [Extended Version],GTZAN,disco
+GTZAN,disco.00082.wav,GQ,Disco Nights (Rock-Freak),GTZAN,disco
+GTZAN,disco.00083.wav,Rick Dees,Disco Duck,GTZAN,disco
+GTZAN,disco.00084.wav,Unknown_disco.00084,,GTZAN,disco
+GTZAN,disco.00085.wav,Tom Tom Club,Wordy Rappinghood,GTZAN,disco
+GTZAN,disco.00086.wav,Alicia Bridges,I love the night life,GTZAN,disco
+GTZAN,disco.00087.wav,The Supremes,He's My Man,GTZAN,disco
+GTZAN,disco.00088.wav,Meco,Star Wars Theme,GTZAN,disco
+GTZAN,disco.00089.wav,The Trammps,Disco Inferno,GTZAN,disco
+GTZAN,disco.00090.wav,Village People,Fire Island,GTZAN,disco
+GTZAN,disco.00091.wav,Silver Convention,Fly Robin Fly,GTZAN,disco
+GTZAN,disco.00092.wav,Blondie,Heart Of Glass,GTZAN,disco
+GTZAN,disco.00093.wav,Van McCoy,The Hustle,GTZAN,disco
+GTZAN,disco.00094.wav,Bronski Beat,WHY?,GTZAN,disco
+GTZAN,disco.00095.wav,Donna Summer,Bad Girls,GTZAN,disco
+GTZAN,disco.00096.wav,Shirley & Company,"Shame, Shame, Shame",GTZAN,disco
+GTZAN,disco.00097.wav,Patrick Cowley; Sylvester,Do You Wanna Funk?,GTZAN,disco
+GTZAN,disco.00098.wav,Boney M.,Rasputin,GTZAN,disco
+GTZAN,disco.00099.wav,Boney M.,Rasputin,GTZAN,disco
+GTZAN,hiphop.00000.wav,Afrika Bambaataa,Looking for the Perfect Beat,GTZAN,hiphop
+GTZAN,hiphop.00001.wav,Wu-Tang Clan,Triumph,GTZAN,hiphop
+GTZAN,hiphop.00002.wav,De La Soul,Buddy,GTZAN,hiphop
+GTZAN,hiphop.00003.wav,Ice Cube,Friday,GTZAN,hiphop
+GTZAN,hiphop.00004.wav,De La Soul,It Ain't All Good,GTZAN,hiphop
+GTZAN,hiphop.00005.wav,Ice Cube,We Be Clubbin' (DMX Jungle remix),GTZAN,hiphop
+GTZAN,hiphop.00006.wav,Ice Cube,You Can Do It,GTZAN,hiphop
+GTZAN,hiphop.00007.wav,Wu-Tang Clan,Gravel Pit,GTZAN,hiphop
+GTZAN,hiphop.00008.wav,Beastie Boys,Slow And Low,GTZAN,hiphop
+GTZAN,hiphop.00009.wav,Beastie Boys,Shake Your Rump,GTZAN,hiphop
+GTZAN,hiphop.00010.wav,Beastie Boys,Skills To Pay The Bills,GTZAN,hiphop
+GTZAN,hiphop.00011.wav,Beastie Boys,Root Down,GTZAN,hiphop
+GTZAN,hiphop.00012.wav,Beastie Boys,Sure Shot,GTZAN,hiphop
+GTZAN,hiphop.00013.wav,Beastie Boys,Body Movin' (Fatboy Slim Remix),GTZAN,hiphop
+GTZAN,hiphop.00014.wav,Beastie Boys,Fight For Your Right,GTZAN,hiphop
+GTZAN,hiphop.00015.wav,Beastie Boys,Bodhisattva Vow,GTZAN,hiphop
+GTZAN,hiphop.00016.wav,Beastie Boys,Alive,GTZAN,hiphop
+GTZAN,hiphop.00017.wav,Beastie Boys,Jimmy James,GTZAN,hiphop
+GTZAN,hiphop.00018.wav,Beastie Boys,Three MC's and One DJ,GTZAN,hiphop
+GTZAN,hiphop.00019.wav,Beastie Boys,Shadrach,GTZAN,hiphop
+GTZAN,hiphop.00020.wav,Beastie Boys,Brass Monkey,GTZAN,hiphop
+GTZAN,hiphop.00021.wav,Beastie Boys,The Negotiation Limerick File,GTZAN,hiphop
+GTZAN,hiphop.00022.wav,Beastie Boys,Get It Together,GTZAN,hiphop
+GTZAN,hiphop.00023.wav,Beastie Boys,Remote Control,GTZAN,hiphop
+GTZAN,hiphop.00024.wav,Beastie Boys,Hey Ladies,GTZAN,hiphop
+GTZAN,hiphop.00025.wav,Beastie Boys,Intergalactic,GTZAN,hiphop
+GTZAN,hiphop.00026.wav,3LW,No More (Baby I'ma Do Right),GTZAN,hiphop
+GTZAN,hiphop.00027.wav,The Ambassador,One-Two,GTZAN,hiphop
+GTZAN,hiphop.00028.wav,Dirt,Divine Lines,GTZAN,hiphop
+GTZAN,hiphop.00029.wav,Aaliyah,Try Again,GTZAN,hiphop
+GTZAN,hiphop.00030.wav,Ram Jam World,Bluesy Baby (Ed Rush & Optical Remix),GTZAN,hiphop
+GTZAN,hiphop.00031.wav,Pink,Can't Take Me Home,GTZAN,hiphop
+GTZAN,hiphop.00032.wav,De La Soul; Jungle Brothers; Q-Tip; Queen Latifah; Monie Love,Buddy (Native Tongue Decision),GTZAN,hiphop
+GTZAN,hiphop.00033.wav,Dr Dre,The Next Episode,GTZAN,hiphop
+GTZAN,hiphop.00034.wav,Nice & Smooth,Hip Hop Junkies,GTZAN,hiphop
+GTZAN,hiphop.00035.wav,Allen Iverson,40 Bars,GTZAN,hiphop
+GTZAN,hiphop.00036.wav,Beastie Boys,Brass Monkey,GTZAN,hiphop
+GTZAN,hiphop.00037.wav,Lil Bow Wow,Bounce With Me,GTZAN,hiphop
+GTZAN,hiphop.00038.wav,2Pac,California Love,GTZAN,hiphop
+GTZAN,hiphop.00039.wav,Lauryn Hill,"Every Ghetto, Every City",GTZAN,hiphop
+GTZAN,hiphop.00040.wav,Lauryn Hill,Ex-Factor,GTZAN,hiphop
+GTZAN,hiphop.00041.wav,Wu-Tang Clan,Dog Shit,GTZAN,hiphop
+GTZAN,hiphop.00042.wav,Wu-Tang Clan,Triumph,GTZAN,hiphop
+GTZAN,hiphop.00043.wav,Wyclef Jean,Anything Can Happen,GTZAN,hiphop
+GTZAN,hiphop.00044.wav,Wyclef Jean,Guantanamera,GTZAN,hiphop
+GTZAN,hiphop.00045.wav,Lauryn Hill,"Every Ghetto, Every City",GTZAN,hiphop
+GTZAN,hiphop.00046.wav,A Tribe Called Quest,Check The Rhime,GTZAN,hiphop
+GTZAN,hiphop.00047.wav,A Tribe Called Quest,Award Tour,GTZAN,hiphop
+GTZAN,hiphop.00048.wav,A Tribe Called Quest,Can I Kick It?,GTZAN,hiphop
+GTZAN,hiphop.00049.wav,A Tribe Called Quest,Scenario,GTZAN,hiphop
+GTZAN,hiphop.00050.wav,A Tribe Called Quest,Electric Relaxation,GTZAN,hiphop
+GTZAN,hiphop.00051.wav,A Tribe Called Quest,Luck Of Lucien,GTZAN,hiphop
+GTZAN,hiphop.00052.wav,Young MC,After School,GTZAN,hiphop
+GTZAN,hiphop.00053.wav,Young MC,The Right One,GTZAN,hiphop
+GTZAN,hiphop.00054.wav,Young MC,The Um Dee Dum Song,GTZAN,hiphop
+GTZAN,hiphop.00055.wav,Cypress Hill,I want to get high,GTZAN,hiphop
+GTZAN,hiphop.00056.wav,Cypress Hill,I Ain't Goin' Out Like That,GTZAN,hiphop
+GTZAN,hiphop.00057.wav,Cypress Hill,Lick A Shot,GTZAN,hiphop
+GTZAN,hiphop.00058.wav,Cypress Hill,Lil' Putos,GTZAN,hiphop
+GTZAN,hiphop.00059.wav,Cypress Hill,Hits From The Bong,GTZAN,hiphop
+GTZAN,hiphop.00060.wav,Cypress Hill,"What Go Around Come Around, Kid",GTZAN,hiphop
+GTZAN,hiphop.00061.wav,Cypress Hill,A to the K,GTZAN,hiphop
+GTZAN,hiphop.00062.wav,A Tribe Called Quest,Keeping It Moving,GTZAN,hiphop
+GTZAN,hiphop.00063.wav,A Tribe Called Quest,Find A Way,GTZAN,hiphop
+GTZAN,hiphop.00064.wav,A Tribe Called Quest,Sucka Nigga,GTZAN,hiphop
+GTZAN,hiphop.00065.wav,A Tribe Called Quest,Check The Rhime,GTZAN,hiphop
+GTZAN,hiphop.00066.wav,A Tribe Called Quest,Bonita Applebum,GTZAN,hiphop
+GTZAN,hiphop.00067.wav,A Tribe Called Quest,Award Tour,GTZAN,hiphop
+GTZAN,hiphop.00068.wav,A Tribe Called Quest,Can I Kick It?,GTZAN,hiphop
+GTZAN,hiphop.00069.wav,A Tribe Called Quest,Scenario,GTZAN,hiphop
+GTZAN,hiphop.00070.wav,A Tribe Called Quest,Buggin' Out,GTZAN,hiphop
+GTZAN,hiphop.00071.wav,A Tribe Called Quest,If The Papes Come,GTZAN,hiphop
+GTZAN,hiphop.00072.wav,A Tribe Called Quest,Electric Relaxation,GTZAN,hiphop
+GTZAN,hiphop.00073.wav,A Tribe Called Quest,Jazz (We've Got),GTZAN,hiphop
+GTZAN,hiphop.00074.wav,A Tribe Called Quest,I Left My Wallet In El Segundo,GTZAN,hiphop
+GTZAN,hiphop.00075.wav,A Tribe Called Quest,Stressed Out,GTZAN,hiphop
+GTZAN,hiphop.00076.wav,50 Cent,Thug Love,GTZAN,hiphop
+GTZAN,hiphop.00077.wav,Busta Rhymes,What's It Gonna Be?,GTZAN,hiphop
+GTZAN,hiphop.00078.wav,50 Cent,Thug Love,GTZAN,hiphop
+GTZAN,hiphop.00079.wav,Eminem,The Real Slim Shady,GTZAN,hiphop
+GTZAN,hiphop.00080.wav,Eminem,Marshall Mathers,GTZAN,hiphop
+GTZAN,hiphop.00081.wav,Public Enemy,Contract on the World Love Jam,GTZAN,hiphop
+GTZAN,hiphop.00082.wav,Public Enemy,Brothers Gonna Work It Out,GTZAN,hiphop
+GTZAN,hiphop.00083.wav,Public Enemy,911 Is A Joke,GTZAN,hiphop
+GTZAN,hiphop.00084.wav,Public Enemy,Incident At 66.6 FM,GTZAN,hiphop
+GTZAN,hiphop.00085.wav,Public Enemy,Welcome To The Terrordome,GTZAN,hiphop
+GTZAN,hiphop.00086.wav,Public Enemy,Pollywanacraka,GTZAN,hiphop
+GTZAN,hiphop.00087.wav,Public Enemy,Anti-Nigger Machine,GTZAN,hiphop
+GTZAN,hiphop.00088.wav,Public Enemy,Burn Hollywood Burn,GTZAN,hiphop
+GTZAN,hiphop.00089.wav,Public Enemy,Power To The People,GTZAN,hiphop
+GTZAN,hiphop.00090.wav,Public Enemy,Who Stole the Soul,GTZAN,hiphop
+GTZAN,hiphop.00091.wav,Public Enemy,Fear of a Black Planet,GTZAN,hiphop
+GTZAN,hiphop.00092.wav,Public Enemy,Revolutionary Generation,GTZAN,hiphop
+GTZAN,hiphop.00093.wav,Public Enemy,"Can't Do Nuttin' For Ya, Man!",GTZAN,hiphop
+GTZAN,hiphop.00094.wav,Public Enemy,Reggie Jax,GTZAN,hiphop
+GTZAN,hiphop.00095.wav,Public Enemy,Leave This off Your Fu*kin Charts,GTZAN,hiphop
+GTZAN,hiphop.00096.wav,Public Enemy,B Side Wins Again,GTZAN,hiphop
+GTZAN,hiphop.00097.wav,Public Enemy,War At 33 1/3,GTZAN,hiphop
+GTZAN,hiphop.00098.wav,Public Enemy,Fight the Power,GTZAN,hiphop
+GTZAN,hiphop.00099.wav,RUN-DMC,Let's Stay Together (Together Forever),GTZAN,hiphop
+GTZAN,jazz.00000.wav,Leonard Bernstein,"On the Town: Three Dance Episodes, The great lover",GTZAN,jazz
+GTZAN,jazz.00001.wav,Leonard Bernstein,"Symphonic dances from West Side Story, Prologue",GTZAN,jazz
+GTZAN,jazz.00002.wav,James Carter,'Round Midnight,GTZAN,jazz
+GTZAN,jazz.00003.wav,James Carter,You Never Told Me That You Care,GTZAN,jazz
+GTZAN,jazz.00004.wav,James Carter,The Intimacy Of My Woman's Beautiful Eyes,GTZAN,jazz
+GTZAN,jazz.00005.wav,James Carter,1944 Stomp,GTZAN,jazz
+GTZAN,jazz.00006.wav,James Carter,The Stevedore's Serenade,GTZAN,jazz
+GTZAN,jazz.00007.wav,James Carter,Born To Be Blue,GTZAN,jazz
+GTZAN,jazz.00008.wav,James Carter,Deep Throat Blues,GTZAN,jazz
+GTZAN,jazz.00009.wav,James Carter,A Ballad For A Doll,GTZAN,jazz
+GTZAN,jazz.00010.wav,James Carter,Eventide,GTZAN,jazz
+GTZAN,jazz.00011.wav,Joe Lovano,Lonnie's Lament,GTZAN,jazz
+GTZAN,jazz.00012.wav,Joe Lovano,Reflections,GTZAN,jazz
+GTZAN,jazz.00013.wav,Joe Lovano,Little Willie Leaps,GTZAN,jazz
+GTZAN,jazz.00014.wav,Joe Lovano,This Is All I Ask,GTZAN,jazz
+GTZAN,jazz.00015.wav,Joe Lovano,26-2,GTZAN,jazz
+GTZAN,jazz.00016.wav,Joe Lovano,Duke Ellington's Sound Of Love,GTZAN,jazz
+GTZAN,jazz.00017.wav,Joe Lovano,Sounds Of Joy,GTZAN,jazz
+GTZAN,jazz.00018.wav,Joe Lovano,Fort Worth,GTZAN,jazz
+GTZAN,jazz.00019.wav,Joe Lovano,Birds Of Springtimes Gone By,GTZAN,jazz
+GTZAN,jazz.00020.wav,Joe Lovano,I Can't Get Started,GTZAN,jazz
+GTZAN,jazz.00021.wav,Joe Lovano,Uprising,GTZAN,jazz
+GTZAN,jazz.00022.wav,Joe Lovano,Sail Away,GTZAN,jazz
+GTZAN,jazz.00023.wav,Joe Lovano,Blues Not to Lose,GTZAN,jazz
+GTZAN,jazz.00024.wav,Joe Lovano,Song And Dance,GTZAN,jazz
+GTZAN,jazz.00025.wav,Branford Marsalis Trio,Roused About,GTZAN,jazz
+GTZAN,jazz.00026.wav,Branford Marsalis Trio,The Beautyful Ones Are Not Yet Born,GTZAN,jazz
+GTZAN,jazz.00027.wav,Branford Marsalis Trio,Xavier's Lair,GTZAN,jazz
+GTZAN,jazz.00028.wav,Branford Marsalis Trio,Cain & Abel,GTZAN,jazz
+GTZAN,jazz.00029.wav,Branford Marsalis Trio,Citizen Tain,GTZAN,jazz
+GTZAN,jazz.00030.wav,Branford Marsalis Trio,Gilligan's Isle,GTZAN,jazz
+GTZAN,jazz.00031.wav,Branford Marsalis Trio,Dewey Baby,GTZAN,jazz
+GTZAN,jazz.00032.wav,Branford Marsalis Trio,Beat's Remark,GTZAN,jazz
+GTZAN,jazz.00033.wav,Coleman Hawkins,Body and Soul,GTZAN,jazz
+GTZAN,jazz.00034.wav,Coleman Hawkins,Dinah,GTZAN,jazz
+GTZAN,jazz.00035.wav,Coleman Hawkins,April in Paris,GTZAN,jazz
+GTZAN,jazz.00036.wav,Coleman Hawkins,Sugar Foot Stomp,GTZAN,jazz
+GTZAN,jazz.00037.wav,Coleman Hawkins,I've Got the World On a String,GTZAN,jazz
+GTZAN,jazz.00038.wav,Coleman Hawkins,Under Paris Skies,GTZAN,jazz
+GTZAN,jazz.00039.wav,Coleman Hawkins,When Lights Are Low,GTZAN,jazz
+GTZAN,jazz.00040.wav,Coleman Hawkins,She's Funny That Way,GTZAN,jazz
+GTZAN,jazz.00041.wav,Coleman Hawkins,My Blue Heaven,GTZAN,jazz
+GTZAN,jazz.00042.wav,Coleman Hawkins,Say It Isn't So,GTZAN,jazz
+GTZAN,jazz.00043.wav,Coleman Hawkins,I Love Paris,GTZAN,jazz
+GTZAN,jazz.00044.wav,Coleman Hawkins,Sweet Lorraine,GTZAN,jazz
+GTZAN,jazz.00045.wav,Coleman Hawkins,How Strange,GTZAN,jazz
+GTZAN,jazz.00046.wav,Coleman Hawkins,Spotlite,GTZAN,jazz
+GTZAN,jazz.00047.wav,Unknown_jazz.00047,,GTZAN,jazz
+GTZAN,jazz.00048.wav,Unknown_jazz.00048,,GTZAN,jazz
+GTZAN,jazz.00049.wav,Sarah Vaughan,April in Paris,GTZAN,jazz
+GTZAN,jazz.00050.wav,Unknown_jazz.00050,,GTZAN,jazz
+GTZAN,jazz.00051.wav,Coleman Hawkins,Body and Soul,GTZAN,jazz
+GTZAN,jazz.00052.wav,Terell Stafford,Dear Rudy,GTZAN,jazz
+GTZAN,jazz.00053.wav,Coleman Hawkins,Dinah,GTZAN,jazz
+GTZAN,jazz.00055.wav,Coleman Hawkins,April in Paris,GTZAN,jazz
+GTZAN,jazz.00056.wav,Unknown_jazz.00056,,GTZAN,jazz
+GTZAN,jazz.00057.wav,Coleman Hawkins,There Will Never Be Another You,GTZAN,jazz
+GTZAN,jazz.00058.wav,Coleman Hawkins,Sugar Foot Stomp,GTZAN,jazz
+GTZAN,jazz.00059.wav,Charles Lloyd,Georgia,GTZAN,jazz
+GTZAN,jazz.00060.wav,Coleman Hawkins,I've Got the World On a String,GTZAN,jazz
+GTZAN,jazz.00061.wav,Unknown_jazz.00061,,GTZAN,jazz
+GTZAN,jazz.00062.wav,Coleman Hawkins,Under Paris Skies,GTZAN,jazz
+GTZAN,jazz.00063.wav,Sun Ra Arekstra,I'll Never Be the Same,GTZAN,jazz
+GTZAN,jazz.00064.wav,Unknown_jazz.00064,,GTZAN,jazz
+GTZAN,jazz.00065.wav,Coleman Hawkins,When Lights Are Low,GTZAN,jazz
+GTZAN,jazz.00066.wav,Unknown_jazz.00066,,GTZAN,jazz
+GTZAN,jazz.00067.wav,Coleman Hawkins,She's Funny That Way,GTZAN,jazz
+GTZAN,jazz.00068.wav,Coleman Hawkins,Say It Isn't So,GTZAN,jazz
+GTZAN,jazz.00069.wav,Coleman Hawkins,I Love Paris,GTZAN,jazz
+GTZAN,jazz.00070.wav,Coleman Hawkins,Sweet Lorraine,GTZAN,jazz
+GTZAN,jazz.00071.wav,Coleman Hawkins,How Strange,GTZAN,jazz
+GTZAN,jazz.00072.wav,Coleman Hawkins,Spotlite,GTZAN,jazz
+GTZAN,jazz.00073.wav,Dexter Gordon,Scrapple From The Apple,GTZAN,jazz
+GTZAN,jazz.00074.wav,Dexter Gordon,Willow Weep For Me,GTZAN,jazz
+GTZAN,jazz.00075.wav,Dexter Gordon,Broadway,GTZAN,jazz
+GTZAN,jazz.00076.wav,Dexter Gordon,Stairway To The Stars,GTZAN,jazz
+GTZAN,jazz.00077.wav,Dexter Gordon,A Night In Tunisia,GTZAN,jazz
+GTZAN,jazz.00078.wav,Dexter Gordon,Our Love Is Here to Stay,GTZAN,jazz
+GTZAN,jazz.00079.wav,Tony Williams,Sister Cheryl,GTZAN,jazz
+GTZAN,jazz.00080.wav,Tony Williams,Life of the Party,GTZAN,jazz
+GTZAN,jazz.00081.wav,Tony Williams,Geo Rose,GTZAN,jazz
+GTZAN,jazz.00082.wav,Tony Williams,The Slump,GTZAN,jazz
+GTZAN,jazz.00083.wav,Tony Williams,Red Mask,GTZAN,jazz
+GTZAN,jazz.00084.wav,Tony Williams,Juicy Fruit,GTZAN,jazz
+GTZAN,jazz.00085.wav,Tony Williams,Crystal Palace,GTZAN,jazz
+GTZAN,jazz.00086.wav,Tony Williams,Blackbird,GTZAN,jazz
+GTZAN,jazz.00087.wav,Miles Davis,So What,GTZAN,jazz
+GTZAN,jazz.00088.wav,Miles Davis,Freddie Freeloader,GTZAN,jazz
+GTZAN,jazz.00089.wav,Miles Davis,Blue in Green,GTZAN,jazz
+GTZAN,jazz.00090.wav,Miles Davis,All Blues,GTZAN,jazz
+GTZAN,jazz.00091.wav,Miles Davis,Flamenco Sketches,GTZAN,jazz
+GTZAN,jazz.00092.wav,Miles Davis,Flamenco Sketches (alternate),GTZAN,jazz
+GTZAN,jazz.00093.wav,Unknown_jazz.00093,,GTZAN,jazz
+GTZAN,jazz.00094.wav,Joe Henderson,Miles Ahead,GTZAN,jazz
+GTZAN,jazz.00095.wav,Joe Henderson,Joshua,GTZAN,jazz
+GTZAN,jazz.00096.wav,Joe Henderson,Pfrancing (No Blues),GTZAN,jazz
+GTZAN,jazz.00097.wav,Joe Henderson,Flamenco Sketches,GTZAN,jazz
+GTZAN,jazz.00098.wav,Joe Henderson,Milestones,GTZAN,jazz
+GTZAN,jazz.00099.wav,Joe Henderson,Teo,GTZAN,jazz
+GTZAN,metal.00000.wav,Falconer,Mindtraveller,GTZAN,metal
+GTZAN,metal.00001.wav,Gamma Ray,Beyond The Black Hole,GTZAN,metal
+GTZAN,metal.00002.wav,Iron Maiden,Flight of Icarus,GTZAN,metal
+GTZAN,metal.00003.wav,Anthrax,Metal Thrashing Mad,GTZAN,metal
+GTZAN,metal.00004.wav,Dark Tranquillity,Of Chaos And Eternal Night,GTZAN,metal
+GTZAN,metal.00005.wav,Iron Maiden,Wasted Years,GTZAN,metal
+GTZAN,metal.00006.wav,Blind Guardian,Theatre of Pain,GTZAN,metal
+GTZAN,metal.00007.wav,Coroner,Die By My Hand,GTZAN,metal
+GTZAN,metal.00008.wav,Accept,Balls to the Wall,GTZAN,metal
+GTZAN,metal.00009.wav,Tvangeste,Angel's Retreat,GTZAN,metal
+GTZAN,metal.00010.wav,Dark Tranquillity,My Faeryland Forgotten,GTZAN,metal
+GTZAN,metal.00011.wav,Unknown_metal.00011,,GTZAN,metal
+GTZAN,metal.00012.wav,Dark Tranquillity,"Away, Delight, Away",GTZAN,metal
+GTZAN,metal.00013.wav,Dark Tranquillity,Of Chaos And Eternal Night,GTZAN,metal
+GTZAN,metal.00014.wav,Dark Tranquillity,With The Flaming Shades Of Fall,GTZAN,metal
+GTZAN,metal.00015.wav,Dark Tranquillity,Nightfall By The Shore Of Time,GTZAN,metal
+GTZAN,metal.00016.wav,Slayer,Disciple,GTZAN,metal
+GTZAN,metal.00017.wav,Slayer,Angel of death,GTZAN,metal
+GTZAN,metal.00018.wav,Slayer,Darkness of Christ,GTZAN,metal
+GTZAN,metal.00019.wav,Slayer,Piece by Piece,GTZAN,metal
+GTZAN,metal.00020.wav,Slayer,Necrophobic,GTZAN,metal
+GTZAN,metal.00021.wav,Creed,I'm Eighteen,GTZAN,metal
+GTZAN,metal.00022.wav,Ozzy Osbourne,Crazy Train,GTZAN,metal
+GTZAN,metal.00023.wav,Unknown_metal.00023,,GTZAN,metal
+GTZAN,metal.00024.wav,Jacobs Dream,Kinescope,GTZAN,metal
+GTZAN,metal.00025.wav,Megadeth,Peace Sells,GTZAN,metal
+GTZAN,metal.00026.wav,Anthrax,Across the River,GTZAN,metal
+GTZAN,metal.00027.wav,Anthrax,Got the Time,GTZAN,metal
+GTZAN,metal.00028.wav,Motorhead,Ace Of Spades,GTZAN,metal
+GTZAN,metal.00029.wav,Living Colour,Glamour Boys,GTZAN,metal
+GTZAN,metal.00030.wav,Megadeth,Trust,GTZAN,metal
+GTZAN,metal.00031.wav,Motorhead,Born To Raise Hell,GTZAN,metal
+GTZAN,metal.00032.wav,Scorpions,Blackout,GTZAN,metal
+GTZAN,metal.00033.wav,Metallica,Enter Sandman,GTZAN,metal
+GTZAN,metal.00034.wav,Iron Maiden,The Trooper,GTZAN,metal
+GTZAN,metal.00035.wav,Slayer,Bloodline,GTZAN,metal
+GTZAN,metal.00036.wav,Slayer,In-a-gadda-da-vida,GTZAN,metal
+GTZAN,metal.00037.wav,Saxon,And the Bands Played On,GTZAN,metal
+GTZAN,metal.00038.wav,Metallica,...And Justice For All,GTZAN,metal
+GTZAN,metal.00039.wav,Metallica,Star Wars Imperial March,GTZAN,metal
+GTZAN,metal.00040.wav,Dio,Stand Up And Shout,GTZAN,metal
+GTZAN,metal.00041.wav,Dio,Gypsy,GTZAN,metal
+GTZAN,metal.00042.wav,Dio,Caught In The Middle,GTZAN,metal
+GTZAN,metal.00043.wav,Dio,Straight Through The Heart,GTZAN,metal
+GTZAN,metal.00044.wav,Dio,Rainbow In The Dark,GTZAN,metal
+GTZAN,metal.00045.wav,Dio,Shame On The Night,GTZAN,metal
+GTZAN,metal.00046.wav,New Bomb Turks,Hammerless Nail,GTZAN,metal
+GTZAN,metal.00047.wav,New Bomb Turks,Bachelor's High,GTZAN,metal
+GTZAN,metal.00048.wav,New Bomb Turks,Professional Againster,GTZAN,metal
+GTZAN,metal.00049.wav,New Bomb Turks,Cultural Elite Sign-Up Sheet,GTZAN,metal
+GTZAN,metal.00050.wav,New Bomb Turks,Jukebox Lean,GTZAN,metal
+GTZAN,metal.00051.wav,New Bomb Turks,Jeers Of A Clown,GTZAN,metal
+GTZAN,metal.00052.wav,New Bomb Turks,Look Alive Jive,GTZAN,metal
+GTZAN,metal.00053.wav,New Bomb Turks,Staring Down The Gift Horse,GTZAN,metal
+GTZAN,metal.00054.wav,New Bomb Turks,Shoot The Offshoot,GTZAN,metal
+GTZAN,metal.00055.wav,New Bomb Turks,Drop What You're Doin',GTZAN,metal
+GTZAN,metal.00056.wav,New Bomb Turks,Telephone Numbrrr,GTZAN,metal
+GTZAN,metal.00057.wav,New Bomb Turks,Wrest Your Hands,GTZAN,metal
+GTZAN,metal.00058.wav,Queen,Tie Your Mother Down,GTZAN,metal
+GTZAN,metal.00059.wav,Queen,Tear it up,GTZAN,metal
+GTZAN,metal.00060.wav,Queen,We Will Rock You,GTZAN,metal
+GTZAN,metal.00061.wav,Dio,Stand Up And Shout,GTZAN,metal
+GTZAN,metal.00062.wav,Dio,Gypsy,GTZAN,metal
+GTZAN,metal.00063.wav,Dio,Caught In The Middle,GTZAN,metal
+GTZAN,metal.00064.wav,Dio,Straight Through The Heart,GTZAN,metal
+GTZAN,metal.00065.wav,Dio,Rainbow In The Dark,GTZAN,metal
+GTZAN,metal.00066.wav,Dio,Shame On The Night,GTZAN,metal
+GTZAN,metal.00067.wav,AC/DC,Big Gun,GTZAN,metal
+GTZAN,metal.00068.wav,Judas Priest,Breaking the Law,GTZAN,metal
+GTZAN,metal.00069.wav,Black Sabbath,Paranoid,GTZAN,metal
+GTZAN,metal.00070.wav,AC/DC,Highway To Hell,GTZAN,metal
+GTZAN,metal.00071.wav,Def Leppard,Pour Some Sugar On Me,GTZAN,metal
+GTZAN,metal.00072.wav,Deep Purple,Smoke On The Water,GTZAN,metal
+GTZAN,metal.00073.wav,Metallica,The Memory Remains,GTZAN,metal
+GTZAN,metal.00074.wav,Johnny Crass,Internet Sandman,GTZAN,metal
+GTZAN,metal.00075.wav,Metallica,Until It Sleeps,GTZAN,metal
+GTZAN,metal.00076.wav,Metallica,Seek and Destroy,GTZAN,metal
+GTZAN,metal.00077.wav,Judas Priest,Hell Patrol,GTZAN,metal
+GTZAN,metal.00078.wav,Metallica,Prince Charming,GTZAN,metal
+GTZAN,metal.00079.wav,Def Leppard,Photograph,GTZAN,metal
+GTZAN,metal.00080.wav,Def Leppard,Rocket,GTZAN,metal
+GTZAN,metal.00081.wav,Guns N' Roses,Live and Let Die,GTZAN,metal
+GTZAN,metal.00082.wav,Guns N' Roses,Welcome To The Jungle,GTZAN,metal
+GTZAN,metal.00083.wav,Metallica,For Whom The Bell Tolls,GTZAN,metal
+GTZAN,metal.00084.wav,Black Sabbath,Shock the Monkey,GTZAN,metal
+GTZAN,metal.00085.wav,Ozzy Osbourne; Dweezil Zappa,Staying Alive,GTZAN,metal
+GTZAN,metal.00086.wav,Bon Jovi,You Give Love A Bad Name,GTZAN,metal
+GTZAN,metal.00087.wav,Metallica,So What,GTZAN,metal
+GTZAN,metal.00088.wav,Danzig,Twist of Cain,GTZAN,metal
+GTZAN,metal.00089.wav,Danzig,Apokalips,GTZAN,metal
+GTZAN,metal.00090.wav,Black Sabbath,Symptom Of The Universe,GTZAN,metal
+GTZAN,metal.00091.wav,Black Sabbath,Sabbath Bloody Sabbath,GTZAN,metal
+GTZAN,metal.00092.wav,Iron Maiden,Run to the Hills,GTZAN,metal
+GTZAN,metal.00093.wav,Iron Maiden,Phantom Of The Opera,GTZAN,metal
+GTZAN,metal.00094.wav,Iron Maiden,The Trooper,GTZAN,metal
+GTZAN,metal.00095.wav,Rage Against the Machine,Bombtrack,GTZAN,metal
+GTZAN,metal.00096.wav,Rage Against the Machine,Killing In The Name,GTZAN,metal
+GTZAN,metal.00097.wav,Rage Against the Machine,Wake Up,GTZAN,metal
+GTZAN,metal.00098.wav,Rage Against the Machine,Fistful Of Steel,GTZAN,metal
+GTZAN,metal.00099.wav,Rage Against the Machine,Freedom,GTZAN,metal
+GTZAN,pop.00000.wav,Mandy Moore,Saturate Me,GTZAN,pop
+GTZAN,pop.00001.wav,Spice Girls,Wasting My Time,GTZAN,pop
+GTZAN,pop.00002.wav,Mariah Carey,My All,GTZAN,pop
+GTZAN,pop.00003.wav,Alanis Morissette,Hand in my pocket,GTZAN,pop
+GTZAN,pop.00004.wav,Alanis Morissette,Head Over Feet,GTZAN,pop
+GTZAN,pop.00005.wav,Alanis Morissette,Ironic,GTZAN,pop
+GTZAN,pop.00006.wav,Alanis Morissette,Thank U,GTZAN,pop
+GTZAN,pop.00007.wav,Alanis Morissette,Uninvited,GTZAN,pop
+GTZAN,pop.00008.wav,Alanis Morissette,You Learn,GTZAN,pop
+GTZAN,pop.00009.wav,Alanis Morissette,You Oughta Know,GTZAN,pop
+GTZAN,pop.00010.wav,The Police,Every Breath You Take (Sting Unplugged),GTZAN,pop
+GTZAN,pop.00011.wav,Celine Dion,The Prayer,GTZAN,pop
+GTZAN,pop.00012.wav,Aretha Franklin; Celine Dion; Mariah Carey; Shania Twain; Gloria Estefan,You Make Me Feel Like A Natural Woman,GTZAN,pop
+GTZAN,pop.00013.wav,Babyface,Every Time I Close My Eyes,GTZAN,pop
+GTZAN,pop.00014.wav,Unknown_pop.00014,Every Breath You Take,GTZAN,pop
+GTZAN,pop.00015.wav,Britney Spears,(You Drive Me) Crazy,GTZAN,pop
+GTZAN,pop.00016.wav,Britney Spears,(I Can't Get No) Satisfaction,GTZAN,pop
+GTZAN,pop.00017.wav,Britney Spears,(I Can't Get No) Satisfaction (Live at the 2000 MTV VMAs),GTZAN,pop
+GTZAN,pop.00018.wav,Britney Spears,Autumn Goodbye,GTZAN,pop
+GTZAN,pop.00019.wav,Britney Spears,Baby One More Time,GTZAN,pop
+GTZAN,pop.00020.wav,Britney Spears,Can't Make You Love Me,GTZAN,pop
+GTZAN,pop.00021.wav,Britney Spears,(You Drive Me) Crazy,GTZAN,pop
+GTZAN,pop.00022.wav,Britney Spears,(You Drive Me) Crazy,GTZAN,pop
+GTZAN,pop.00023.wav,Britney Spears,I'm So Curious,GTZAN,pop
+GTZAN,pop.00024.wav,Britney Spears,Deep in my heart,GTZAN,pop
+GTZAN,pop.00025.wav,Britney Spears,From The Bottom Of My Broken Heart,GTZAN,pop
+GTZAN,pop.00026.wav,Britney Spears,I'll Never Stop Loving You,GTZAN,pop
+GTZAN,pop.00027.wav,Britney Spears,Born To Make You Happy,GTZAN,pop
+GTZAN,pop.00028.wav,Britney Spears,I Will Be There,GTZAN,pop
+GTZAN,pop.00029.wav,Britney Spears,I Will Still Love You,GTZAN,pop
+GTZAN,pop.00030.wav,Britney Spears,Lucky,GTZAN,pop
+GTZAN,pop.00031.wav,Britney Spears,Lucky,GTZAN,pop
+GTZAN,pop.00032.wav,Britney Spears,Oops I did it again,GTZAN,pop
+GTZAN,pop.00033.wav,Britney Spears,Pepsi Now and Then,GTZAN,pop
+GTZAN,pop.00034.wav,Britney Spears,Sometimes,GTZAN,pop
+GTZAN,pop.00035.wav,Britney Spears,Stronger,GTZAN,pop
+GTZAN,pop.00036.wav,Britney Spears,Thinkin' About You,GTZAN,pop
+GTZAN,pop.00037.wav,Britney Spears,(You Drive Me) Crazy (Radio Rip),GTZAN,pop
+GTZAN,pop.00038.wav,Britney Spears,What U See (is what you get),GTZAN,pop
+GTZAN,pop.00039.wav,Celine Dion,Dreamin' Of You,GTZAN,pop
+GTZAN,pop.00040.wav,Celine Dion,I want you to need me,GTZAN,pop
+GTZAN,pop.00041.wav,Peabo Bryson; Regina Belle,A Whole New World,GTZAN,pop
+GTZAN,pop.00042.wav,Celine Dion,That's The Way It Is,GTZAN,pop
+GTZAN,pop.00043.wav,Cher,Believe,GTZAN,pop
+GTZAN,pop.00044.wav,Christina Aguilera,Come On Over (All I Want Is You),GTZAN,pop
+GTZAN,pop.00045.wav,Christina Aguilera,Genie In A Bottle,GTZAN,pop
+GTZAN,pop.00046.wav,Christina Aguilera,Genie In A Bottle,GTZAN,pop
+GTZAN,pop.00047.wav,Christina Aguilera,Lady Marmalade,GTZAN,pop
+GTZAN,pop.00048.wav,Christina Aguilera,Lady Marmalade,GTZAN,pop
+GTZAN,pop.00049.wav,Christina Aguilera,Pero Me Acuerdo De Ti,GTZAN,pop
+GTZAN,pop.00050.wav,Christina Aguilera,What a girl wants,GTZAN,pop
+GTZAN,pop.00051.wav,Christina Aguilera,Lady Marmalade,GTZAN,pop
+GTZAN,pop.00052.wav,Destiny's Child,Bootylicious,GTZAN,pop
+GTZAN,pop.00053.wav,Destiny's Child,Outro Amazing Grace,GTZAN,pop
+GTZAN,pop.00054.wav,Destiny's Child,Bootylicious,GTZAN,pop
+GTZAN,pop.00055.wav,Destiny's Child,Bug A Boo,GTZAN,pop
+GTZAN,pop.00056.wav,Destiny's Child,"Jumpin', Jumpin'",GTZAN,pop
+GTZAN,pop.00057.wav,Destiny's Child,Bootylicious,GTZAN,pop
+GTZAN,pop.00058.wav,Destiny's Child,Independent Women Part I,GTZAN,pop
+GTZAN,pop.00059.wav,Destiny's Child,"Jumpin', Jumpin'",GTZAN,pop
+GTZAN,pop.00060.wav,Destiny's Child,Bootylicious,GTZAN,pop
+GTZAN,pop.00061.wav,Destiny's Child,Apple Pie a La Mode,GTZAN,pop
+GTZAN,pop.00062.wav,Destiny's Child,Survivor,GTZAN,pop
+GTZAN,pop.00063.wav,Diana Ross,Ain't No Mountain High Enough,GTZAN,pop
+GTZAN,pop.00064.wav,Abigail,If It Don't Fit (Thunderpuss 2000 Club Mix),GTZAN,pop
+GTZAN,pop.00065.wav,Prince,The Beautiful Ones,GTZAN,pop
+GTZAN,pop.00066.wav,Enrique Iglesias,Could I Have This Kiss Forever,GTZAN,pop
+GTZAN,pop.00067.wav,Janet Jackson,All For You,GTZAN,pop
+GTZAN,pop.00068.wav,Janet Jackson,Someone To Call My Lover,GTZAN,pop
+GTZAN,pop.00069.wav,Janet Jackson,If,GTZAN,pop
+GTZAN,pop.00070.wav,Janet Jackson,I Get Lonely,GTZAN,pop
+GTZAN,pop.00071.wav,Janet Jackson,All For You,GTZAN,pop
+GTZAN,pop.00072.wav,Janet Jackson,Miss You Much,GTZAN,pop
+GTZAN,pop.00073.wav,Janet Jackson,Someone To Call My Lover,GTZAN,pop
+GTZAN,pop.00074.wav,Jennifer Lopez; Ja Rule,I'm Real (Murder Remix),GTZAN,pop
+GTZAN,pop.00075.wav,Jennifer Lopez,If You Had My Love,GTZAN,pop
+GTZAN,pop.00076.wav,Jennifer Lopez,Dance With Me,GTZAN,pop
+GTZAN,pop.00077.wav,Jennifer Lopez,I'm Real,GTZAN,pop
+GTZAN,pop.00078.wav,Jennifer Lopez,Play,GTZAN,pop
+GTZAN,pop.00079.wav,Kate Bush,Couldbusting,GTZAN,pop
+GTZAN,pop.00080.wav,Christina Aguilera,Lady Marmalade,GTZAN,pop
+GTZAN,pop.00081.wav,Ladysmith Black Mambazo,Leaning On The Everlasting Arm,GTZAN,pop
+GTZAN,pop.00082.wav,Jennifer Lopez,If You Had My Love (Pablo Flores Remix),GTZAN,pop
+GTZAN,pop.00083.wav,Madonna,American Pie,GTZAN,pop
+GTZAN,pop.00084.wav,Madonna,Don't Tell Me,GTZAN,pop
+GTZAN,pop.00085.wav,Madonna,Music,GTZAN,pop
+GTZAN,pop.00086.wav,Madonna,Cherish,GTZAN,pop
+GTZAN,pop.00087.wav,Mandy Moore,Crush,GTZAN,pop
+GTZAN,pop.00088.wav,Mandy Moore,Candy (Wade Robson Remix),GTZAN,pop
+GTZAN,pop.00089.wav,Mandy Moore,Candy,GTZAN,pop
+GTZAN,pop.00090.wav,Mandy Moore,Crush,GTZAN,pop
+GTZAN,pop.00091.wav,Mandy Moore,Everything My Heart Desires,GTZAN,pop
+GTZAN,pop.00092.wav,Mandy Moore,In My Pocket,GTZAN,pop
+GTZAN,pop.00093.wav,Mandy Moore,I Wanna Be With You (Soul Solution Remix),GTZAN,pop
+GTZAN,pop.00094.wav,Mandy Moore,I Wanna Be With You,GTZAN,pop
+GTZAN,pop.00095.wav,Mandy Moore,Love You for Always,GTZAN,pop
+GTZAN,pop.00096.wav,Mandy Moore,Quit Breaking My Heart,GTZAN,pop
+GTZAN,pop.00097.wav,Mariah Carey,Sweetheart,GTZAN,pop
+GTZAN,pop.00098.wav,Mariah Carey,Emotions,GTZAN,pop
+GTZAN,pop.00099.wav,Mariah Carey,Always Be My Baby,GTZAN,pop
+GTZAN,reggae.00000.wav,Bob Marley,Is This Love,GTZAN,reggae
+GTZAN,reggae.00001.wav,Bob Marley,No Woman No Cry,GTZAN,reggae
+GTZAN,reggae.00002.wav,Bob Marley,Could You Be Loved,GTZAN,reggae
+GTZAN,reggae.00003.wav,Bob Marley,Three Little Birds,GTZAN,reggae
+GTZAN,reggae.00004.wav,Bob Marley,Buffalo Soldier,GTZAN,reggae
+GTZAN,reggae.00005.wav,Bob Marley,"Get Up, Stand Up",GTZAN,reggae
+GTZAN,reggae.00006.wav,Bob Marley,Stir it Up,GTZAN,reggae
+GTZAN,reggae.00007.wav,Bob Marley,One Love,GTZAN,reggae
+GTZAN,reggae.00008.wav,Bob Marley,I shot the Sheriff,GTZAN,reggae
+GTZAN,reggae.00009.wav,Bob Marley,Waiting in vain,GTZAN,reggae
+GTZAN,reggae.00010.wav,Bob Marley,Redemption Song,GTZAN,reggae
+GTZAN,reggae.00011.wav,Bob Marley,Satisfy My Soul,GTZAN,reggae
+GTZAN,reggae.00012.wav,Bob Marley,Exodus,GTZAN,reggae
+GTZAN,reggae.00013.wav,Bob Marley,Jamming,GTZAN,reggae
+GTZAN,reggae.00014.wav,Bob Marley,Natural Mystic,GTZAN,reggae
+GTZAN,reggae.00015.wav,Bob Marley,Easy Skanking,GTZAN,reggae
+GTZAN,reggae.00016.wav,Bob Marley,Iron Lion Zion,GTZAN,reggae
+GTZAN,reggae.00017.wav,Bob Marley,Crazy Baldhead,GTZAN,reggae
+GTZAN,reggae.00018.wav,Bob Marley,So Much Trouble In The World,GTZAN,reggae
+GTZAN,reggae.00019.wav,Bob Marley,War,GTZAN,reggae
+GTZAN,reggae.00020.wav,Bob Marley,Africa Unite,GTZAN,reggae
+GTZAN,reggae.00021.wav,Bob Marley,Trenchtown Rock,GTZAN,reggae
+GTZAN,reggae.00022.wav,Bob Marley,Keep On Moving,GTZAN,reggae
+GTZAN,reggae.00023.wav,Bob Marley,Sun Is Shining,GTZAN,reggae
+GTZAN,reggae.00024.wav,Bob Marley,Who The Cap Fits,GTZAN,reggae
+GTZAN,reggae.00025.wav,Bob Marley,One Drop,GTZAN,reggae
+GTZAN,reggae.00026.wav,Bob Marley,"Roots, Rock, Reggae",GTZAN,reggae
+GTZAN,reggae.00027.wav,Bob Marley,Pimper's Paradise,GTZAN,reggae
+GTZAN,reggae.00028.wav,Burning Spear,Dub Creation,GTZAN,reggae
+GTZAN,reggae.00029.wav,Burning Spear,African Dub,GTZAN,reggae
+GTZAN,reggae.00030.wav,Burning Spear,Stand,GTZAN,reggae
+GTZAN,reggae.00031.wav,Burning Spear,Smart Dub,GTZAN,reggae
+GTZAN,reggae.00032.wav,Burning Spear,Remember,GTZAN,reggae
+GTZAN,reggae.00033.wav,Burning Spear,Burning Dub,GTZAN,reggae
+GTZAN,reggae.00034.wav,Burning Spear,Chanting Home,GTZAN,reggae
+GTZAN,reggae.00035.wav,Burning Spear,Dub Old Timer,GTZAN,reggae
+GTZAN,reggae.00036.wav,Burning Spear,Subjective Dub,GTZAN,reggae
+GTZAN,reggae.00037.wav,Burning Spear,Friendly Dub,GTZAN,reggae
+GTZAN,reggae.00038.wav,Burning Spear,Investigation Dub,GTZAN,reggae
+GTZAN,reggae.00039.wav,Burning Spear,World Dub,GTZAN,reggae
+GTZAN,reggae.00040.wav,Burning Spear,Loving Dub,GTZAN,reggae
+GTZAN,reggae.00041.wav,Desmond Dekker,Israelites,GTZAN,reggae
+GTZAN,reggae.00042.wav,Burning Spear,Dry and Heavy,GTZAN,reggae
+GTZAN,reggae.00043.wav,The Ethiopians,Reggae Hit the Town,GTZAN,reggae
+GTZAN,reggae.00044.wav,Burning Spear,Burning Reggae,GTZAN,reggae
+GTZAN,reggae.00045.wav,The Heptones,Unfaithful Baby,GTZAN,reggae
+GTZAN,reggae.00046.wav,Dennis Brown,It's Magic,GTZAN,reggae
+GTZAN,reggae.00047.wav,Dennis Brown,Money in My Pocket,GTZAN,reggae
+GTZAN,reggae.00048.wav,Dennis Brown,Westbound Train,GTZAN,reggae
+GTZAN,reggae.00049.wav,Desmond Dekker,Shanty Town,GTZAN,reggae
+GTZAN,reggae.00050.wav,Burning Spear,Identity,GTZAN,reggae
+GTZAN,reggae.00051.wav,Amand Van Helden & DJ Sneak,Psychic Bounty Killaz,GTZAN,reggae
+GTZAN,reggae.00052.wav,Pras,Ghetto Superstar (That Is What You Are),GTZAN,reggae
+GTZAN,reggae.00053.wav,Augustus Pablo,Stop Them Jah,GTZAN,reggae
+GTZAN,reggae.00054.wav,Bob Marley,Three Little Birds,GTZAN,reggae
+GTZAN,reggae.00055.wav,Bob Marley,Sun Is Shining (Funkstar Deluxe Remix),GTZAN,reggae
+GTZAN,reggae.00056.wav,Bob Marley,"Get Up, Stand Up",GTZAN,reggae
+GTZAN,reggae.00057.wav,Bob Marley,I shot the Sheriff,GTZAN,reggae
+GTZAN,reggae.00058.wav,Bob Marley,Jamming,GTZAN,reggae
+GTZAN,reggae.00059.wav,Bob Marley,One Love,GTZAN,reggae
+GTZAN,reggae.00060.wav,Bob Marley,Redemption Song,GTZAN,reggae
+GTZAN,reggae.00061.wav,Bounty Killer,Living Dangerously,GTZAN,reggae
+GTZAN,reggae.00062.wav,Burning Spear,Jah Is My Driver,GTZAN,reggae
+GTZAN,reggae.00063.wav,Burning Spear,Marcus Garvey,GTZAN,reggae
+GTZAN,reggae.00064.wav,Dennis Brown,Make It Easy,GTZAN,reggae
+GTZAN,reggae.00065.wav,Dennis Brown,Rub a Dub All the Time,GTZAN,reggae
+GTZAN,reggae.00066.wav,Dennis Brown,Sitting And Watching,GTZAN,reggae
+GTZAN,reggae.00067.wav,Dennis Brown,Some like it hot,GTZAN,reggae
+GTZAN,reggae.00068.wav,Dennis Brown,Wolf and Leopards,GTZAN,reggae
+GTZAN,reggae.00069.wav,Desmond Dekker,Israelites,GTZAN,reggae
+GTZAN,reggae.00070.wav,Gregory Isaacs,John Law,GTZAN,reggae
+GTZAN,reggae.00071.wav,Dennis Brown,Big Ships,GTZAN,reggae
+GTZAN,reggae.00072.wav,Freddie McGregor,Prophecy,GTZAN,reggae
+GTZAN,reggae.00073.wav,Bounty Killer,Hip-Hopera,GTZAN,reggae
+GTZAN,reggae.00074.wav,Bounty Killer,Hip-Hopera,GTZAN,reggae
+GTZAN,reggae.00075.wav,Peter Tosh,Legalize It,GTZAN,reggae
+GTZAN,reggae.00076.wav,Gregory Isaacs,Night Nurse,GTZAN,reggae
+GTZAN,reggae.00077.wav,Gregory Isaacs,The Border,GTZAN,reggae
+GTZAN,reggae.00078.wav,Gregory Isaacs,Universal Tribulation,GTZAN,reggae
+GTZAN,reggae.00079.wav,Niney the Observer,Chicken Halk Dub,GTZAN,reggae
+GTZAN,reggae.00080.wav,Ini Kamoze,Here Comes The Hot Stepper(remix),GTZAN,reggae
+GTZAN,reggae.00081.wav,Ini Kamoze,Here Comes The Hot Stepper(remix),GTZAN,reggae
+GTZAN,reggae.00082.wav,Ini Kamoze,Here Comes The Hot Stepper(remix),GTZAN,reggae
+GTZAN,reggae.00083.wav,Jimmy Cliff,Many Rivers To Cross,GTZAN,reggae
+GTZAN,reggae.00084.wav,Jimmy Cliff,The Harder They Come,GTZAN,reggae
+GTZAN,reggae.00085.wav,Prince Buster,Judge Dread,GTZAN,reggae
+GTZAN,reggae.00086.wav,King Tubby,Splash Out Dub,GTZAN,reggae
+GTZAN,reggae.00087.wav,Lauryn Hill; Bob Marley,Turn Your Lights Down Low,GTZAN,reggae
+GTZAN,reggae.00088.wav,Marcia Griffiths,Electric Boogie,GTZAN,reggae
+GTZAN,reggae.00089.wav,The Now Generation,Boney Dog,GTZAN,reggae
+GTZAN,reggae.00090.wav,Peter Tosh,Ketchy Shuby (Instrumental),GTZAN,reggae
+GTZAN,reggae.00091.wav,Peter Tosh,Legalize It,GTZAN,reggae
+GTZAN,reggae.00092.wav,Peter Tosh,Legalize It,GTZAN,reggae
+GTZAN,reggae.00093.wav,Peter Tosh; Mick Jagger,Don't Look Back,GTZAN,reggae
+GTZAN,reggae.00094.wav,Prince Buster,Ten Commandments,GTZAN,reggae
+GTZAN,reggae.00095.wav,Prince Buster,Madness,GTZAN,reggae
+GTZAN,reggae.00096.wav,Prince Buster,Barrister Pardon,GTZAN,reggae
+GTZAN,reggae.00097.wav,Prince Buster,Here Comes The Bride,GTZAN,reggae
+GTZAN,reggae.00098.wav,Prince Buster,Rude Rude Rudee,GTZAN,reggae
+GTZAN,reggae.00099.wav,Prince Buster,Al Capone,GTZAN,reggae
+GTZAN,rock.00000.wav,Morphine,Potion,GTZAN,rock
+GTZAN,rock.00001.wav,Morphine,I Know You Pt. III,GTZAN,rock
+GTZAN,rock.00002.wav,Morphine,Early To Bed,GTZAN,rock
+GTZAN,rock.00003.wav,Morphine,Wishing Well,GTZAN,rock
+GTZAN,rock.00004.wav,Morphine,Like Swimming,GTZAN,rock
+GTZAN,rock.00005.wav,Morphine,Murder For The Money,GTZAN,rock
+GTZAN,rock.00006.wav,Morphine,French Fries with Pepper,GTZAN,rock
+GTZAN,rock.00007.wav,Morphine,Empty Box,GTZAN,rock
+GTZAN,rock.00008.wav,Morphine,Eleven O'Clock,GTZAN,rock
+GTZAN,rock.00009.wav,Morphine,Hanging On A Curtain,GTZAN,rock
+GTZAN,rock.00010.wav,Ani DiFranco,Worthy,GTZAN,rock
+GTZAN,rock.00011.wav,Ani DiFranco,Cradle and All,GTZAN,rock
+GTZAN,rock.00012.wav,Ani DiFranco,Shy,GTZAN,rock
+GTZAN,rock.00013.wav,Ani DiFranco,32 Flavors,GTZAN,rock
+GTZAN,rock.00014.wav,Ani DiFranco,Asking Too Much,GTZAN,rock
+GTZAN,rock.00015.wav,Ani DiFranco,Coming Up,GTZAN,rock
+GTZAN,rock.00016.wav,Queen,Tie Your Mother Down,GTZAN,rock
+GTZAN,rock.00017.wav,Queen,Under Pressure,GTZAN,rock
+GTZAN,rock.00018.wav,Queen,Another One Bites the Dust,GTZAN,rock
+GTZAN,rock.00019.wav,Queen,I Want To Break Free,GTZAN,rock
+GTZAN,rock.00020.wav,Queen,(You're So Square) Baby I Don't Care,GTZAN,rock
+GTZAN,rock.00021.wav,Queen,Hello Mary Lou (Goodbye Heart),GTZAN,rock
+GTZAN,rock.00022.wav,Queen,Tutti Frutti,GTZAN,rock
+GTZAN,rock.00023.wav,Queen,Bohemian rhapsody,GTZAN,rock
+GTZAN,rock.00024.wav,Queen,Crazy Little Thing Called Love,GTZAN,rock
+GTZAN,rock.00025.wav,Queen,Big spender,GTZAN,rock
+GTZAN,rock.00026.wav,Queen,Radio Ga Ga,GTZAN,rock
+GTZAN,rock.00027.wav,The Beach Boys,Good Vibrations,GTZAN,rock
+GTZAN,rock.00028.wav,The Rolling Stones,Jumpin' Jack Flash,GTZAN,rock
+GTZAN,rock.00029.wav,The Rolling Stones,Street Fighting Man,GTZAN,rock
+GTZAN,rock.00030.wav,The Rolling Stones,Sympathy for the devil,GTZAN,rock
+GTZAN,rock.00031.wav,The Rolling Stones,Honky Tonk Women,GTZAN,rock
+GTZAN,rock.00032.wav,Led Zeppelin,All my love,GTZAN,rock
+GTZAN,rock.00033.wav,The Rolling Stones,Gimme Shelter,GTZAN,rock
+GTZAN,rock.00034.wav,David Bowie,Major Tom,GTZAN,rock
+GTZAN,rock.00035.wav,The Rolling Stones,Midnight Rambler,GTZAN,rock
+GTZAN,rock.00036.wav,Billy Joel,Movin' Out,GTZAN,rock
+GTZAN,rock.00037.wav,The Rolling Stones,Brown Sugar,GTZAN,rock
+GTZAN,rock.00038.wav,Guns N' Roses,Knockin' On Heaven's Door,GTZAN,rock
+GTZAN,rock.00039.wav,Led Zeppelin,The Song Remains The Same,GTZAN,rock
+GTZAN,rock.00040.wav,Led Zeppelin,The Crunge,GTZAN,rock
+GTZAN,rock.00041.wav,Led Zeppelin,Dancing Days,GTZAN,rock
+GTZAN,rock.00042.wav,Led Zeppelin,D'yer Mak'er,GTZAN,rock
+GTZAN,rock.00043.wav,Led Zeppelin,The Ocean,GTZAN,rock
+GTZAN,rock.00044.wav,Led Zeppelin,Down By The Seaside,GTZAN,rock
+GTZAN,rock.00045.wav,Led Zeppelin,Ten Years Gone,GTZAN,rock
+GTZAN,rock.00046.wav,Led Zeppelin,Night Flight,GTZAN,rock
+GTZAN,rock.00047.wav,Led Zeppelin,The Wanton Song,GTZAN,rock
+GTZAN,rock.00048.wav,Led Zeppelin,Boogie With Stu,GTZAN,rock
+GTZAN,rock.00049.wav,Simple Minds,Real Life,GTZAN,rock
+GTZAN,rock.00050.wav,Simple Minds,See The Lights,GTZAN,rock
+GTZAN,rock.00051.wav,Simple Minds,Let There Be Love,GTZAN,rock
+GTZAN,rock.00052.wav,Simple Minds,Woman,GTZAN,rock
+GTZAN,rock.00053.wav,Simple Minds,Stand By Love,GTZAN,rock
+GTZAN,rock.00054.wav,Simple Minds,Let the Children Speak,GTZAN,rock
+GTZAN,rock.00055.wav,Simple Minds,African Skies,GTZAN,rock
+GTZAN,rock.00056.wav,Simple Minds,Ghostrider,GTZAN,rock
+GTZAN,rock.00057.wav,Sting,If you love somebody set them free,GTZAN,rock
+GTZAN,rock.00058.wav,Sting,Russians,GTZAN,rock
+GTZAN,rock.00059.wav,Sting,Children's Crusade,GTZAN,rock
+GTZAN,rock.00060.wav,Sting,Shadows In The Rain,GTZAN,rock
+GTZAN,rock.00061.wav,Sting,We Work The Black Seam,GTZAN,rock
+GTZAN,rock.00062.wav,Sting,Consider Me Gone,GTZAN,rock
+GTZAN,rock.00063.wav,Sting,Moon Over Bourbon Street,GTZAN,rock
+GTZAN,rock.00064.wav,Jethro Tull,Living In The Past,GTZAN,rock
+GTZAN,rock.00065.wav,Jethro Tull,Aqualung,GTZAN,rock
+GTZAN,rock.00066.wav,Jethro Tull,"Too Old To Rock 'N' Roll, Too Young To Die",GTZAN,rock
+GTZAN,rock.00067.wav,Jethro Tull,Bungle In The Jungle,GTZAN,rock
+GTZAN,rock.00068.wav,Jethro Tull,Sweet Dream,GTZAN,rock
+GTZAN,rock.00069.wav,Jethro Tull,Witches Promise,GTZAN,rock
+GTZAN,rock.00070.wav,Jethro Tull,Life Is A Long Song,GTZAN,rock
+GTZAN,rock.00071.wav,Simply Red,Something Got Me Started,GTZAN,rock
+GTZAN,rock.00072.wav,Simply Red,Stars,GTZAN,rock
+GTZAN,rock.00073.wav,Simply Red,Thrill Me,GTZAN,rock
+GTZAN,rock.00074.wav,Simply Red,Your Mirror,GTZAN,rock
+GTZAN,rock.00075.wav,Simply Red,She's Got It Bad,GTZAN,rock
+GTZAN,rock.00076.wav,Simply Red,For Your Babies,GTZAN,rock
+GTZAN,rock.00077.wav,Simply Red,Freedom,GTZAN,rock
+GTZAN,rock.00078.wav,Simply Red,Wonderland,GTZAN,rock
+GTZAN,rock.00079.wav,Survivor,High On You,GTZAN,rock
+GTZAN,rock.00080.wav,Survivor,Is This Love,GTZAN,rock
+GTZAN,rock.00081.wav,Survivor,Poor Man's Son,GTZAN,rock
+GTZAN,rock.00082.wav,Survivor,Burning Heart,GTZAN,rock
+GTZAN,rock.00083.wav,Survivor,Desparate Dreams,GTZAN,rock
+GTZAN,rock.00084.wav,Survivor,How Much Love,GTZAN,rock
+GTZAN,rock.00085.wav,Survivor,Man Against The World,GTZAN,rock
+GTZAN,rock.00086.wav,Rick Springfield,Jessie's Girl,GTZAN,rock
+GTZAN,rock.00087.wav,Neil Young,Rockin' In The Free World,GTZAN,rock
+GTZAN,rock.00088.wav,Billy Squier,The Stroke,GTZAN,rock
+GTZAN,rock.00089.wav,Bob Seger,Against The Wind,GTZAN,rock
+GTZAN,rock.00090.wav,The Tokens,The Lion Sleeps Tonight,GTZAN,rock
+GTZAN,rock.00091.wav,The Stone Roses,She Bangs The Drums,GTZAN,rock
+GTZAN,rock.00092.wav,The Stone Roses,Elephant Stone,GTZAN,rock
+GTZAN,rock.00093.wav,The Stone Roses,Waterfall,GTZAN,rock
+GTZAN,rock.00094.wav,The Stone Roses,Don't Stop,GTZAN,rock
+GTZAN,rock.00095.wav,The Stone Roses,Bye Bye Bad Man,GTZAN,rock
+GTZAN,rock.00096.wav,The Stone Roses,(Song For My) Sugar Spun Sister,GTZAN,rock
+GTZAN,rock.00097.wav,The Stone Roses,Made Of Stone,GTZAN,rock
+GTZAN,rock.00098.wav,The Stone Roses,Shoot You Down,GTZAN,rock
+GTZAN,rock.00099.wav,The Stone Roses,This Is The One,GTZAN,rock
+PMEmo,1,2 Chainz,Good Drank,"Def Jam Presents: Direct Deposit, Vol. 2","Valence=0.57,Arousal=0.40"
+PMEmo,10,A Boogie Wit Da Hoodie,Drowning,Drowning,"Valence=0.42,Arousal=0.44"
+PMEmo,100,Bryson Tiller,Don't,T R A P S O U L,"Valence=0.30,Arousal=0.17"
+PMEmo,1000,방탄소년단,Spring Day,YOU NEVER WALK ALONE,"Valence=0.57,Arousal=0.66"
+PMEmo,102,Burl Ives,A Holly Jolly Christmas,Colorful Fruit,"Valence=0.82,Arousal=0.74"
+PMEmo,103,CL,LIFTED,LIFTED,"Valence=0.78,Arousal=0.59"
+PMEmo,104,Calum Scott,Dancing On My Own(Ben Dooks Remix),Dancing On My Own (Ben Dooks Remix),"Valence=0.82,Arousal=0.84"
+PMEmo,105,Calum Scott,Dancing on My Own,Dancing on My Own,"Valence=0.39,Arousal=0.28"
+PMEmo,106,Calvin Harris,Slide,Slide,"Valence=0.68,Arousal=0.70"
+PMEmo,107,Calvin Harris,Rollin,Rollin,"Valence=0.61,Arousal=0.60"
+PMEmo,108,Calvin Harris,This Is What You Came For,This Is What You Came For,"Valence=0.86,Arousal=0.86"
+PMEmo,109,Calvin Harris,Heatstroke,Heatstroke,"Valence=0.79,Arousal=0.80"
+PMEmo,113,Camila Cabello,Crying In The Club,Crying In The Club,"Valence=0.71,Arousal=0.75"
+PMEmo,114,Camila Cabello,I Have Questions,I Have Questions,"Valence=0.74,Arousal=0.74"
+PMEmo,115,Carlos Vives,La Bicicleta,La Bicicleta,"Valence=0.80,Arousal=0.80"
+PMEmo,116,Carrie Underwood,Church Bells,Storyteller,"Valence=0.76,Arousal=0.90"
+PMEmo,117,Carrie Underwood,Dirty Laundry,Storyteller,"Valence=0.70,Arousal=0.85"
+PMEmo,119,Céline Dion,How Does A Moment Last Forever,Beauty and the Beast (Original Motion Picture Soundtrack),"Valence=0.66,Arousal=0.49"
+PMEmo,12,A Tribe Called Quest,We The People....,We got it from Here... Thank You 4 Your service,"Valence=0.57,Arousal=0.69"
+PMEmo,120,Chance The Rapper,No Problem,Coloring Book,"Valence=0.76,Arousal=0.76"
+PMEmo,123,Charles Kelley,The Only One Who Gets Me,The Driver,"Valence=0.49,Arousal=0.31"
+PMEmo,124,Charli XCX,After The Afterparty,After The Afterparty,"Valence=0.84,Arousal=0.90"
+PMEmo,126,Charlie Puth,We Don't Talk Anymore,Nine Track Mind,"Valence=0.70,Arousal=0.70"
+PMEmo,127,Charlie Puth,Attention,Attention,"Valence=0.82,Arousal=0.81"
+PMEmo,128,Charlie Puth,One Call Away,One Call Away (Acoustic),"Valence=0.60,Arousal=0.51"
+PMEmo,13,AJR,Weak,What Everyone's Thinking,"Valence=0.59,Arousal=0.82"
+PMEmo,132,Chase Rice,Everybody We Know Does,Everybody We Know Does,"Valence=0.71,Arousal=0.85"
+PMEmo,133,Cheat Codes,No Promises,No Promises,"Valence=0.74,Arousal=0.78"
+PMEmo,134,Cheat Codes,Let Me Hold You (Turn Me On),Let Me Hold You (Turn Me On),"Valence=0.71,Arousal=0.80"
+PMEmo,135,Childish Gambino,Me and your Mama,Me and your Mama,"Valence=0.40,Arousal=0.74"
+PMEmo,136,Childish Gambino,Redbone,"""Awaken, My Love!""","Valence=0.53,Arousal=0.62"
+PMEmo,137,Chris Blue,Money On You,Money On You (The Voice Performance),"Valence=0.70,Arousal=0.76"
+PMEmo,138,Chris Blue,Take Me To the King,Take Me To the King (The Voice Performance),"Valence=0.59,Arousal=0.66"
+PMEmo,139,Chris Brown,Party,Party,"Valence=0.78,Arousal=0.71"
+PMEmo,14,Adam Wakefield,I’m Sorry,I’m Sorry (The Voice Performance),"Valence=0.57,Arousal=0.56"
+PMEmo,140,Chris Brown,Back To Sleep,Back To Sleep,"Valence=0.65,Arousal=0.56"
+PMEmo,141,Chris Brown,chris brown - grass ain't greener,Grass Ain't Greene,"Valence=0.65,Arousal=0.54"
+PMEmo,142,Chris Brown,01 Privacy,Privacy,"Valence=0.62,Arousal=0.60"
+PMEmo,143,Chris Janson,Holdin' Her,Buy Me A Boat,"Valence=0.62,Arousal=0.56"
+PMEmo,144,Chris Lane,Fix,Fix,"Valence=0.82,Arousal=0.86"
+PMEmo,145,Chris Lane,For Her,Girl Problems,"Valence=0.75,Arousal=0.76"
+PMEmo,146,¿ËÀïË¹ÀûÑÇ(Chris Rea),Driving Home For Christmas (2003),Driving Home For Christmas,"Valence=0.74,Arousal=0.66"
+PMEmo,147,Chris Stapleton,Broken Halos,"From a Room, Vol. 1","Valence=0.65,Arousal=0.55"
+PMEmo,148,Chris Stapleton,Either Way,From A Room: Volume 1,"Valence=0.50,Arousal=0.40"
+PMEmo,149,Chris Stapleton,Fire Away,Traveller,"Valence=0.26,Arousal=0.39"
+PMEmo,15,Adam Wakefield,Lonesome Broken and Blue (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.66,Arousal=0.61"
+PMEmo,150,Chris Stapleton,Parachute,Traveller,"Valence=0.72,Arousal=0.74"
+PMEmo,151,Chris Stapleton,Tennessee Whiskey,Traveller,"Valence=0.61,Arousal=0.33"
+PMEmo,152,Chris Young,Think of You (Duet with Cassadee Pope),Think of You (Duet with Cassadee Pope),"Valence=0.72,Arousal=0.82"
+PMEmo,153,Chris Young,Sober Saturday Night (feat. Vince Gill),Sober Saturday Night (feat. Vince Gill),"Valence=0.65,Arousal=0.68"
+PMEmo,156,Christina Aguilera,Change,Change,"Valence=0.55,Arousal=0.66"
+PMEmo,157,Christine and the Queens,Tilted,Saint Claude,"Valence=0.68,Arousal=0.53"
+PMEmo,158,Chuck Berry,Johnny B. Goode,The Ultimate Rock `n Roll Party (A Fine Rock `n Roll Voyage)  Vol1,"Valence=0.79,Arousal=0.72"
+PMEmo,159,Clean Bandit,Tears (feat. Louisa Johnson),Tears,"Valence=0.68,Arousal=0.88"
+PMEmo,16,Adam Wakefield,When I Call Your Name (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.57,Arousal=0.54"
+PMEmo,160,Sean Paul,Rockabye (feat. Sean Paul & Anne-Marie),Rockabye,"Valence=0.81,Arousal=0.82"
+PMEmo,161,Clean Bandit,Symphony,Symphony,"Valence=0.71,Arousal=0.86"
+PMEmo,162,Sean Paul,Rockabye (feat. Sean Paul & Anne-Marie),Rockabye,"Valence=0.74,Arousal=0.88"
+PMEmo,165,Coldplay,Hymn For The Weekend,A Head Full Of Dreams,"Valence=0.68,Arousal=0.74"
+PMEmo,166,Coldplay,Hypnotised,Hypnotised,"Valence=0.57,Arousal=0.62"
+PMEmo,167,Cole Swindell,Flatliner (feat. Dierks Bentley),You Should Be Here,"Valence=0.78,Arousal=0.89"
+PMEmo,168,Cole Swindell,Middle of a Memory,You Should Be Here,"Valence=0.62,Arousal=0.71"
+PMEmo,169,Cole Swindell,You Should Be Here,You Should Be Here,"Valence=0.60,Arousal=0.68"
+PMEmo,17,Adele,Hello,Hello,"Valence=0.68,Arousal=0.82"
+PMEmo,170,Corinne Bailey Rae,The Scientist,Fifty Shades Darker (Original Motion Picture Soundtrack),"Valence=0.60,Arousal=0.30"
+PMEmo,171,Craig David,Ain't Giving Up,Ain't Giving Up,"Valence=0.81,Arousal=0.85"
+PMEmo,172,D.R.A.M.,BROCCOLI,Broccoli,"Valence=0.62,Arousal=0.64"
+PMEmo,174,DJ Drama,Wishing,Quality Street Music 2,"Valence=0.53,Arousal=0.48"
+PMEmo,175,Future,Too Much Sauce,Too Much Sauce,"Valence=0.45,Arousal=0.47"
+PMEmo,176,DJ Khaled,Shining,Shining,"Valence=0.65,Arousal=0.71"
+PMEmo,177,DJ Khaled,For Free,Major Key,"Valence=0.54,Arousal=0.55"
+PMEmo,179,DJ Khaled,I Got the Keys,I Got the Keys,"Valence=0.31,Arousal=0.74"
+PMEmo,18,Adele,Send My Love (To Your New Lover),Send My Love (To Your New Lover),"Valence=0.84,Arousal=0.80"
+PMEmo,180,DJ Khaled,I'm the One,I'm the One,"Valence=0.69,Arousal=0.57"
+PMEmo,181,DJ Khaled,Do You Mind,Major Key,"Valence=0.62,Arousal=0.49"
+PMEmo,184,DJ Khaled,Holy Key,Major Key,"Valence=0.64,Arousal=0.82"
+PMEmo,185,DJ Khaled,I Got the Keys,I Got the Keys,"Valence=0.47,Arousal=0.66"
+PMEmo,186,DJ Khaled,Shining,Shining,"Valence=0.71,Arousal=0.82"
+PMEmo,187,DJ Luke Nasty,OTW (Remix),The Boom Boom Room,"Valence=0.68,Arousal=0.70"
+PMEmo,188,DJ Slim K,Key to the Streets(Chopped Not Slopped),Refund Season,"Valence=0.40,Arousal=0.31"
+PMEmo,189,DJ Snake,Middle(4B Remix),Middle (4B Remix),"Valence=0.64,Arousal=0.69"
+PMEmo,19,Adele,Water Under The Bridge,25,"Valence=0.75,Arousal=0.76"
+PMEmo,191,DJ Snake,Let Me Love You,Encore,"Valence=0.82,Arousal=0.76"
+PMEmo,192,DJ Snake,Turn Down for What,Ultimate... Hip-Hop,"Valence=0.54,Arousal=0.94"
+PMEmo,196,DJ Suede The Remix God,Cash Me Outside (#CashmeOutside),Cash Me Outside (#CashMeOutside),"Valence=0.36,Arousal=0.44"
+PMEmo,197,Various Artists,DNCE - Cake By The Ocean (From ＂Grease Live!＂ Music From The Television Event),Grease Live! (Music From The Television Event),"Valence=0.44,Arousal=0.34"
+PMEmo,198,DNCE,Toothbrush,Swaay,"Valence=0.75,Arousal=0.86"
+PMEmo,199,Daddy Yankee,Shaky Shaky,Shaky Shaky,"Valence=0.69,Arousal=0.79"
+PMEmo,20,Al Jarreau,We're In This Love Together,Breakin' Away,"Valence=0.64,Arousal=0.55"
+PMEmo,200,Dae Dae,"Wat U Mean (Aye, Aye, Aye)","Wat U Mean (Aye, Aye, Aye)","Valence=0.56,Arousal=0.70"
+PMEmo,201,Dan + Shay,From the Ground Up,Obsessed,"Valence=0.69,Arousal=0.62"
+PMEmo,202,Dan + Shay,How Not To,Obsessed,"Valence=0.76,Arousal=0.85"
+PMEmo,203,Dan + Shay,When I Pray For You,The Shack: Music From and Inspired By the Original Motion Picture,"Valence=0.69,Arousal=0.78"
+PMEmo,204,Dan Stevens,Evermore,Beauty and the Beast (Original Motion Picture Soundtrack),"Valence=0.59,Arousal=0.74"
+PMEmo,207,David Guetta,Titanium (Feat. Sia),Nothing But The Beat (US Edition),"Valence=0.74,Arousal=0.85"
+PMEmo,209,David Nail,Night's On Fire,Night's On Fire,"Valence=0.78,Arousal=0.69"
+PMEmo,21,Alan Walker,Faded,Faded,"Valence=0.78,Arousal=0.86"
+PMEmo,210,Daya,Hide Away,"Sit Still, Look Pretty","Valence=0.72,Arousal=0.81"
+PMEmo,211,Daya,"Sit Still, Look Pretty",Daya,"Valence=0.65,Arousal=0.65"
+PMEmo,212,Demi Lovato,Body Say,Body Say,"Valence=0.60,Arousal=0.66"
+PMEmo,213,Desiigner,Panda (#PANDATO Version),Panda,"Valence=0.36,Arousal=0.56"
+PMEmo,215,Desiigner,Tiimmy Turner,Tiimmy Turner,"Valence=0.51,Arousal=0.53"
+PMEmo,216,Dierks Bentley,Different for Girls,Black,"Valence=0.66,Arousal=0.65"
+PMEmo,217,Dierks Bentley,Black,Black,"Valence=0.57,Arousal=0.61"
+PMEmo,219,䐀椀攀爀欀猀 䈀攀渀琀氀攀礀,䐀爀甀渀欀 伀渀 䄀 倀氀愀渀攀,刀䤀匀䔀刀,"Valence=0.75,Arousal=0.84"
+PMEmo,220,Dierks Bentley,Somewhere on a Beach,Black,"Valence=0.68,Arousal=0.69"
+PMEmo,221,Disciples,On My Mind,On My Mind,"Valence=0.70,Arousal=0.81"
+PMEmo,222,Disturbed,The Sound Of Silence,Immortalized,"Valence=0.35,Arousal=0.66"
+PMEmo,224,Drake,Sneakin',Sneakin',"Valence=0.50,Arousal=0.59"
+PMEmo,225,Drake,Get It Together,More Life,"Valence=0.53,Arousal=0.41"
+PMEmo,227,Drake,Jumpman,What a Time To Be Alive,"Valence=0.42,Arousal=0.47"
+PMEmo,228,Drake,KMT,More Life,"Valence=0.42,Arousal=0.55"
+PMEmo,229,Drake,No Long Talk,More Life,"Valence=0.40,Arousal=0.45"
+PMEmo,23,Alessia Cara,How Far I'll Go(Alessia Cara Version),Moana (Original Motion Picture Soundtrack),"Valence=0.68,Arousal=0.62"
+PMEmo,230,Drake,Glow,More Life,"Valence=0.74,Arousal=0.36"
+PMEmo,231,Drake,With You,Views,"Valence=0.55,Arousal=0.54"
+PMEmo,232,Drake,Faithful,Views,"Valence=0.47,Arousal=0.41"
+PMEmo,233,Drake,Controlla,Controlla,"Valence=0.49,Arousal=0.40"
+PMEmo,234,Drake,Portland,More Life,"Valence=0.44,Arousal=0.39"
+PMEmo,235,Drake,Too Good,Views,"Valence=0.70,Arousal=0.45"
+PMEmo,236,Drake,4422,More Life,"Valence=0.30,Arousal=0.31"
+PMEmo,237,Drake,Pop Style,Pop Style,"Valence=0.31,Arousal=0.53"
+PMEmo,238,Drake,One Dance,Views,"Valence=0.56,Arousal=0.64"
+PMEmo,239,Drake,Ice Melts,More Life,"Valence=0.69,Arousal=0.62"
+PMEmo,241,Drake,9,Views,"Valence=0.56,Arousal=0.53"
+PMEmo,242,Drake,Blem,More Life,"Valence=0.61,Arousal=0.62"
+PMEmo,244,Drake,Childs Play,Views,"Valence=0.41,Arousal=0.29"
+PMEmo,249,Drake,Fake Love,Fake Love,"Valence=0.45,Arousal=0.54"
+PMEmo,25,Alessia Cara,Scars To Your Beautiful,Know-It-All (Deluxe),"Valence=0.78,Arousal=0.76"
+PMEmo,251,Drake,Feel No Ways,Views,"Valence=0.47,Arousal=0.43"
+PMEmo,252,Drake,Fire & Desire,Views,"Valence=0.36,Arousal=0.14"
+PMEmo,253,Drake,Free Smoke,More Life,"Valence=0.53,Arousal=0.61"
+PMEmo,257,Drake,Gyalchester,More Life,"Valence=0.31,Arousal=0.41"
+PMEmo,258,Drake,Hype,Views,"Valence=0.47,Arousal=0.68"
+PMEmo,26,Alessia Cara,Wild Things(NuKid Remix),Wild Things (The Remixes),"Valence=0.76,Arousal=0.82"
+PMEmo,260,Drake,Jorja Interlude,More Life,"Valence=0.30,Arousal=0.46"
+PMEmo,263,Drake,Keep The Family Close,Views,"Valence=0.35,Arousal=0.41"
+PMEmo,265,Drake,Madiba Riddim,More Life,"Valence=0.68,Arousal=0.51"
+PMEmo,267,Drake,Nothings Into Somethings,More Life,"Valence=0.35,Arousal=0.28"
+PMEmo,269,Drake,Passionfruit,More Life,"Valence=0.64,Arousal=0.59"
+PMEmo,273,Drake,Redemption,Views,"Valence=0.36,Arousal=0.34"
+PMEmo,275,Drake,Since Way Back,More Life,"Valence=0.41,Arousal=0.34"
+PMEmo,276,Drake,Skepta Interlude,More Life,"Valence=0.51,Arousal=0.65"
+PMEmo,277,Drake,Sneakin’,Sneakin’,"Valence=0.39,Arousal=0.20"
+PMEmo,279,Drake,Summer Sixteen,Summer Sixteen,"Valence=0.46,Arousal=0.36"
+PMEmo,28,Alex Da Kid,Not Easy,Not Easy,"Valence=0.57,Arousal=0.49"
+PMEmo,280,Drake,Teenage Fever,More Life,"Valence=0.53,Arousal=0.33"
+PMEmo,282,Drake,"Two Birds, One Stone","Two Birds, One Stone","Valence=0.53,Arousal=0.54"
+PMEmo,283,Drake,U With Me?,Views,"Valence=0.54,Arousal=0.57"
+PMEmo,284,Drake,Views,Views,"Valence=0.49,Arousal=0.46"
+PMEmo,285,Drake,Weston Road Flows,Views,"Valence=0.53,Arousal=0.51"
+PMEmo,287,Dreezy,Body,Body,"Valence=0.69,Arousal=0.50"
+PMEmo,29,Alisan Porter,Down That Road (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.68,Arousal=0.70"
+PMEmo,292,Dua Lipa,Blow Your Mind (Mwah),Blow Your Mind (Mwah),"Valence=0.86,Arousal=0.95"
+PMEmo,293,Dustin Lynch,Mind Reader,Where It's At 1,"Valence=0.64,Arousal=0.64"
+PMEmo,294,Dustin Lynch,Seein' Red,Seein' Red,"Valence=0.55,Arousal=0.70"
+PMEmo,295,Dustin Lynch,Small Town Boy,Small Town Boy,"Valence=0.75,Arousal=0.72"
+PMEmo,296,Dwayne Johnson,You're Welcome,Moana (Original Motion Picture Soundtrack),"Valence=0.80,Arousal=0.81"
+PMEmo,297,Dylan Scott,My Girl,Dylan Scott,"Valence=0.70,Arousal=0.68"
+PMEmo,298,Ed Sheeran,Castle on the Hill,÷ (Deluxe),"Valence=0.74,Arousal=0.72"
+PMEmo,299,Ed Sheeran,How Would You Feel (Paean),÷ (Deluxe),"Valence=0.65,Arousal=0.25"
+PMEmo,30,Alisan Porter,Somewhere (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.54,Arousal=0.61"
+PMEmo,300,Ed Sheeran,06-ed_sheeran-photograph,X (Deluxe Edition),"Valence=0.76,Arousal=0.55"
+PMEmo,301,Ed Sheeran,Shape of You,Shape of You,"Valence=0.79,Arousal=0.82"
+PMEmo,302,Ed Sheeran,Thinking Out Loud,Bridget Jones’s Baby,"Valence=0.57,Arousal=0.50"
+PMEmo,303,Electric Light Orchestra,Mr. Blue Sky (Album Version),Flashback,"Valence=0.61,Arousal=0.74"
+PMEmo,304,Elle King,America's Sweetheart,Love Stuff,"Valence=0.74,Arousal=0.90"
+PMEmo,305,Ellie Goulding,Still Falling For You,Still Falling For You,"Valence=0.75,Arousal=0.94"
+PMEmo,306,Elton John,Step Into Christmas,Caribou,"Valence=0.88,Arousal=0.78"
+PMEmo,307,Emeli Sandé,Hurts,Hurts,"Valence=0.57,Arousal=0.90"
+PMEmo,308,Eminem,Love The Way You Lie,Now Thats What I disposition Music! 37 (US Retail),"Valence=0.85,Arousal=0.81"
+PMEmo,309,°¢Ä·Eminem,Infinite,Unknown,"Valence=0.39,Arousal=0.35"
+PMEmo,31,Amine,Caroline,Caroline,"Valence=0.44,Arousal=0.62"
+PMEmo,310,Emma Watson,Something There,Beauty and the Beast (Original Motion Picture Soundtrack),"Valence=0.68,Arousal=0.40"
+PMEmo,312,Enrique Iglesias,DUELE EL CORAZON,DUELE EL CORAZON,"Valence=0.79,Arousal=0.84"
+PMEmo,313,Eric Church,Kill a Word,Mr. Misunderstood,"Valence=0.66,Arousal=0.54"
+PMEmo,314,Eric Church,Record Year,Mr. Misunderstood,"Valence=0.65,Arousal=0.56"
+PMEmo,315,Evanescence,Bring Me To Life,Daredevil - The Album (Music From The Motion Picture),"Valence=0.65,Arousal=0.85"
+PMEmo,316,Ewan McGregor,Be Our Guest,Beauty and the Beast (Original Motion Picture Soundtrack),"Valence=0.86,Arousal=0.89"
+PMEmo,317,Ewan McGregor,Be Our Guest,Beauty and the Beast (Original Motion Picture Soundtrack),"Valence=0.86,Arousal=0.93"
+PMEmo,318,Emily Warren,Capsize,Capsize,"Valence=0.82,Arousal=0.72"
+PMEmo,319,Faith Hill,Keep Your Eyes On Me,Stars (The Shack Version),"Valence=0.50,Arousal=0.74"
+PMEmo,32,Andra Day,Rise Up,Rise Up,"Valence=0.39,Arousal=0.57"
+PMEmo,321,Fat Joe,All the Way Up,All the Way Up,"Valence=0.49,Arousal=0.69"
+PMEmo,323,Fergie,Life Goes On,Life Goes On,"Valence=0.72,Arousal=0.86"
+PMEmo,324,Fergie,M.I.L.F. $,M.I.L.F. $,"Valence=0.55,Arousal=0.89"
+PMEmo,325,Fetty Wap,Wake Up,Wake Up,"Valence=0.61,Arousal=0.49"
+PMEmo,326,Fifth Harmony,All In My Head (Flex),7/27,"Valence=0.70,Arousal=0.69"
+PMEmo,327,Fifth Harmony,Work From Home,7/27,"Valence=0.74,Arousal=0.76"
+PMEmo,329,Fifth Harmony,That's My Girl,7/27 (Deluxe),"Valence=0.79,Arousal=0.94"
+PMEmo,33,Andy Grammer,Fresh Eyes,Fresh Eyes,"Valence=0.75,Arousal=0.64"
+PMEmo,331,Fitz,HandClap,Fitz & the Tantrums,"Valence=0.80,Arousal=0.85"
+PMEmo,332,Fleetwood Mac,The Chain,Rumours (Super Deluxe),"Valence=0.72,Arousal=0.76"
+PMEmo,333,Flo Rida,Cake,This Is A Challenge,"Valence=0.78,Arousal=0.79"
+PMEmo,334,Flo Rida,My House,空,"Valence=0.56,Arousal=0.62"
+PMEmo,336,Florida Georgia Line,"God, Your Mama, And Me",Dig Your Roots,"Valence=0.72,Arousal=0.75"
+PMEmo,337,Florida Georgia Line,May We All,Dig Your Roots,"Valence=0.81,Arousal=0.68"
+PMEmo,338,Florida Georgia Line,Confession,Anything Goes,"Valence=0.71,Arousal=0.82"
+PMEmo,339,Florida Georgia Line,H.O.L.Y,H.O.L.Y,"Valence=0.79,Arousal=0.72"
+PMEmo,34,Andy Williams,It's the Most Wonderful Time of the Year,Five Songs Of Christmas - Classic,"Valence=0.84,Arousal=0.69"
+PMEmo,341,Florida Georgia Line,Smooth,Dig Your Roots,"Valence=0.80,Arousal=0.85"
+PMEmo,342,Flume,Never Be Like You,Never Be Like You,"Valence=0.69,Arousal=0.75"
+PMEmo,343,Flume,Say It,Say It,"Valence=0.55,Arousal=0.65"
+PMEmo,347,Frank Ocean,Chanel,Chanel,"Valence=0.34,Arousal=0.19"
+PMEmo,348,Frank Ocean,Ivy,Blonde,"Valence=0.30,Arousal=0.46"
+PMEmo,349,Frank Ocean,Nights,Blonde,"Valence=0.34,Arousal=0.28"
+PMEmo,35,Anna Kendrick,True Colors,True Colors,"Valence=0.62,Arousal=0.34"
+PMEmo,350,Frank Ocean,Nikes,Blonde,"Valence=0.38,Arousal=0.26"
+PMEmo,351,Frank Ocean,Pink + White,Blonde,"Valence=0.55,Arousal=0.28"
+PMEmo,353,Frankie Ballard,It All Started with a Beer,El Rio,"Valence=0.59,Arousal=0.53"
+PMEmo,354,French Montana,No Shopping,No Shopping,"Valence=0.51,Arousal=0.35"
+PMEmo,355,French Montana,Lockjaw,Lockjaw,"Valence=0.33,Arousal=0.45"
+PMEmo,356,French Montana,Unforgettable,Unforgettable,"Valence=0.56,Arousal=0.47"
+PMEmo,358,Future Pigeon,Wicked Version,The Echodelic Sounds Of Future Pigeon,"Valence=0.69,Arousal=0.39"
+PMEmo,360,Future,Selfish,HNDRXX,"Valence=0.55,Arousal=0.59"
+PMEmo,361,Future,Comin Out Strong,HNDRXX,"Valence=0.55,Arousal=0.61"
+PMEmo,362,Future,Low Life (feat. The Weeknd),EVOL,"Valence=0.46,Arousal=0.40"
+PMEmo,364,Future,Draco,FUTURE,"Valence=0.40,Arousal=0.38"
+PMEmo,366,Future,Mask Off,FUTURE,"Valence=0.29,Arousal=0.26"
+PMEmo,367,Future,New Level,New Level,"Valence=0.31,Arousal=0.61"
+PMEmo,368,Future,Rent Money,FUTURE,"Valence=0.57,Arousal=0.60"
+PMEmo,37,Anne-Marie,Alarm,Alarm,"Valence=0.75,Arousal=0.80"
+PMEmo,370,Future,Super Trapper,FUTURE,"Valence=0.25,Arousal=0.40"
+PMEmo,372,Future,Zoom,FUTURE,"Valence=0.17,Arousal=0.82"
+PMEmo,373,Bebe Rexha,"Me, Myself & I","Me, Myself & I (Marc Stout & Scott Svejda Remix	)","Valence=0.72,Arousal=0.85"
+PMEmo,375,G-Eazy,Good Life,Fast & Furious 8: The Album,"Valence=0.78,Arousal=0.74"
+PMEmo,376,G-Eazy,Some Kind Of Drug,When It's Dark Out,"Valence=0.66,Arousal=0.60"
+PMEmo,379,Galantis,Love On Me,Love On Me,"Valence=0.91,Arousal=0.94"
+PMEmo,38,Anne-Marie,Ciao Adios,Ciao Adios,"Valence=0.84,Arousal=0.89"
+PMEmo,381,Galantis,No Money,No Money,"Valence=0.80,Arousal=0.94"
+PMEmo,382,Gavin DeGraw,She Sets The City On Fire,She Sets The City On Fire,"Valence=0.86,Arousal=0.89"
+PMEmo,383,George Michael,Careless Whisper,The Final,"Valence=0.41,Arousal=0.50"
+PMEmo,385,George Michael,Freedom! '90(Remastered),Happiness Forever,"Valence=0.75,Arousal=0.82"
+PMEmo,386,Ghost Town DJ's,My Boo,Boom! 17 Explosive Hits,"Valence=0.59,Arousal=0.56"
+PMEmo,388,Gnash,home,home,"Valence=0.71,Arousal=0.57"
+PMEmo,389,Gnash,I Hate U I Love U,I Hate U I Love U,"Valence=0.36,Arousal=0.23"
+PMEmo,39,Ansel Elgort,Thief,Thief,"Valence=0.59,Arousal=0.88"
+PMEmo,391,Godsmack,Come Together,Live & Inspired,"Valence=0.60,Arousal=0.85"
+PMEmo,393,Gorillaz,Saturnz Barz,Humanz (Deluxe),"Valence=0.46,Arousal=0.54"
+PMEmo,394,Grace,You Don't Own Me,You Don't Own Me,"Valence=0.68,Arousal=0.75"
+PMEmo,395,Grace,You Don't Own Me,#LOVE...heartbreak,"Valence=0.68,Arousal=0.71"
+PMEmo,396,Granger Smith,If the Boot Fits,Remington,"Valence=0.71,Arousal=0.65"
+PMEmo,397,Gucci Mane,Both,The Return of East Atlanta Santa,"Valence=0.34,Arousal=0.45"
+PMEmo,398,Kanye West,P**** Print (feat. Kanye West),Everybody Looking,"Valence=0.44,Arousal=0.44"
+PMEmo,399,Drake,Back On Road,Everybody Looking,"Valence=0.45,Arousal=0.61"
+PMEmo,4,21 Savage,X Bitch (feat. Future),Savage Mode,"Valence=0.29,Arousal=0.26"
+PMEmo,40,Ariana Grande,Beauty and the Beast,"Beauty and the Beast (From ""Beauty and the Beast"")","Valence=0.66,Arousal=0.38"
+PMEmo,401,Gucci Mane,Make Love,Make Love,"Valence=0.25,Arousal=0.35"
+PMEmo,402,Gwen Stefani,Hollaback Girl,Love Angel Music Baby Deluxe,"Valence=0.69,Arousal=0.85"
+PMEmo,403,HAIM,Want You Back,Want You Back,"Valence=0.81,Arousal=0.76"
+PMEmo,405,Hailee Steinfeld,Most Girls,Most Girls,"Valence=0.71,Arousal=0.74"
+PMEmo,407,Halsey,Eyes Closed,Eyes Closed,"Valence=0.56,Arousal=0.79"
+PMEmo,408,Halsey,Not Afraid Anymore,Not Afraid Anymore,"Valence=0.61,Arousal=0.91"
+PMEmo,409,Halsey,Not Afraid Anymore,Not Afraid Anymore,"Valence=0.66,Arousal=0.91"
+PMEmo,410,Halsey,Now Or Never,Now Or Never,"Valence=0.45,Arousal=0.70"
+PMEmo,411,Hannah Huston,Every Breath You Take (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.64,Arousal=0.17"
+PMEmo,412,Hannah Huston,I Call the Shots (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.44,Arousal=0.50"
+PMEmo,413,Harry Styles,Sign of the Times,Sign of the Times,"Valence=0.68,Arousal=0.57"
+PMEmo,414,Harry Styles,Sweet Creature,Harry Styles,"Valence=0.55,Arousal=0.58"
+PMEmo,415,Hey Violet,Guys My Age(Stripped),Guys My Age (Stripped),"Valence=0.52,Arousal=0.48"
+PMEmo,417,High Valley,Make You Mine,Make You Mine,"Valence=0.78,Arousal=0.86"
+PMEmo,418,Hillsong Worship,13 What a Beautiful Name (Acoustic),Let There Be Light (Deluxe),"Valence=0.38,Arousal=0.42"
+PMEmo,419,Hunter Plake,Higher Love,Higher Love (The Voice Performance),"Valence=0.23,Arousal=0.09"
+PMEmo,42,Ariana Grande,Dangerous Woman,KISS Kesähitti,"Valence=0.60,Arousal=0.76"
+PMEmo,420,Iggy Azalea,Mo Bounce,Mo Bounce,"Valence=0.55,Arousal=0.78"
+PMEmo,421,Iggy Azalea,Team(Young Bombs Remix),Team (Young Bombs Remix),"Valence=0.72,Arousal=0.85"
+PMEmo,423,Imagine Dragons,Believer,Evolve,"Valence=0.65,Arousal=0.89"
+PMEmo,424,Imagine Dragons,Not Today,Me Before You (Original Motion Picture Soundtrack),"Valence=0.65,Arousal=0.55"
+PMEmo,425,Imagine Dragons,Radioactive,Continued Silence,"Valence=0.81,Arousal=0.95"
+PMEmo,426,Imagine Dragons,Thunder,Thunder,"Valence=0.71,Arousal=0.82"
+PMEmo,427,Imagine Dragons,Whatever It Takes,Whatever It Takes,"Valence=0.70,Arousal=0.78"
+PMEmo,428,J Hus,Did You See,Did You See,"Valence=0.56,Arousal=0.49"
+PMEmo,429,J. Cole,4 Your Eyez Only,4 Your Eyez Only,"Valence=0.40,Arousal=0.23"
+PMEmo,43,Ariana Grande,One Last Time,My Everything (Deluxe),"Valence=0.79,Arousal=0.86"
+PMEmo,431,J. Cole,Deja Vu,4 Your Eyez Only,"Valence=0.64,Arousal=0.53"
+PMEmo,432,J. Cole,False Prophets,False Prophets,"Valence=0.40,Arousal=0.38"
+PMEmo,433,J. Cole,Foldin Clothes,4 Your Eyez Only,"Valence=0.50,Arousal=0.36"
+PMEmo,434,J. Cole,For Whom the Bell Tolls,4 Your Eyez Only,"Valence=0.39,Arousal=0.51"
+PMEmo,435,J. Cole,Immortal,4 Your Eyez Only,"Valence=0.35,Arousal=0.28"
+PMEmo,436,J. Cole,Neighbors,4 Your Eyez Only,"Valence=0.35,Arousal=0.25"
+PMEmo,437,J. Cole,"She's Mine, Pt. 1",4 Your Eyez Only,"Valence=0.38,Arousal=0.19"
+PMEmo,438,J. Cole,"She's Mine, Pt. 2",4 Your Eyez Only,"Valence=0.33,Arousal=0.34"
+PMEmo,439,J. Cole,Ville Mentality,4 Your Eyez Only,"Valence=0.26,Arousal=0.23"
+PMEmo,44,Artists Of Then,Forever Country,Forever Country,"Valence=0.68,Arousal=0.69"
+PMEmo,440,J. Cole,everbody dies,everybody dies,"Valence=0.29,Arousal=0.30"
+PMEmo,441,JP Cooper,September Song,September Song,"Valence=0.69,Arousal=0.68"
+PMEmo,442,Jacob Sartorius,Hit or Miss - Jacob Sartorius,Hit or Miss,"Valence=0.61,Arousal=0.71"
+PMEmo,443,Jake Owen,American Country Love Song,American Country Love Song,"Valence=0.68,Arousal=0.70"
+PMEmo,444,Jake Owen,If He Ain't Gonna Love You,Good Company,"Valence=0.76,Arousal=0.74"
+PMEmo,445,James Arthur,Safe Inside,Back from the Edge,"Valence=0.46,Arousal=0.59"
+PMEmo,446,James Arthur,Say You Won't Let Go,Say You Won't Let Go,"Valence=0.49,Arousal=0.42"
+PMEmo,447,James Bay,Let It Go,Power Hits 2015,"Valence=0.60,Arousal=0.59"
+PMEmo,448,Jason Aldean,A Little More Summertime,They Don't Know,"Valence=0.74,Arousal=0.78"
+PMEmo,449,Jason Aldean,Any Ol' Barstool,They Don't Know,"Valence=0.74,Arousal=0.70"
+PMEmo,450,Jason Aldean,Lights Come On,Lights Come On,"Valence=0.76,Arousal=0.75"
+PMEmo,451,Jason Derulo,If It Ain't Love,If It Ain't Love,"Valence=0.84,Arousal=0.90"
+PMEmo,452,Jax Jones,You Don't Know Me,You Don't Know Me,"Valence=0.74,Arousal=0.65"
+PMEmo,454,Jennifer Lopez,Love Make the World Go Round,Love Make the World Go Round,"Valence=0.81,Arousal=0.84"
+PMEmo,455,Jennifer Lopez,Ain't Your Mama,Ain't Your Mama,"Valence=0.74,Arousal=0.88"
+PMEmo,456,Jennifer Nettles,Unlove You,Playing With Fire,"Valence=0.53,Arousal=0.70"
+PMEmo,457,Jeremih,oui,Late Nights: The Album,"Valence=0.79,Arousal=0.66"
+PMEmo,458,Jesse Larson,Woman,Woman (The Voice Performance),"Valence=0.74,Arousal=0.75"
+PMEmo,46,Ayo & Teo,Rolex,Rolex,"Valence=0.57,Arousal=0.84"
+PMEmo,460,John Legend,Love Me Now,Love Me Now,"Valence=0.70,Arousal=0.80"
+PMEmo,461,John Mayer,Changing,The Search for Everything - Wave One,"Valence=0.64,Arousal=0.38"
+PMEmo,462,John Mayer,Love On The Weekend,Love On The Weekend,"Valence=0.65,Arousal=0.41"
+PMEmo,463,John Mayer,Moving On and Getting Over,The Search for Everything - Wave One,"Valence=0.56,Arousal=0.30"
+PMEmo,465,Johnny Cash,Ain't No Grave (Album Version),American VI:  Ain't No Grave,"Valence=0.42,Arousal=0.34"
+PMEmo,466,Jon Bellion,All Time Low (explicit),All Time Low,"Valence=0.74,Arousal=0.65"
+PMEmo,468,Jon Pardi,Dirt On My Boots,California Sunrise,"Valence=0.79,Arousal=0.76"
+PMEmo,469,Jon Pardi,Head Over Boots,Head Over Boots,"Valence=0.71,Arousal=0.71"
+PMEmo,47,Baby Bash,Suga Suga,Now That's What I Call Music! Vol. 14,"Valence=0.46,Arousal=0.40"
+PMEmo,470,JP Cooper,Perfect Strangers,Perfect Strangers,"Valence=0.85,Arousal=0.76"
+PMEmo,471,Jonas Blue,By Your Side,By Your Side,"Valence=0.79,Arousal=0.88"
+PMEmo,472,Jonas Blue,Mama,Mama,"Valence=0.66,Arousal=0.61"
+PMEmo,476,José Feliciano,Feliz Navidad,Feliz Navidad,"Valence=0.86,Arousal=0.70"
+PMEmo,477,Josh Ritter,Homecoming,Sermon on the Rocks,"Valence=0.71,Arousal=0.57"
+PMEmo,478,Josh Turner,Hometown Girl,Hometown Girl,"Valence=0.68,Arousal=0.65"
+PMEmo,479,Joy Villa,Get Your Freedom,Get Your Freedom,"Valence=0.39,Arousal=0.23"
+PMEmo,48,Band Aid 20,Do They Know It's Christmas?,Do They Know Its Christmas?,"Valence=0.84,Arousal=0.72"
+PMEmo,480,Joy Villa,I Make the Static,I Make the Static,"Valence=0.64,Arousal=0.79"
+PMEmo,481,Joy Villa,The Darkness,I Make the Static,"Valence=0.61,Arousal=0.69"
+PMEmo,482,Joy Villa,Vagabonds,I Make the Static,"Valence=0.57,Arousal=0.56"
+PMEmo,483,Juicy J,Ain't Nothing,Ain't Nothing,"Valence=0.51,Arousal=0.57"
+PMEmo,484,Julia Michaels,Issues,Issues,"Valence=0.62,Arousal=0.68"
+PMEmo,485,Justin Bieber,. Company,Purpose (Deluxe),"Valence=0.70,Arousal=0.71"
+PMEmo,486,Justin Bieber,. Love Yourself,Purpose (Deluxe),"Valence=0.57,Arousal=0.38"
+PMEmo,487,Justin Bieber,. Sorry,Purpose (Deluxe),"Valence=0.78,Arousal=0.80"
+PMEmo,488,Justin Moore,You Look Like I Need A Drink,You Look Like I Need A Drink,"Valence=0.60,Arousal=0.66"
+PMEmo,489,Justin Timberlake,justin timberlake - can't stop the feeling! (original song from dreamworks animation’s “trolls”),"CAN'T STOP THE FEELING! (Original Song From DreamWorks Animation's ""Trolls"")","Valence=0.80,Arousal=0.91"
+PMEmo,49,Bastille,Good Grief,Good Grief,"Valence=0.71,Arousal=0.79"
+PMEmo,490,KLOE,Liability,Liability,"Valence=0.69,Arousal=0.82"
+PMEmo,491,Kaleo,Way Down We Go,A/B,"Valence=0.44,Arousal=0.57"
+PMEmo,492,Kane Brown,What Ifs,Kane Brown,"Valence=0.79,Arousal=0.90"
+PMEmo,493,Kane Brown,Ain't No Stopping Us Now,Ain't No Stopping Us Now,"Valence=0.75,Arousal=0.74"
+PMEmo,494,Kanye West,01 Champions,Champions,"Valence=0.46,Arousal=0.80"
+PMEmo,495,Kanye West,Kanye West Ft. Rihanna - Famous (New Version) (CDQ),Famous,"Valence=0.47,Arousal=0.84"
+PMEmo,496,Kanye West,Fade,The Life Of Pablo,"Valence=0.54,Arousal=0.66"
+PMEmo,499,Katy Perry,Bon Appétit,Bon Appétit,"Valence=0.82,Arousal=0.86"
+PMEmo,5,21 Savage,No Heart,Savage Mode,"Valence=0.20,Arousal=0.15"
+PMEmo,50,Beastie Boys,Fight For Your Right,Anthology:  The Sounds Of Science,"Valence=0.59,Arousal=0.84"
+PMEmo,500,Katy Perry,Swish Swish,Swish Swish,"Valence=0.42,Arousal=0.70"
+PMEmo,501,Katy Perry,Chained To The Rhythm,Chained To The Rhythm,"Valence=0.81,Arousal=0.84"
+PMEmo,503,Katy Perry,Katy Perry - Rise (CDQ),Rise,"Valence=0.49,Arousal=0.61"
+PMEmo,504,Kehlani,Kehlani - CRZY,CRZY,"Valence=0.68,Arousal=0.68"
+PMEmo,505,Kehlani,Distraction,Distraction,"Valence=0.61,Arousal=0.65"
+PMEmo,506,Kehlani,Gangsta,Suicide Squad: The Album,"Valence=0.38,Arousal=0.28"
+PMEmo,507,Keith Urban,8,Ripcord,"Valence=0.66,Arousal=0.80"
+PMEmo,508,Keith Urban,7,Ripcord,"Valence=0.54,Arousal=0.36"
+PMEmo,51,Bebe Rexha,I Got You,I Got You,"Valence=0.76,Arousal=0.82"
+PMEmo,510,Keith Urban,Wasted Time,Wasted Time,"Valence=0.82,Arousal=0.71"
+PMEmo,511,Michelle Obama,"Michelle Obama,Kelly Clarkson,Missy Elliott - This Is For My Girls",This Is For My Girls,"Valence=0.74,Arousal=0.69"
+PMEmo,512,Kelly Clarkson,Piece By Piece (Idol Version),Piece by Piece (Idol Version),"Valence=0.42,Arousal=0.31"
+PMEmo,514,Kelsea Ballerini,Peter Pan,The First Time,"Valence=0.75,Arousal=0.85"
+PMEmo,515,Kelsea Ballerini,Yeah Boy,Kelsea Ballerini,"Valence=0.79,Arousal=0.61"
+PMEmo,516,Kendrick Lamar,LOYALTY.,DAMN.,"Valence=0.46,Arousal=0.40"
+PMEmo,517,Kendrick Lamar,XXX.,DAMN.,"Valence=0.42,Arousal=0.26"
+PMEmo,518,Kendrick Lamar,LOVE.,DAMN.,"Valence=0.51,Arousal=0.42"
+PMEmo,519,Kendrick Lamar,BLOOD.,DAMN.,"Valence=0.26,Arousal=0.35"
+PMEmo,52,Belly,Might Not,Up For Days,"Valence=0.46,Arousal=0.59"
+PMEmo,520,Kendrick Lamar,DNA.,DAMN.,"Valence=0.15,Arousal=0.66"
+PMEmo,521,Kendrick Lamar,DUCKWORTH.,DAMN.,"Valence=0.38,Arousal=0.51"
+PMEmo,522,Kendrick Lamar,ELEMENT.,DAMN.,"Valence=0.46,Arousal=0.54"
+PMEmo,523,Kendrick Lamar,FEAR.,DAMN.,"Valence=0.34,Arousal=0.34"
+PMEmo,524,Kendrick Lamar,FEEL.,DAMN.,"Valence=0.28,Arousal=0.51"
+PMEmo,525,Kendrick Lamar,GOD.,DAMN.,"Valence=0.28,Arousal=0.24"
+PMEmo,526,Kendrick Lamar,HUMBLE.,DAMN.,"Valence=0.53,Arousal=0.46"
+PMEmo,530,Kendrick Lamar,LUST.,DAMN.,"Valence=0.34,Arousal=0.30"
+PMEmo,531,Kendrick Lamar,PRIDE.,DAMN.,"Valence=0.30,Arousal=0.23"
+PMEmo,532,Kendrick Lamar,The Heart Part 4,The Heart Part 4,"Valence=0.34,Arousal=0.54"
+PMEmo,534,Kendrick Lamar,YAH.,DAMN.,"Valence=0.29,Arousal=0.16"
+PMEmo,535,Kenny Chesney,Setting the World On Fire,Setting the World On Fire,"Valence=0.79,Arousal=0.76"
+PMEmo,536,Kenny Chesney,Bar at the End of the World,Cosmic Hallelujah,"Valence=0.82,Arousal=0.79"
+PMEmo,537,Kenny Chesney,Noise,Noise,"Valence=0.71,Arousal=0.76"
+PMEmo,539,Kent Jones,Don't Mind,Don't Mind,"Valence=0.65,Arousal=0.61"
+PMEmo,54,Ben Rector,Brand New,Brand New,"Valence=0.78,Arousal=0.88"
+PMEmo,540,Keyshia Cole,You,You,"Valence=0.39,Arousal=0.51"
+PMEmo,541,Khalid,Location,Location,"Valence=0.35,Arousal=0.28"
+PMEmo,542,KiD Ink,Promise,Summer in the Winter,"Valence=0.61,Arousal=0.71"
+PMEmo,544,Kid Rock,Picture,The Studio Albums: 1998 - 2012,"Valence=0.62,Arousal=0.45"
+PMEmo,546,Kideko,Crank It (Woah!)(Radio Edit),Crank It (Woah!) (Radio Edit),"Valence=0.57,Arousal=0.79"
+PMEmo,548,Kiiara,Gold,Gold,"Valence=0.55,Arousal=0.45"
+PMEmo,549,Kodak Black,09 Conscience (feat. Future),Painting Pictures,"Valence=0.31,Arousal=0.44"
+PMEmo,55,Big Sean,No Favors,I Decided.,"Valence=0.40,Arousal=0.62"
+PMEmo,550,Kodak Black,Everything 1K,Lil Big Pac,"Valence=0.38,Arousal=0.44"
+PMEmo,551,Kodak Black,Tunnel Vision,Tunnel Vision,"Valence=0.38,Arousal=0.29"
+PMEmo,552,Kungs,This Girl (Kungs Vs. Cookin' On 3 Burners),This Girl (Kungs Vs. Cookin' On 3 Burners),"Valence=0.81,Arousal=0.85"
+PMEmo,554,Kygo,First Time,First Time,"Valence=0.65,Arousal=0.66"
+PMEmo,555,Kygo,It Ain't Me,It Ain't Me,"Valence=0.69,Arousal=0.76"
+PMEmo,558,Kyle,iSpy,iSpy,"Valence=0.51,Arousal=0.55"
+PMEmo,56,Big Sean,Blessings,Dark Sky Paradise (Deluxe),"Valence=0.28,Arousal=0.41"
+PMEmo,560,LCD Soundsystem,call the police,call the police / american dream,"Valence=0.51,Arousal=0.66"
+PMEmo,561,La La Land Cast,Another Day of Sun,La La Land (Original Motion Picture Soundtrack),"Valence=0.89,Arousal=0.82"
+PMEmo,562,Lady Antebellum,You Look Good,You Look Good,"Valence=0.69,Arousal=0.74"
+PMEmo,563,群星쀀,Telephone (Feat. Beyonc?,2011 Grammy Nominees,"Valence=0.69,Arousal=0.74"
+PMEmo,564,Lady GaGa,Just Dance(Richard Vission Remix),Just Dance,"Valence=0.47,Arousal=0.90"
+PMEmo,565,Lady Gaga,A-Yo,A-Yo,"Valence=0.64,Arousal=0.72"
+PMEmo,566,Lady GaGa,Alejandro,The Fame Monster (Deluxe Edition),"Valence=0.72,Arousal=0.78"
+PMEmo,567,Lady GaGa,Applause,ARTPOP,"Valence=0.82,Arousal=0.88"
+PMEmo,568,Lady GaGa,Bad Romance,2010 The Hottest,"Valence=0.82,Arousal=0.97"
+PMEmo,569,Lady Gaga,Born This Way,Born This Way (Bonus Track Version),"Valence=0.65,Arousal=0.70"
+PMEmo,57,Big Sean,Bounce Back,I Decided.,"Valence=0.36,Arousal=0.53"
+PMEmo,570,Lady Gaga,Million Reasons,Joanne (Deluxe),"Valence=0.54,Arousal=0.74"
+PMEmo,571,Lady GaGa,Paparazzi,The Fame,"Valence=0.72,Arousal=0.66"
+PMEmo,572,Lady Gaga,Perfect Illusion,Joanne (Deluxe),"Valence=0.53,Arousal=0.74"
+PMEmo,573,Lady GaGa,Poker Face,The Fame,"Valence=0.76,Arousal=0.76"
+PMEmo,574,Lady Gaga,Lady Gaga - The Cure,The Cure,"Valence=0.78,Arousal=0.79"
+PMEmo,575,Pure Music,The Edge Of Glory (Lady Gaga Tribute) - Instrumental,The Edge Of Glory (Lady Gaga Tribute) - Instrumental,"Valence=0.79,Arousal=0.82"
+PMEmo,576,Lady GaGa,You And I,Born This Way (Special Edition),"Valence=0.71,Arousal=0.71"
+PMEmo,577,Laith Al-Saadi,Morning Light (The Voice Performance),The Complete Season 10 Collection (The Voice Performance),"Valence=0.57,Arousal=0.64"
+PMEmo,578,Lana Del Rey,Lust for Life,Lust for Life,"Valence=0.62,Arousal=0.46"
+PMEmo,579,Lana Del Rey,Love,Love,"Valence=0.23,Arousal=0.26"
+PMEmo,58,Big Sean,Halfway Off the Balcony,I Decided.,"Valence=0.25,Arousal=0.26"
+PMEmo,580,Lauren Alaina,Road Less Traveled,Lauren Alaina,"Valence=0.79,Arousal=0.85"
+PMEmo,582,Lauren Duski,Lauren_Duski_-_Ghost_In_This_House_-_Studio_Version_-_The_Voice_12,Ghost In This House (The Voice Performance),"Valence=0.50,Arousal=0.41"
+PMEmo,583,Lauren Duski,The Dance,The Dance (The Voice Performance),"Valence=0.50,Arousal=0.51"
+PMEmo,584,Lee Brice,Boy,Boy,"Valence=0.46,Arousal=0.38"
+PMEmo,585,Lee Brice,That Don't Sound Like You,I Don't Dance,"Valence=0.46,Arousal=0.53"
+PMEmo,587,Leonard Cohen,Hallelujah((Album Version),Various Positions,"Valence=0.60,Arousal=0.39"
+PMEmo,588,Liam Payne,Strip That Down,Strip That Down,"Valence=0.78,Arousal=0.70"
+PMEmo,589,Lil Uzi Vert,03 Money Longer,Lil Uzi Vert Vs. The World,"Valence=0.49,Arousal=0.55"
+PMEmo,59,Big Sean,Jump Out the Window,I Decided.,"Valence=0.60,Arousal=0.60"
+PMEmo,590,Lil Uzi Vert,XO TOUR Llif3,XO TOUR Llif3,"Valence=0.36,Arousal=0.46"
+PMEmo,591,Lil Uzi Vert,05 You Was Right,Lil Uzi Vert Vs. The World,"Valence=0.35,Arousal=0.25"
+PMEmo,592,Lil Wayne,Sucker For Pain,Suicide Squad: The Album,"Valence=0.41,Arousal=0.41"
+PMEmo,594,Lil Yachty,Peek A Boo,Peek A Boo,"Valence=0.44,Arousal=0.51"
+PMEmo,595,Lil Yachty,One Night (Extended),Lil' Boat,"Valence=0.40,Arousal=0.39"
+PMEmo,597,Linkin Park,Heavy,Heavy,"Valence=0.70,Arousal=0.80"
+PMEmo,598,Linkin Park,Battle Symphony,One More Light,"Valence=0.81,Arousal=0.85"
+PMEmo,599,Little Big Town,Better Man,Better Man,"Valence=0.55,Arousal=0.55"
+PMEmo,6,21 Savage,Red Opps,Red Opps,"Valence=0.35,Arousal=0.51"
+PMEmo,60,Big Sean,Light,I Decided.,"Valence=0.41,Arousal=0.42"
+PMEmo,600,Little Big Town,Girl Crush,Pain Killer,"Valence=0.65,Arousal=0.41"
+PMEmo,601,Little Big Town,One of Those Days,One of Those Days,"Valence=0.70,Arousal=0.69"
+PMEmo,602,Little Big Town,When Someone Stops Loving You,The Breaker,"Valence=0.54,Arousal=0.61"
+PMEmo,603,Little Mix,No More Sad Songs,No More Sad Songs,"Valence=0.71,Arousal=0.81"
+PMEmo,605,Little Mix,Shout Out to My Ex,Glory Days (Deluxe),"Valence=0.88,Arousal=0.94"
+PMEmo,606,Little Mix,Touch,Glory Days (Deluxe),"Valence=0.80,Arousal=0.88"
+PMEmo,607,Locash,I Know Somebody,I Love This Life,"Valence=0.64,Arousal=0.71"
+PMEmo,608,Logan Paul,Help Me Help You,Help Me Help You,"Valence=0.56,Arousal=0.64"
+PMEmo,609,Logic,"Logic,Alessia Cara,Khalid - 1-800-273-8255",1-800-273-8255,"Valence=0.51,Arousal=0.44"
+PMEmo,61,Big Sean,Moves,I Decided.,"Valence=0.28,Arousal=0.38"
+PMEmo,611,Logic,Everybody,Everybody,"Valence=0.47,Arousal=0.68"
+PMEmo,612,Logic,Flexicution,Flexicution,"Valence=0.38,Arousal=0.46"
+PMEmo,613,Looking Glass,BRANDY,Looking Glass,"Valence=0.69,Arousal=0.59"
+PMEmo,614,Lord Huron,The Night We Met,Strange Trails,"Valence=0.49,Arousal=0.29"
+PMEmo,615,Lorde,Green Light,Melodrama,"Valence=0.68,Arousal=0.74"
+PMEmo,616,Louisa Johnson,So Good,So Good,"Valence=0.79,Arousal=0.86"
+PMEmo,617,Luis Fonsi,Despacito,Despacito (Remix),"Valence=0.81,Arousal=0.89"
+PMEmo,621,Lukas Graham,7 Years,Lukas Graham,"Valence=0.55,Arousal=0.36"
+PMEmo,622,Lukas Graham,Mama Said,KISS Kesähitti,"Valence=0.68,Arousal=0.81"
+PMEmo,623,Luke Bryan,Country Girl (Shake It For Me),Tailgates &amp; Tanlines,"Valence=0.78,Arousal=0.85"
+PMEmo,624,Luke Bryan,Fast,Kill the Lights,"Valence=0.55,Arousal=0.57"
+PMEmo,625,Luke Bryan,"Huntin', Fishin' and Lovin' Every Day",Kill the Lights,"Valence=0.65,Arousal=0.75"
+PMEmo,626,Luke Bryan,Move,Kill the Lights,"Valence=0.78,Arousal=0.94"
+PMEmo,627,Luke Combs,Hurricane,This One's for You,"Valence=0.68,Arousal=0.61"
+PMEmo,628,Luke Combs,One Number Away,One Number Away,"Valence=0.62,Arousal=0.61"
+PMEmo,629,Lupe Fiasco,Jump,DROGAS Light,"Valence=0.56,Arousal=0.71"
+PMEmo,63,Big Sean,Owe Me,I Decided.,"Valence=0.46,Arousal=0.38"
+PMEmo,630,Lynyrd Skynyrd,Sweet Home Alabama,Endangered Species,"Valence=0.78,Arousal=0.65"
+PMEmo,631,Machine Gun Kelly,Bad Things,Bad Things,"Valence=0.56,Arousal=0.55"
+PMEmo,632,Machine Gun Kelly,At My Best,At My Best,"Valence=0.69,Arousal=0.86"
+PMEmo,634,MadeinTYO,Uber Everywhere,Uber Everywhere,"Valence=0.24,Arousal=0.23"
+PMEmo,635,Maggie Lindemann,Pretty Girl,Pretty Girl,"Valence=0.82,Arousal=0.64"
+PMEmo,636,Magic!,Red Dress,Red Dress,"Valence=0.75,Arousal=0.76"
+PMEmo,637,Major Lazer,Cold Water (feat. Justin Bieber & MØ),Cold Water (feat. Justin Bieber & MØ),"Valence=0.65,Arousal=0.78"
+PMEmo,638,Major Lazer,Light It Up (Remix),Peace Is the Mission (Extended),"Valence=0.78,Arousal=0.78"
+PMEmo,639,Major Lazer,Run Up,Run Up,"Valence=0.69,Arousal=0.78"
+PMEmo,643,Maluma,Felices los 4,Felices los 4,"Valence=0.59,Arousal=0.55"
+PMEmo,644,Marc E. Bassy,You & Me,You & Me,"Valence=0.76,Arousal=0.74"
+PMEmo,645,Marc E. Bassy,You & Me,You & Me,"Valence=0.61,Arousal=0.60"
+PMEmo,646,Maren Morris,80s Mercedes,Hero,"Valence=0.79,Arousal=0.86"
+PMEmo,647,Maren Morris,I Could Use a Love Song,Hero,"Valence=0.61,Arousal=0.56"
+PMEmo,648,Maren Morris,My Church,Hero,"Valence=0.70,Arousal=0.69"
+PMEmo,649,Maren Morris,Once,Hero,"Valence=0.31,Arousal=0.44"
+PMEmo,65,Billboard Masters,Sweatshirt - Tribute to Jacob Sartorius,Sweatshirt - Tribute to Jacob Sartorius,"Valence=0.75,Arousal=0.59"
+PMEmo,650,Mariah Carey,I Don't,I Don't,"Valence=0.54,Arousal=0.64"
+PMEmo,651,Mariah Carey,All I Want For Christmas Is You(Original Version),Merry Christmas,"Valence=0.78,Arousal=0.82"
+PMEmo,652,Marian Hill,Down,ACT ONE,"Valence=0.68,Arousal=0.55"
+PMEmo,653,Various Artists©,Return Of The Mack,Ministry of Sound R&B Anthems (Dics2),"Valence=0.66,Arousal=0.57"
+PMEmo,654,Mark Ronson,Uptown Funk,Uptown Special,"Valence=0.88,Arousal=0.89"
+PMEmo,656,Maroon 5,Cold,Cold,"Valence=0.41,Arousal=0.49"
+PMEmo,657,Maroon 5,Don't Wanna Know,Don't Wanna Know,"Valence=0.51,Arousal=0.60"
+PMEmo,659,Maroon 5,She Will Be Loved,Songs About Jane,"Valence=0.38,Arousal=0.39"
+PMEmo,66,Billy Currington,It Don't Hurt Like It Used To,Summer Forever,"Valence=0.76,Arousal=0.86"
+PMEmo,660,Marshmello,Alone (Original Mix),Alone,"Valence=0.82,Arousal=0.84"
+PMEmo,661,Bebe Rexha,In The Name Of Love,In The Name Of Love,"Valence=0.55,Arousal=0.64"
+PMEmo,662,Martin Garrix,Scared To Be Lonely,Scared To Be Lonely,"Valence=0.53,Arousal=0.68"
+PMEmo,665,Martin Jensen,Solo Dance,Solo Dance,"Valence=0.75,Arousal=0.75"
+PMEmo,666,Martin Solveig,Places,Places,"Valence=0.70,Arousal=0.68"
+PMEmo,668,Matoma,False Alarm,False Alarm,"Valence=0.65,Arousal=0.72"
+PMEmo,67,Bishop Briggs,River,River,"Valence=0.59,Arousal=0.80"
+PMEmo,670,Matt Terry,When Christmas Comes Around,When Christmas Comes Around,"Valence=0.42,Arousal=0.35"
+PMEmo,671,Meek Mill,Litty (feat. Tory Lanez),DC4,"Valence=0.41,Arousal=0.68"
+PMEmo,672,Meek Mill,Blessed Up,DC4,"Valence=0.46,Arousal=0.55"
+PMEmo,673,Meek Mill,Blue Notes,DC4,"Valence=0.20,Arousal=0.51"
+PMEmo,674,Nicki Minaj,Froze (feat. Lil Uzi Vert & Nicki Minaj),DC4,"Valence=0.25,Arousal=0.39"
+PMEmo,675,Meek Mill,Offended (feat. Young Thug & 21 Savage),DC4,"Valence=0.30,Arousal=0.31"
+PMEmo,676,Meek Mill,On The Regular,DC4,"Valence=0.47,Arousal=0.55"
+PMEmo,677,Meek Mill,The Difference (feat. Quavo),DC4,"Valence=0.36,Arousal=0.56"
+PMEmo,678,Meghan Trainor,Mom,Thank You (Deluxe),"Valence=0.86,Arousal=0.79"
+PMEmo,679,Various Artists,Me Too (Live At Macy's 4th of July),The Sound Of Dance In 2000,"Valence=0.60,Arousal=0.70"
+PMEmo,68,Blackbear,Do Re mi,Digital Druglord,"Valence=0.57,Arousal=0.65"
+PMEmo,681,Meghan Trainor,NO,NO,"Valence=0.70,Arousal=0.80"
+PMEmo,682,MercyME,Even If,Even If,"Valence=0.61,Arousal=0.78"
+PMEmo,683,Michael Bublé,It's Beginning To Look A Lot Like Christmas,Christmas,"Valence=0.74,Arousal=0.24"
+PMEmo,684,Michael Kiwanuka,Cold Little Heart,Love & Hate,"Valence=0.45,Arousal=0.38"
+PMEmo,685,Michael Ray,Think A Little Less,Michael Ray,"Valence=0.74,Arousal=0.62"
+PMEmo,686,Midland,Drinkin' Problem,Midland - EP,"Valence=0.72,Arousal=0.60"
+PMEmo,688,Migos,Bad and Boujee,Bad and Boujee,"Valence=0.46,Arousal=0.46"
+PMEmo,689,Migos,Kelly Price,Culture,"Valence=0.35,Arousal=0.42"
+PMEmo,69,Blake Shelton,A Guy With a Girl,If I'm Honest,"Valence=0.78,Arousal=0.71"
+PMEmo,692,Migos,Call Casting,Culture,"Valence=0.51,Arousal=0.50"
+PMEmo,693,Migos,Culture,Culture,"Valence=0.40,Arousal=0.60"
+PMEmo,694,Migos,Get Right Witcha,Culture,"Valence=0.34,Arousal=0.39"
+PMEmo,697,Migos,T-Shirt,Culture,"Valence=0.49,Arousal=0.70"
+PMEmo,698,Migos,What the Price,Culture,"Valence=0.26,Arousal=0.36"
+PMEmo,699,Mike Perry,The Ocean,The Ocean (Radio Edit),"Valence=0.78,Arousal=0.71"
+PMEmo,7,5 Seconds Of Summer,Girls Talk Boys,Ghostbusters (Original Motion Picture Soundtrack),"Valence=0.72,Arousal=0.70"
+PMEmo,70,Blake Shelton,Came Here to Forget,If I'm Honest,"Valence=0.53,Arousal=0.57"
+PMEmo,700,Mike Posner,I Took a Pill In Ibiza,"At Night, Alone.","Valence=0.47,Arousal=0.35"
+PMEmo,703,Mike Will Made-It,Nothing Is Promised,Nothing Is Promised,"Valence=0.55,Arousal=0.55"
+PMEmo,704,Miley Cyrus,Malibu,Malibu,"Valence=0.70,Arousal=0.62"
+PMEmo,705,Miranda Lambert,Tin Man,The Weight of These Wings,"Valence=0.44,Arousal=0.19"
+PMEmo,706,Miranda Lambert,Vice,Vice,"Valence=0.61,Arousal=0.40"
+PMEmo,707,Missy Elliott,I'm Better,I'm Better,"Valence=0.30,Arousal=0.31"
+PMEmo,708,Missy Elliott,Get Ur Freak On,Miss E...So Addictive,"Valence=0.59,Arousal=0.66"
+PMEmo,71,Blake Shelton,Every Time I Hear That Song,If I'm Honest,"Valence=0.59,Arousal=0.76"
+PMEmo,710,MØ,Final Song,Final Song,"Valence=0.78,Arousal=0.79"
+PMEmo,711,NEIKED,Sexual,Sexual,"Valence=0.68,Arousal=0.53"
+PMEmo,713,Nevada,The Mack,The Mack,"Valence=0.74,Arousal=0.69"
+PMEmo,715,New Edition,Can You Stand the Rain,"Slow Jam Classic, Vol. 2","Valence=0.53,Arousal=0.33"
+PMEmo,716,New Tribute Kings,Starboy(Originally Performed ByThe Weeknd Feat. Daft Punk),It's The Hits 2016! Vol. 12,"Valence=0.53,Arousal=0.50"
+PMEmo,717,Niall Horan,Slow Hands,Slow Hands,"Valence=0.69,Arousal=0.54"
+PMEmo,718,Niall Horan,This Town,This Town,"Valence=0.59,Arousal=0.51"
+PMEmo,719,Nick Jonas,Bom Bidi Bom,Fifty Shades Darker (Original Motion Picture Soundtrack),"Valence=0.56,Arousal=0.53"
+PMEmo,72,Blake Shelton,Go Ahead and Break My Heart,If I'm Honest,"Valence=0.69,Arousal=0.75"
+PMEmo,720,Nick Jonas,Close,Close (Remixes),"Valence=0.64,Arousal=0.74"
+PMEmo,722,Nick Jonas,Bacon,Last Year Was Complicated,"Valence=0.65,Arousal=0.57"
+PMEmo,726,Nick Jonas,Jealous,Nick Jonas,"Valence=0.71,Arousal=0.74"
+PMEmo,727,Nicki Minaj,No Frauds,No Frauds,"Valence=0.47,Arousal=0.55"
+PMEmo,728,Nicki Minaj,Changed It,Changed It,"Valence=0.28,Arousal=0.44"
+PMEmo,729,Nicki Minaj,Black Barbies,Black Barbies1,"Valence=0.40,Arousal=0.53"
+PMEmo,73,Blake Shelton,She's Got a Way With Words,If I'm Honest,"Valence=0.69,Arousal=0.54"
+PMEmo,730,Nicki Minaj,Regret In Your Tears,Regret In Your Tears,"Valence=0.57,Arousal=0.55"
+PMEmo,731,Nicky Jam,El Amante,Fénix,"Valence=0.70,Arousal=0.69"
+PMEmo,732,Nicky Jam,Hasta el Amanecer,Hasta el Amanecer,"Valence=0.61,Arousal=0.64"
+PMEmo,733,Noah Cyrus,Make Me (Cry),Make Me (Cry),"Valence=0.60,Arousal=0.50"
+PMEmo,734,Noah Cyrus,I'm Stuck,I'm Stuck,"Valence=0.82,Arousal=0.84"
+PMEmo,736,O.T. Genasis,Cut It (feat. Young Dolph),Cut It,"Valence=0.41,Arousal=0.49"
+PMEmo,738,Old Dominion,No Such Thing as a Broken Heart,No Such Thing as a Broken Heart,"Valence=0.71,Arousal=0.59"
+PMEmo,739,Old Dominion,Snapback,Snapback,"Valence=0.69,Arousal=0.69"
+PMEmo,74,Blink 182,Bored To Death,California,"Valence=0.78,Arousal=0.89"
+PMEmo,740,Old Dominion,Song for Another Time,Meat and Candy,"Valence=0.75,Arousal=0.80"
+PMEmo,741,Olivia O'Brien,Hate U Love U,Hate U Love U,"Valence=0.42,Arousal=0.47"
+PMEmo,742,Olly Murs,Grow Up,Grow Up,"Valence=0.72,Arousal=0.72"
+PMEmo,743,Olly Murs,You Don't Know Love,You Don't Know Love,"Valence=0.72,Arousal=0.85"
+PMEmo,744,OneRepublic,Kids,Kids,"Valence=0.72,Arousal=0.81"
+PMEmo,745,OneRepublic,OneRepublic - Wherever I Go (CDQ) (HipHopStoners.com),Wherever I Go,"Valence=0.61,Arousal=0.75"
+PMEmo,746,Opetaia Foa'i,We Know The Way,"We Know The Way (From ""Moana"")","Valence=0.79,Arousal=0.66"
+PMEmo,747,P!NK,Just Like Fire,Alice Through the Looking Glass (Original Motion Picture Soundtrack),"Valence=0.78,Arousal=0.80"
+PMEmo,748,PARTYNEXTDOOR,Come and See Me,Come and See Me,"Valence=0.46,Arousal=0.36"
+PMEmo,749,PARTYNEXTDOOR,Not Nice,Not Nice,"Valence=0.49,Arousal=0.53"
+PMEmo,75,Blink-182,Rabbit Hole,Rabbit Hole,"Valence=0.74,Arousal=0.96"
+PMEmo,750,PLAYBOI CARTI,Magnolia,Playboi Carti,"Valence=0.26,Arousal=0.40"
+PMEmo,751,PLAYBOI CARTI,Woke Up Like This,Woke Up Like This,"Valence=0.53,Arousal=0.59"
+PMEmo,752,Panic! At The Disco,Bohemian Rhapsody,Suicide Squad: The Album,"Valence=0.79,Arousal=0.84"
+PMEmo,753,Panic! At The Disco,Death Of A Bachelor,Death Of A Bachelor,"Valence=0.62,Arousal=0.76"
+PMEmo,754,Paramore,Hard Times,Hard Times,"Valence=0.80,Arousal=0.65"
+PMEmo,755,Paul McCartney,Wonderful Christmastime [Edited Version],McCartney II,"Valence=0.62,Arousal=0.51"
+PMEmo,757,Pentatonix,"Mary, Did You Know?",That's Christmas To Me,"Valence=0.38,Arousal=0.66"
+PMEmo,758,Piko-Taro,Pen Pineapple Apple Pen,Pen Pineapple Apple Pen,"Valence=0.62,Arousal=0.84"
+PMEmo,759,Piko-Taro,Pen Pineapple Apple Pen,Pen Pineapple Apple Pen,"Valence=0.84,Arousal=0.74"
+PMEmo,76,Bob Marley,Is This Love (Extended Mix),Is This Love,"Valence=0.65,Arousal=0.64"
+PMEmo,760,Pitbull,Messin' Around,Messin' Around,"Valence=0.74,Arousal=0.79"
+PMEmo,761,Pitbull,Greenlight,Greenlight,"Valence=0.79,Arousal=0.78"
+PMEmo,763,Plain White T's,Hey There Delilah (Bonus),Every Second Counts,"Valence=0.55,Arousal=0.39"
+PMEmo,765,Portugal. The Man,Feel It Still,Feel It Still,"Valence=0.76,Arousal=0.80"
+PMEmo,767,Post Malone,Congratulations,Congratulations,"Valence=0.51,Arousal=0.47"
+PMEmo,769,Post Malone,Go Flex,Go Flex,"Valence=0.47,Arousal=0.53"
+PMEmo,770,Íõ×Ó(Prince),1999 (LP Version),Unknown,"Valence=0.61,Arousal=0.56"
+PMEmo,771,Prince,I Would Die 4 U,Purple Rain (Soundtrack from the Motion Picture),"Valence=0.56,Arousal=0.42"
+PMEmo,772,Prince,Kiss (LP Version),Parade - Music From The Motion Picture Under The Cherry Moon,"Valence=0.61,Arousal=0.84"
+PMEmo,773,Íõ×Ó(Prince),Let's Go Crazy (LP Version),Unknown,"Valence=0.65,Arousal=0.75"
+PMEmo,774,Íõ×Ó,Little Red Corvette,The Very Best Of Prince,"Valence=0.75,Arousal=0.64"
+PMEmo,775,Íõ×Ó(Prince),Purple Rain (LP Version),Unknown,"Valence=0.47,Arousal=0.34"
+PMEmo,776,Prince,Raspberry Beret,Around the World In a Day,"Valence=0.51,Arousal=0.64"
+PMEmo,777,Íõ×Ó(Prince),When Doves Cry (LP Version),Unknown,"Valence=0.47,Arousal=0.53"
+PMEmo,778,Rachel Platten,Fight Song,Fight Song,"Valence=0.81,Arousal=0.91"
+PMEmo,779,Radiohead,Creep,Pablo Honey,"Valence=0.41,Arousal=0.75"
+PMEmo,78,韩国群星,Jingle Bell Rock,해피 에로 크리스마스,"Valence=0.66,Arousal=0.50"
+PMEmo,780,Rae Sremmurd,Black Beatles,SremmLife 2,"Valence=0.44,Arousal=0.51"
+PMEmo,783,Rae Sremmurd,Look Alive,Look Alive,"Valence=0.45,Arousal=0.47"
+PMEmo,784,Rae Sremmurd,Swang,SremmLife 2,"Valence=0.35,Arousal=0.45"
+PMEmo,786,Rag'N'Bone Man,Human,Post-Party Workout,"Valence=0.45,Arousal=0.72"
+PMEmo,788,Rag'N'Bone Man,Skin,Skin,"Valence=0.53,Arousal=0.61"
+PMEmo,789,Ramin Djawadi,Light of the Seven,Game of Thrones: Season 6 (Music from the HBO® Series),"Valence=0.12,Arousal=0.35"
+PMEmo,79,°îÇÇÎ¬,Livin¡¯ On A Prayer,Slippery When Wet,"Valence=0.62,Arousal=0.93"
+PMEmo,790,Rascal Flatts,I Like The Sound Of That,Rewind,"Valence=0.72,Arousal=0.69"
+PMEmo,791,Rascal Flatts,Yours If You Want It,Yours If You Want It,"Valence=0.71,Arousal=0.79"
+PMEmo,792,Reba McEntire,Back to God,Sing It Now: Songs of Faith and Hope,"Valence=0.62,Arousal=0.85"
+PMEmo,793,Red Hot Chili Peppers,Dark Necessities,The Getaway,"Valence=0.64,Arousal=0.71"
+PMEmo,794,Red Hot Chili Peppers,We Turn Red,The Getaway,"Valence=0.57,Arousal=0.57"
+PMEmo,796,Rick Ross,Trap Trap Trap,Rather You Than Me,"Valence=0.38,Arousal=0.60"
+PMEmo,797,Rihanna,"Rihanna,Lost Kings - Work (Lost Kings Remix)",Work (Remixes),"Valence=0.78,Arousal=0.64"
+PMEmo,798,Rihanna,Needed Me,Needed Me (Dance Remix),"Valence=0.60,Arousal=0.74"
+PMEmo,799,Rihanna,Sledgehammer,"Sledgehammer (From The Motion Picture ""Star Trek Beyond"")","Valence=0.54,Arousal=0.76"
+PMEmo,8,6LACK,PRBLMS,FREE 6LACK,"Valence=0.23,Arousal=0.39"
+PMEmo,80,Brad Paisley,Without a Fight,Without a Fight,"Valence=0.76,Arousal=0.72"
+PMEmo,801,Rob $tone,Chill Bill,Chill Bill,"Valence=0.29,Arousal=0.34"
+PMEmo,803,Robbie Williams,Love My Life,Heavy Entertainment Show (Deluxe),"Valence=0.75,Arousal=0.69"
+PMEmo,804,David Guetta,Shed A Light,Shed A Light,"Valence=0.65,Arousal=0.68"
+PMEmo,806,Romeo Santos,Héroe Favorito,Héroe Favorito,"Valence=0.72,Arousal=0.61"
+PMEmo,807,Russ,Losin Control,Losin Control,"Valence=0.36,Arousal=0.34"
+PMEmo,808,Russ,What They Want,What They Want,"Valence=0.25,Arousal=0.33"
+PMEmo,809,Ruth B,Lost Boy,Lost Boy,"Valence=0.65,Arousal=0.19"
+PMEmo,81,Brad Paisley,Today,Today,"Valence=0.70,Arousal=0.61"
+PMEmo,810,Ryan Gosling,City Of Stars,La La Land (Original Motion Picture Soundtrack),"Valence=0.65,Arousal=0.41"
+PMEmo,812,Sabrina Carpenter,Thumbs,EVOLution,"Valence=0.69,Arousal=0.80"
+PMEmo,813,Sage the Gemini,Now and Later,Now and Later,"Valence=0.68,Arousal=0.68"
+PMEmo,814,Sam Hunt,Body Like A Back Road,Body Like A Back Road,"Valence=0.74,Arousal=0.71"
+PMEmo,815,Sam Hunt,Drinkin' Too Much (8pm),Drinkin' Too Much,"Valence=0.31,Arousal=0.29"
+PMEmo,816,Sam Hunt,Make You Miss Me(Acoustic Mixtape),Between The Pines (Acoustic Mixtape),"Valence=0.42,Arousal=0.30"
+PMEmo,818,Schoolboy Q,THat Part,THat Part,"Valence=0.14,Arousal=0.28"
+PMEmo,820,Scotty McCreery,Five More Minutes,Five More Minutes,"Valence=0.60,Arousal=0.66"
+PMEmo,821,Sean Paul,No Lie,No Lie,"Valence=0.75,Arousal=0.79"
+PMEmo,823,Selena Gomez,Bad Liar,Bad Liar,"Valence=0.66,Arousal=0.68"
+PMEmo,824,Selena Gomez,Kill Em With Kindness,Revival (Deluxe),"Valence=0.82,Arousal=0.86"
+PMEmo,825,Shaggy,It Wasn't Me,Summer Party,"Valence=0.84,Arousal=0.54"
+PMEmo,827,Shakin' Stevens,Merry Christmas Everyone,The Hits Of Shakin' Stevens Vol II,"Valence=0.82,Arousal=0.60"
+PMEmo,828,Shakira,Chantaje,Chantaje,"Valence=0.60,Arousal=0.65"
+PMEmo,829,Shakira,Hips Don't Lie (2006 FIFA World Cup Mix),单曲- 世界杯之歌-2006国际足联世界杯官方指定专辑 VOICES,"Valence=0.81,Arousal=0.80"
+PMEmo,83,Brantley Gilbert,The Weekend,The Weekend,"Valence=0.72,Arousal=0.78"
+PMEmo,830,Shakira,Me Enamoré,Me Enamoré,"Valence=0.60,Arousal=0.78"
+PMEmo,831,Shakira,Try Everything,Zootopia (Original Motion Picture Soundtrack),"Valence=0.91,Arousal=0.84"
+PMEmo,832,Shawn Mendes,Mercy,Illuminate (Deluxe),"Valence=0.62,Arousal=0.85"
+PMEmo,833,Shawn Mendes,"Stitches(From ""Dance Camp"" Original Motion Picture Soundtrack)",Dance Camp (Original Motion Picture Soundtrack),"Valence=0.70,Arousal=0.80"
+PMEmo,834,Shawn Mendes,There's Nothing Holdin' Me Back,Illuminate (Deluxe),"Valence=0.81,Arousal=0.89"
+PMEmo,835,Shawn Mendes,Treat You Better,Treat You Better,"Valence=0.61,Arousal=0.66"
+PMEmo,836,Sia,The Greatest,This Is Acting (Deluxe Version),"Valence=0.79,Arousal=0.89"
+PMEmo,837,Sia,Cheap Thrills,Cheap Thrills (Remix),"Valence=0.72,Arousal=0.74"
+PMEmo,839,Sia,California Dreamin',San Andreas (Original Motion Picture Soundtrack),"Valence=0.62,Arousal=0.75"
+PMEmo,84,²¼Â×´ï.Àî(Brenda Lee),Rockin' Around The Christmas Tree (Re-Recorded Version),Unknown,"Valence=0.80,Arousal=0.50"
+PMEmo,842,Sia,Helium,Fifty Shades Darker (Original Motion Picture Soundtrack),"Valence=0.35,Arousal=0.60"
+PMEmo,844,Sigma,Find Me,Find Me,"Valence=0.75,Arousal=0.79"
+PMEmo,846,Skrillex,Purple Lamborghini,Suicide Squad: The Album,"Valence=0.54,Arousal=0.93"
+PMEmo,847,Various Artists,Merry Xmas Everybody,Sounds Of Christmas,"Valence=0.76,Arousal=0.51"
+PMEmo,848,Snakehips,Don't Leave,Don't Leave,"Valence=0.51,Arousal=0.71"
+PMEmo,850,Snoop Dogg,Kush Ups,Kush Ups,"Valence=0.61,Arousal=0.78"
+PMEmo,851,Solange,Don't Touch My Hair,A Seat at the Table,"Valence=0.41,Arousal=0.46"
+PMEmo,852,Solange,Cranes in the Sky,A Seat at the Table,"Valence=0.45,Arousal=0.49"
+PMEmo,853,Starley,Call On Me,Call On Me,"Valence=0.62,Arousal=0.65"
+PMEmo,854,Starley,Call on Me,Call on Me (Ryan Riback Remix),"Valence=0.79,Arousal=0.84"
+PMEmo,855,Steve Aoki,Just Hold On,Just Hold On,"Valence=0.78,Arousal=0.88"
+PMEmo,857,Stormzy,Big For Your Boots,Big For Your Boots,"Valence=0.21,Arousal=0.68"
+PMEmo,858,Sturgill Simpson,All Around You,A Sailor's Guide to Earth,"Valence=0.61,Arousal=0.62"
+PMEmo,859,Sundance Head,At Last,At Last (The Voice Performance),"Valence=0.72,Arousal=0.59"
+PMEmo,86,Brett Eldredge,Somethin' I'm Good At,Somethin' I'm Good At,"Valence=0.72,Arousal=0.70"
+PMEmo,860,Sundance Head,Darlin' Don't Go,Darlin' Don't Go (The Voice Performance),"Valence=0.64,Arousal=0.68"
+PMEmo,861,Take That,Giants,Giants,"Valence=0.76,Arousal=0.76"
+PMEmo,862,Taron Egerton,I'm Still Standing,Sing (Original Motion Picture Soundtrack Deluxe),"Valence=0.85,Arousal=0.89"
+PMEmo,863,Taylor Ray Holbrook,Southern Land—Taylor Ray Holbrook & Ryan Upchurch,Southern Land,"Valence=0.62,Arousal=0.57"
+PMEmo,864,Tee Grizzley,First Day Out,First Day Out,"Valence=0.41,Arousal=0.49"
+PMEmo,865,The Chainsmokers,Something Just Like This,Memories...Do Not Open,"Valence=0.79,Arousal=0.89"
+PMEmo,868,The Chainsmokers,Closer,Closer,"Valence=0.62,Arousal=0.70"
+PMEmo,869,The Chainsmokers,All We Know,All We Know,"Valence=0.51,Arousal=0.45"
+PMEmo,87,Brett Eldredge,Wanna Be That Song,Illinois,"Valence=0.60,Arousal=0.66"
+PMEmo,870,The Chainsmokers,Roses,SO FRESH 2016,"Valence=0.56,Arousal=0.65"
+PMEmo,871,The Chainsmokers,Setting Fires,Collage EP,"Valence=0.65,Arousal=0.75"
+PMEmo,876,The Chainsmokers,Paris,Paris,"Valence=0.78,Arousal=0.78"
+PMEmo,879,The Chainsmokers,The One,The One,"Valence=0.64,Arousal=0.49"
+PMEmo,88,Brett Young,In Case You Didn't Know,Brett Young,"Valence=0.59,Arousal=0.62"
+PMEmo,880,The Dave Clark Five,Glad All Over,Glad All Over,"Valence=0.54,Arousal=0.68"
+PMEmo,881,The Game,All Eyez (Feat. Jeremih),All Eyez,"Valence=0.60,Arousal=0.59"
+PMEmo,882,The Killers,Mr. Brightside,Hot Fuss,"Valence=0.60,Arousal=0.85"
+PMEmo,883,Wyclef Jean,Kiss The Sky (feat. Wyclef Jean),Kiss The Sky,"Valence=0.72,Arousal=0.86"
+PMEmo,884,The Lumineers,Ophelia,Cleopatra (Deluxe),"Valence=0.76,Arousal=0.71"
+PMEmo,885,The Notorious BIG,Hypnotize,Life After Death,"Valence=0.49,Arousal=0.42"
+PMEmo,886,The Pogues,Fairytale Of New York,The Ultimate Collection,"Valence=0.72,Arousal=0.53"
+PMEmo,888,The Revivalists,02 Wish I Knew You,Men Amongst Mountains,"Valence=0.68,Arousal=0.68"
+PMEmo,889,The Strumbellas,Spirits,Spirits,"Valence=0.75,Arousal=0.84"
+PMEmo,89,Brett Young,Sleep Without You,Brett Young,"Valence=0.75,Arousal=0.69"
+PMEmo,890,The Vamps,All Night,All Night,"Valence=0.79,Arousal=0.79"
+PMEmo,892,The Weeknd,I Feel It Coming,I Feel It Coming,"Valence=0.65,Arousal=0.66"
+PMEmo,894,The Weeknd,All I Know,Starboy,"Valence=0.38,Arousal=0.38"
+PMEmo,895,The Weeknd,Sidewalks,Starboy,"Valence=0.51,Arousal=0.64"
+PMEmo,896,The Weeknd,A Lonely Night,Starboy,"Valence=0.64,Arousal=0.76"
+PMEmo,897,The Weeknd,Acquainted,Beauty Behind The Madness,"Valence=0.56,Arousal=0.39"
+PMEmo,9,A Boogie Wit Da Hoodie,Timeless,TBA,"Valence=0.29,Arousal=0.45"
+PMEmo,90,Britney Spears,Make Me...,Make Me...,"Valence=0.49,Arousal=0.65"
+PMEmo,900,The Weeknd,Die For You,Starboy,"Valence=0.54,Arousal=0.65"
+PMEmo,903,The Weeknd,Love To Lay,Starboy,"Valence=0.60,Arousal=0.76"
+PMEmo,904,The Weeknd,Nothing Without You,Starboy,"Valence=0.56,Arousal=0.70"
+PMEmo,905,The Weeknd,Ordinary Life,Starboy,"Valence=0.57,Arousal=0.47"
+PMEmo,906,The Weeknd,Party Monster,Starboy,"Valence=0.44,Arousal=0.33"
+PMEmo,907,The Weeknd,Reminder,Starboy,"Valence=0.56,Arousal=0.50"
+PMEmo,908,The Weeknd,Rockin',Starboy,"Valence=0.66,Arousal=0.75"
+PMEmo,909,The Weeknd,Secrets,Starboy,"Valence=0.66,Arousal=0.82"
+PMEmo,91,Britney Spears,Slumber Party,Glory (Deluxe Version),"Valence=0.74,Arousal=0.86"
+PMEmo,911,The Weeknd,Six Feet Under,Starboy,"Valence=0.39,Arousal=0.53"
+PMEmo,913,The Weeknd,Stargirl Interlude,Starboy,"Valence=0.28,Arousal=0.35"
+PMEmo,915,The White Stripes,Seven Nation Army,Pay Close Attention : XL Recordings,"Valence=0.57,Arousal=0.69"
+PMEmo,916,The xx,On Hold,I See You,"Valence=0.34,Arousal=0.21"
+PMEmo,917,Thomas Rhett,"Thomas Rhett,Maren Morris - Craving You",Craving You,"Valence=0.66,Arousal=0.74"
+PMEmo,918,Thomas Rhett,Die A Happy Man,Die A Happy Man,"Valence=0.64,Arousal=0.40"
+PMEmo,919,Thomas Rhett,Star Of The Show,Tangled Up (Deluxe),"Valence=0.74,Arousal=0.60"
+PMEmo,92,Britney Spears,Make Me...,Make Me...,"Valence=0.57,Arousal=0.65"
+PMEmo,921,Thomas Rhett,Vacation,Tangled Up,"Valence=0.56,Arousal=0.47"
+PMEmo,922,Various Artists,Sunshine (Radio Edit),Go Hard or Go Home - Ministry of Sound,"Valence=0.74,Arousal=0.76"
+PMEmo,924,Tim Mcgraw,Speak to a Girl,Speak to a Girl,"Valence=0.65,Arousal=0.61"
+PMEmo,925,Tim Mcgraw,How I'll Always Be,Damn Country Music (Deluxe Edition),"Valence=0.61,Arousal=0.59"
+PMEmo,926,Tim Mcgraw,Humble and Kind,Damn Country Music,"Valence=0.49,Arousal=0.25"
+PMEmo,927,Tinashe,Tinashé - Superlove,Superlove,"Valence=0.65,Arousal=0.56"
+PMEmo,928,Tinie Tempah,Text from Your Ex,Text fom Your Ex,"Valence=0.82,Arousal=0.84"
+PMEmo,929,Tom Zanetti,You Want Me,You Want Me,"Valence=0.34,Arousal=0.60"
+PMEmo,93,Various Artists,Broadway+For+Orlando,The Sound Of Dance In 2000,"Valence=0.65,Arousal=0.61"
+PMEmo,931,Tory Lanez,LUV,LUV,"Valence=0.50,Arousal=0.44"
+PMEmo,932,Tove Lo,Cool Girl,Cool Girl,"Valence=0.66,Arousal=0.70"
+PMEmo,933,Train,Play That Song,Play That Song,"Valence=0.74,Arousal=0.81"
+PMEmo,934,Travis Scott,Beibs in the Trap,Birds in the Trap Sing McKnight,"Valence=0.39,Arousal=0.49"
+PMEmo,935,Travis Scott,Goosebumps,Birds in the Trap Sing McKnight,"Valence=0.39,Arousal=0.51"
+PMEmo,936,Trey Songz,Nobody Else But You,Nobody Else But You,"Valence=0.45,Arousal=0.41"
+PMEmo,937,Troye Sivan,WILD,WILD,"Valence=0.59,Arousal=0.60"
+PMEmo,938,Troye Sivan,YOUTH,Blue Neighbourhood (Deluxe),"Valence=0.75,Arousal=0.72"
+PMEmo,939,Tucker Beathard,Rock On,The Demos,"Valence=0.66,Arousal=0.72"
+PMEmo,94,Brooklyn and Bailey,Dance Like Me,Dance Like Me,"Valence=0.80,Arousal=0.76"
+PMEmo,940,Twenty One Pilots,Heathens,TOPxMM,"Valence=0.50,Arousal=0.62"
+PMEmo,941,Twenty One Pilots,Cancer,Cancer,"Valence=0.30,Arousal=0.12"
+PMEmo,943,Twenty One Pilots,Ride,Blurryface Live,"Valence=0.49,Arousal=0.62"
+PMEmo,945,Twenty One Pilots,02 - Stressed Out,Blurryface,"Valence=0.57,Arousal=0.68"
+PMEmo,946,Tyga,Feel Me,Feel Me,"Valence=0.40,Arousal=0.42"
+PMEmo,948,Usher,No Limit [dirty],No Limit,"Valence=0.40,Arousal=0.49"
+PMEmo,950,Usher,Yeah,Confessions (Special edition),"Valence=0.69,Arousal=0.70"
+PMEmo,951,Various Artists,Hands,Handsddd,"Valence=0.75,Arousal=0.62"
+PMEmo,952,Lil Wayne,Running Back (feat. Lil Wayne),Running Back (feat. Lil Wayne),"Valence=0.49,Arousal=0.53"
+PMEmo,953,Wale,My PYT,My PYT,"Valence=0.55,Arousal=0.34"
+PMEmo,957,Wiz Khalifa,Pull Up (feat. Lil Uzi Vert),Pull Up,"Valence=0.34,Arousal=0.53"
+PMEmo,958,Wizzard,I Wish It Could Be Christmas Everyday,I Wish It Could Be Christmas Everyday,"Valence=0.86,Arousal=0.82"
+PMEmo,959,Various Artists,X Ambassadors - Unsteady (Erich Lee Gravity Remix),Me Before You (Original Motion Picture Soundtrack),"Valence=0.45,Arousal=0.80"
+PMEmo,96,Bruno Mars,24K Magic,24K Magic,"Valence=0.82,Arousal=0.88"
+PMEmo,962,XXXTENTACION,Look At Me!,Look At Me!,"Valence=0.20,Arousal=0.64"
+PMEmo,964,YFN Lucci,Everyday We Lit,Everyday We Lit,"Valence=0.60,Arousal=0.54"
+PMEmo,965,YG,Why You Always Hatin?,Why You Always Hatin?,"Valence=0.54,Arousal=0.50"
+PMEmo,966,Yo Gotti,Law,The Art of Hustle (Deluxe),"Valence=0.45,Arousal=0.57"
+PMEmo,967,Yo Gotti,Law,The Art of Hustle (Deluxe),"Valence=0.51,Arousal=0.68"
+PMEmo,968,Young Greatness,Moolah,Moolah,"Valence=0.40,Arousal=0.49"
+PMEmo,969,Young M.a.,YOUNG MA - OOOUUU (intro),Ooouuu,"Valence=0.17,Arousal=0.51"
+PMEmo,97,Bruno Mars,Perm,24K Magic,"Valence=0.75,Arousal=0.85"
+PMEmo,970,Travis Scott,Pick Up the Phone,Pick Up the Phone,"Valence=0.49,Arousal=0.70"
+PMEmo,971,Young Thug,Gang Up,Fast & Furious 8: The Album,"Valence=0.55,Arousal=0.59"
+PMEmo,973,ZAYN,PILLOWTALK REMIX,PILLOWTALK REMIX,"Valence=0.60,Arousal=0.57"
+PMEmo,974,ZAYN,Still Got Time,Still Got Time,"Valence=0.59,Arousal=0.62"
+PMEmo,978,Zac Brown Band,Castaway,JEKYLL + HYDE,"Valence=0.72,Arousal=0.69"
+PMEmo,979,Zac Brown Band,My Old Man,My Old Man,"Valence=0.51,Arousal=0.36"
+PMEmo,98,Bruno Mars,That's What I Like,24K Magic,"Valence=0.65,Arousal=0.74"
+PMEmo,980,Zac Brown Band,Roots,Welcome Home,"Valence=0.72,Arousal=0.64"
+PMEmo,981,MNEK,Never Forget You,The Remixes,"Valence=0.60,Arousal=0.80"
+PMEmo,983,Zara Larsson,Ain't My Fault,Ain't My Fault,"Valence=0.50,Arousal=0.78"
+PMEmo,984,Zara Larsson,I Would Like,I Would Like,"Valence=0.74,Arousal=0.82"
+PMEmo,985,Zara Larsson,Lush Life,Lush Life,"Valence=0.70,Arousal=0.75"
+PMEmo,989,Zay Hilfigerrr,Juju On That Beat (TZ Anthem),This Is A Challenge,"Valence=0.31,Arousal=0.57"
+PMEmo,99,Bruno Mars,Versace On The Floor,24K Magic,"Valence=0.69,Arousal=0.69"
+PMEmo,992,Zayion McCall,JuJu On Dat Beat,Why So Serious?,"Valence=0.36,Arousal=0.46"
+PMEmo,993,Zedd,Stay,Stay,"Valence=0.76,Arousal=0.86"
+PMEmo,996,offaiah,Trouble,Trouble,"Valence=0.56,Arousal=0.88"
+PMEmo,997,방탄소년단,A Supplementary Story : You Never Walk Alone,YOU NEVER WALK ALONE,"Valence=0.66,Arousal=0.71"
+PMEmo,999,방탄소년단,Outro : Wings,YOU NEVER WALK ALONE,"Valence=0.78,Arousal=0.88"

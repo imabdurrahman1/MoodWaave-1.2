@@ -1,0 +1,5 @@
+model,description,parameter_count,serialized_size_mb,latency_mean_ms,latency_std_ms,latency_median_ms,latency_status
+MOODWAAVE-Lite,71 Librosa features + LightGBM,N/A (Tree Ensemble),4.08,197.59,48.71,176.84,Provisional (Single thread; benchmarked in P5 session on 100 GTZAN tracks)
+MOODWAAVE-Full,113 Librosa features + LightGBM,N/A (Tree Ensemble),6.37,1746.68,92.53,1717.37,Provisional (Single thread; measured in earlier final_consolidation session on 100 tracks)
+SmallMelCNN (scratch),4-block ConvNet on log-mel (10-crop logit avg),"98,682",0.39,102.14,12.93,98.74,Provisional (Single thread; benchmarked in P5 session on 100 GTZAN tracks)
+VGGish + Logistic Regression,Pretrained VGGish (mean+std pool) + LogReg,"72,157,696",275.22,1132.76,26.24,1134.34,Provisional (Single thread; benchmarked in P5 session on 100 GTZAN tracks)
